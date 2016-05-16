@@ -37,7 +37,7 @@ To get basic data access on behalf of an application (see user timelines, search
 To interact with Twitter on behalf of a user. The application first needs to obtain an `access token` and `token secret` from Twitter to be able to make authenticated requests.
 The idea is to provide Twitter the details of the application and a user, who can decide whether he/she authorizes our application to perform certain operations. Once it's confirmed, neccesary signatures are generated and can be included in the requests.
 
-*Tweepy example (for personal use)*
+**Tweepy example (for personal use)**
 
 ```python
 import tweepy
