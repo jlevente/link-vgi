@@ -10,10 +10,6 @@ and adding data of interesting to our output. Outputs can be anything that can b
 Python code snippet to get tweets within a radius of a given point and write results to a csv file. We can pick any properties from the `Example Result` section of the [API documentation](https://dev.twitter.com/rest/reference/get/search/tweets).
 For simplicity, let's export some basic information, like username, tweet id, message of the post, timestamp of post, and a latitude-longitude coordinate pair corresponding to the location.
 ```python
-'''
-Export tweets within a given radius of a center point to a CSV format
-username,tweet_id,text,created_at,lat,lon
-'''
 import tweepy
 import csv
 
@@ -57,11 +53,8 @@ with open("tweet_export.csv", "wb") as csvfile:
 
 ### GeoJSON
 
-Python code snippet to query Instagram locations for a given area and export results to a GeoJSON file.
+Python code snippet to query Instagram locations for a given area and export results to a GeoJSON file. We're using the [**locations/search**](https://www.instagram.com/developer/endpoints/locations/) method from Instagram API.
 ```python
-'''
-Export Instagram locations as a GeoJSON
-'''
 from instagram.client import InstagramAPI
 import json
 
