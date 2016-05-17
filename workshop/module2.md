@@ -30,7 +30,7 @@ auth.set_access_token(access_key, access_secret)
 api = tweepy.API(auth)
 
 # Get some tweets around a center point (see http://docs.tweepy.org/en/v3.5.0/api.html#API.search)
-tweets = api.search(geocode='37.781157,-122.398720,1km')
+tweets = api.search(geocode='60.1694461,24.9527073,1km')
 
 data = {
     "username": "",
@@ -49,8 +49,8 @@ with open("tweet_export.csv", "wb") as csvfile:
         data["tweet_id"] = tweet.id
         data["text"] = tweet.text.encode('utf-8')
         data["created_at"] = str(tweet.created_at)
-        data["lat"] = tweet.geo['coordinates'][0]
-        data["lon"] = tweet.geo['coordinates'][1]
+        data["lon"] = tweet.geo['coordinates'][0]
+        data["lat"] = tweet.geo['coordinates'][1]
         writer.writerow(data)
 
 ```
@@ -70,8 +70,8 @@ client_secret = "Your client secret"
 # Access token can be manually generated with generate_access_token.py !
 access_token = "Access token aquired from a user"
 
-api = InstagramAPI(access_token=params.access_token, client_secret=params.client_secret)
-locations = api.location_search(lat=60.1694461, lng=24.9527073, distance=100, count=100)
+api = InstagramAPI(access_token=access_token, client_secret=client_secret)
+locations = api.location_search(lat=60.1694461, lng=24.9527073, distance=50, count=100)
 
 geojson = {
         "type": "FeatureCollection",
@@ -83,17 +83,17 @@ for loc in locations:
         "type": "Feature",
         "geometry": {
             "type": "Point",
-                "coordinates": [o["l"]["lon"], o["l"]["lat"]
+                "coordinates": [loc.point.longitude, loc.point.latitude]
         },
         "properties": {
-            "image_keys": objects[o["key"]]["mkeys"],
-            "value": objects[o["key"]]["value"]
+            "name": loc.name
         }
     }
     geojson["features"].append(feature)
 
 f = open("my_instagram_locations.geojson", "w")
 f.write(json.dumps(geojson))
+f.close()
 ```
 
 ### Shapefile
