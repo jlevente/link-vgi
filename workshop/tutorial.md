@@ -2,11 +2,11 @@
 
 ## Module 1
 
-[*Interacting with APIs*](module1.md)
+[**Interacting with APIs**](module1.md)
 
 ## Module 2
 
-[*Exporting data from APIs*](module2.md)
+[**Exporting data from APIs**](module2.md)
 
 ## Module 3 Extracting summary statistics
 
