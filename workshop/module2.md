@@ -164,6 +164,7 @@ Then run the following Python script.
 ```python
 import psycopg2
 import json
+import requests
 
 def query_nodes(bbox):
     # OverpassAPI url
