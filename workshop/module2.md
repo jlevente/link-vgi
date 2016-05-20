@@ -91,4 +91,108 @@ f.close()
 
 ### Shapefile
 
+Python code snippet to query for Mapillary photos in a given area and export them as a shapefile. We are using the [**/search/im**](https://a.mapillary.com/#get-searchim) method.
+
+```python
+import requests
+import json
+import shapefile
+from datetime import datetime
+
+mapillary_api_url = "https://a.mapillary.com/v2/"
+api_endpoint = "search/im"
+client_id = "Your Mapillary Client ID"
+
+request_params = {
+    "client_id": client_id,
+    "min_lat": 60.1693326154,
+    "max_lat": 60.17107241,
+    "min_lon": 24.9497365952,
+    "max_lon": 24.9553370476,
+    "limit": 100
+}
+
+# Make a GET requests 
+photos = requests.get(mapillary_api_url + api_endpoint + '?client_id=' +  client_id + '&min_lat=60.1693326154&max_lat=60.17107241&min_lon=24.9497365952&max_lon=24.9553370476')
+photos = json.loads(photos.text)
+
+# Init shapefile
+writer = shapefile.Writer(shapefile.POINT)
+writer.autoBalance = 1
+writer.field('image_url', 'C')
+writer.field('captured_at', 'C')
+writer.field('username', 'C')
+writer.field('camera_angle', 'C')
+
+# Add each photo to shapefile
+for photo in photos:
+    writer.point(photo['lon'], photo['lat'])
+    writer.record(image_url='http://mapillary.com/map/im/' + photo['key'], username=photo['user'], camera_angle=str(photo['ca']), captured_at=str(datetime.fromtimestamp(photo['captured_at']/1000)))
+writer.save('my_mapillary_photos.shp')
+file = open(filename + '.prj', 'w')
+file.write('GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]')
+file.close()
+```
+
 ### PostGIS
+
+PostgreSQL is the leading open source Relational Database Management System. The PostGIS extension allows to execute any geospatial operations in a highly customizable manner.
+Here's a more complex python script to
+1. export locations of obtaining [drinking water](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddrinking_water) from OSM'a OverpassAPI and
+2. importing it to a sptially enabled PostgreSQL database.
+
+First, you need to manually create a database and perform some neccesary steps, for example enabling PostGIS and creating a table for your data.
+
+```sql
+CREATE EXTENSION postgis;
+CREATE EXTENSION hstore;
+CREATE TABLE drinking_water (
+    id bigint,
+    user varchar,
+    user_id int,
+    created_at timestamp,
+    version int,
+    changeset int,
+    tags hstore
+    
+);
+SELECT AddGeometryColumn('drinking_water', 'geom', 4326, 'POINT', 2);
+```
+Then run the following Python script.
+```python
+import psycopg2
+
+def query_nodes(bbox):
+    # OverpassAPI url
+    overpassAPI = 'http://overpass-api.de/api/interpreter'
+
+    postdata = '''
+    [out:json][bbox:%s][timeout:120];
+    (
+        node["amenity"="drinking_water"]
+    );
+    out geom;
+    out meta;
+    >;
+    '''
+
+    data = requests.post(overpassAPI, postdata % (bbox))
+    data = json.loads(data.text)
+    return data
+
+def upload_data(data):
+    with_no_geom = 0
+    sql = 'INSERT INTO drinking_water (id, user, user_id, created_at, version, changeset, tags, geom) VALUES (%s, %s, %s, %s, %s, %s, ST_SetSRID(ST_MakePoint(%s, %s), 4326));'
+    conn = psycopg2.connect(host='localhost', user='postgres', password='postgres', dbname='osm_data')
+    psycopg2.extras.register_hstore(conn)
+    cursor = conn.cursor()
+    for node in data['elements']:
+        cursor.execute(sql,(node['id'], node['user'], node['uid'], node['timestamp'], node['version'], node['changeset'], node['lon'], node['lat']))
+    conn.commit()
+
+# Lago Maggiore
+bbox = '45.698507, 8.44299,46.198844,8.915405'
+
+drinking_water = query_nodes(bbox)
+upload_data(drinking_water)
+```

@@ -82,7 +82,8 @@ You can use `http://localhost` as your Redirect URI and then copy the code from 
 
 ### OpenStreetMap
 
-Most of the API functions work without authentication. However, all calls that try to create, modify or delete any OSM data need to be authenticated. Consult the Wiki for the [basic authentication](https://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](http://wiki.openstreetmap.org/wiki/OAuth).
+Most of the API functions work without authentication. However, all calls that try to create, modify or delete any OSM data need to be authenticated (i.e. a user to be logged in).
+Consult the Wiki for the [basic authentication](https://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](http://wiki.openstreetmap.org/wiki/OAuth).
 
 ## API methods
 
