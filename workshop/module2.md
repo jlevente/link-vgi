@@ -158,9 +158,12 @@ CREATE TABLE drinking_water (
 );
 SELECT AddGeometryColumn('drinking_water', 'geom', 4326, 'POINT', 2);
 ```
+
 Then run the following Python script.
+
 ```python
 import psycopg2
+import json
 
 def query_nodes(bbox):
     # OverpassAPI url
