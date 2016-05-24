@@ -34,6 +34,7 @@ The [`ggmap` *](https://journal.r-project.org/archive/2013-1/kahle-wickham.pdf) 
 library('ggplot2')
 library('plyr')
 library('wordcloud')
+library('ggmap')
 
 center <- c(lon=mean(locations$lon), lat=mean(locations$lat))
 background <- get_map(location=center, source='osm', zoom=15)
