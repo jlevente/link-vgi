@@ -8,7 +8,9 @@
 
 [**Exporting data from APIs**](module2.md)
 
-## Module 3 Extracting summary statistics
+## Module 3
+
+[**Extracting summary statistics from an R environment**](module3.md)
 
 ## Case studies
 

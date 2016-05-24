@@ -138,8 +138,9 @@ file.close()
 
 PostgreSQL is the leading open source Relational Database Management System. The PostGIS extension allows to execute any geospatial operations in a highly customizable manner.
 Here's a more complex python script to
-1. export locations of obtaining [drinking water](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddrinking_water) from OSM'a OverpassAPI and
-2. importing it to a sptially enabled PostgreSQL database.
+
+1. export locations of obtaining [drinking water](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddrinking_water) from OSM's OverpassAPI and
+2. place data in a sptially enabled PostgreSQL database.
 
 First, you need to manually create a database and perform some neccesary steps, for example enabling PostGIS and creating a table for your data.
 
