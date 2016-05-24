@@ -18,7 +18,7 @@ class InstaHandler(object):
 
     def find_locations(self, lat, lng, radius):
         try:
-            locations = self.api.location_search(lat=lat, lng=lng, distance=radius, count=33)
+            locations = self.api.location_search(lat=lat, lng=lng, distance=radius, count=2)
             #print(len(locations))
             # If response hits the limit
             # Limit = 33
@@ -91,7 +91,7 @@ class InstaHandler(object):
     def dump_csv(self):
         with open ('locations.csv', 'wb') as csvfile:
             fieldnames = ["id", "name", "lat", "lon"]
-            writer = csv.DictWriter(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL, fieldnames=fieldnames)
+            writer = csv.DictWriter(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL, fieldnames=fieldnames)
             writer.writeheader()
             for location in self.LOCATION_LIST:
                 try:
@@ -101,8 +101,8 @@ class InstaHandler(object):
         csvfile.close()
 
         with open('photos.csv', 'wb') as csvfile:
-            fieldnames = ["id", "username", "url", "photo_url", "created_at", "text", "tagged_users", "likes", "comments", "filter","location_id"]
-            writer = csv.DictWriter(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL, fieldnames=fieldnames)
+            fieldnames = ["id", "username", "url", "photo_url", "created_at", "caption", "tagged_users", "likes", "comments", "filter","location_id"]
+            writer = csv.DictWriter(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL, fieldnames=fieldnames)
             writer.writeheader()
             for photo in self.PHOTO_LIST:
                 # Skip special Unicode characters for now
