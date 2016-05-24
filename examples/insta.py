@@ -18,7 +18,7 @@ class InstaHandler(object):
 
     def find_locations(self, lat, lng, radius):
         try:
-            locations = self.api.location_search(lat=lat, lng=lng, distance=radius, count=2)
+            locations = self.api.location_search(lat=lat, lng=lng, distance=radius, count=33)
             #print(len(locations))
             # If response hits the limit
             # Limit = 33
@@ -68,8 +68,8 @@ class InstaHandler(object):
                             "id": media.id.split('_')[0],
                             "username": unicode(media.user.username).encode('utf8'),
                             "user_id": media.user.id,
-                            "likes": len(media.likes),
-                            "comments": len(media.comments),
+                            "likes": media.like_count,
+                            "comments": media.comment_count,
                             "tagged_users": len(media.users_in_photo),
                             "filter": media.filter,
                             "caption": unicode(text).encode('utf8'),
@@ -89,6 +89,7 @@ class InstaHandler(object):
                 self.photo_in_location(location_id, media.id.split('_')[0])
 
     def dump_csv(self):
+        hashtags = []
         with open ('locations.csv', 'wb') as csvfile:
             fieldnames = ["id", "name", "lat", "lon"]
             writer = csv.DictWriter(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL, fieldnames=fieldnames)
@@ -105,6 +106,8 @@ class InstaHandler(object):
             writer = csv.DictWriter(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL, fieldnames=fieldnames)
             writer.writeheader()
             for photo in self.PHOTO_LIST:
+                for hashtag in photo['tags']:
+                    hashtags.append(hashtag)
                 # Skip special Unicode characters for now
                 try:
                     writer.writerow({key:value for key, value in photo.items()if key in fieldnames})
@@ -112,9 +115,18 @@ class InstaHandler(object):
                     continue
         csvfile.close()
 
+        # Simplest way to dump csv without csv module
+        file = open('hashtags.csv', 'wb')
+        for hashtag in hashtags:
+            try:
+                file.write(hashtag + '\n')
+            except UnicodeEncodeError:
+                continue
+        file.close()
+
 handler = InstaHandler()
 
-center_points = [(60.1698712,24.9533877)]
+center_points = [(60.1698712,24.9533877), (60.1673931,24.9459235)]
 
 # Set search radius to 100 m
 radius = 100
