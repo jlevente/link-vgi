@@ -4,7 +4,7 @@ import urllib
 import csv
 
 api_key = 'API-KEY'
-csv_path = 'wheelmap_python.csv'
+csv_path = 'wheelmap_helsinki.csv'
 
 class WheelmapItem:
 	def __init__(self, name, osm_id, lat, lon, category, node_type, accessible):
@@ -24,7 +24,9 @@ class WheelmapItem:
 
 def getWheelmapNodes(ll_lat, ll_lon, ur_lat, ur_lon, page, accessible):
 	bbox = str(ll_lat) + ',' + str(ll_lon) + ',' + str(ur_lat) + ',' + str(ur_lon)
-	url = 'http://wheelmap.org/api/nodes?api_key=' + api_key + '&bbox=' + bbox + '&wheelchair=' + accessible + '&page=' + str(page)
+	url = 'http://wheelmap.org/api/nodes?api_key=' + api_key + '&bbox=' + bbox + '&page=' + str(page)
+	if accessible != None:
+		url = url + '&wheelchair=' + accessible
 	headers = {'User-Agent':'Python'}
 	
 	req = urllib2.Request(url, None, headers)
@@ -35,7 +37,7 @@ def getWheelmapNodes(ll_lat, ll_lon, ur_lat, ur_lon, page, accessible):
 
 # When we get the first load of data we can read the meta info to see how many pages there are in total
 
-firstPage = getWheelmapNodes(24.899319,60.150223,24.986683,60.177915,1,'yes')
+firstPage = getWheelmapNodes(24.899319,60.150223,24.986683,60.177915,1,None)
 numPages = firstPage['meta']['num_pages']
 
 # so now we need to loop through each page and store the info
@@ -43,7 +45,7 @@ pagedData = []
 pagedData.append(firstPage)
 
 for i in range (2,numPages+1):
-	pagedData.append(getWheelmapNodes(24.899319,60.150223,24.986683,60.177915,i,'yes'))
+	pagedData.append(getWheelmapNodes(24.899319,60.150223,24.986683,60.177915,i,None))
 
 # now that we have the data we should go through and create a list of items 
 # for now we will store the name, location, category, node type, accessibility and osm id
