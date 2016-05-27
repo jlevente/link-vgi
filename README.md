@@ -24,6 +24,12 @@ Follow the guides of [this page](https://wiki.python.org/moin/BeginnersGuide/Dow
 
 #### python-facebook [optional for mapping_behavior example]
 
+#### [python-flickrapi](https://pypi.python.org/pypi/flickrapi) - https://pypi.python.org/pypi/flickrapi
+
+```
+pip install flickrapi
+```
+
 ### R Statistics
 
 You can follow numerous guides out there to download and install R.
