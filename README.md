@@ -24,7 +24,8 @@ Follow the guides of [this page](https://wiki.python.org/moin/BeginnersGuide/Dow
 
 #### python-facebook [optional for mapping_behavior example]
 
-#### [python-flickrapi](https://pypi.python.org/pypi/flickrapi) - https://pypi.python.org/pypi/flickrapi
+#### python-flickrapi
+Info can be found [here](https://pypi.python.org/pypi/flickrapi). Install using pip
 
 ```
 pip install flickrapi
