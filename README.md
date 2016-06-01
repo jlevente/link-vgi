@@ -35,7 +35,7 @@ pip install flickrapi
 
 You can follow numerous guides out there to download and install R.
 
-#### Ununtu
+#### Ubuntu
 
 ```
 sudo apt-get update
@@ -64,6 +64,13 @@ install.packages('lubridate')
 install.paclages('plyr')
 install.packages('Reshape2')
 ```
+
+### QGIS [optional]
+QGIS can be used for analysing a number of the datasets obtained within this workshop. As well as being suitable for creating visualisations and assessments of the data, a plugin has also been developed that can be used for viewing images identified from the datasources such as Flickr and Mapillary. 
+#### Image Viewer Plugin
+To install this plugin, go to Plugins->manage and Install Plugins and then under "Settings" - "Plugin repositories" add a new repository with the URL of http://cap4navi.geog.uni-heidelberg.de/link-vgi/qgis-plugins/qgis-repo.xml , along with a name (it doesn't matter what name you use, this is just so you can identify where the plugins come from) followed by clicking the "OK" button. Right click on the newly added entry (there should be a green icon next to it and the text "connected") and choose "Only show plugins from selected repository". This will make it easier to find the plugin. Also, make sure that the "Show experimental plugins" checkbox on the settings page has been checked. Now go to "Uninstalled", click on the Image Viewer plugin and select install.
+
+To use the plugin, either click on the new icon in the toolbar (a yellow square with a small arrow and camera) or select it from the Plugins->Image Viewer menu. You will also need to have imported the csv files with the actual points in as layers. When the plugin window is open, select from the drop down box which type of image you are going to be selecting (Mapillary, Flickr or Instagram) and then make sure that the corresponding layer has been selected in the Layers panel of QGIS. Now, when you click on one of the points form this layer, the image will be shown in the plugin window.
 
 ### API Keys
 
