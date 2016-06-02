@@ -22,6 +22,9 @@ You can file a submissions to bring your app `Live`, however it is unknown what 
 
 Log in at [mapillary.com](http://mapillary.com) and navigate to `Settings` -> `Integrations` -> `Register an application`. Give your app your name, set up additional permissions levels if needed and hit Create. You'll instantly have access to your Client ID and secret that can be included in API requests.
 
+#### Flickr
+Log in at [flickr.com](http://flickr.com) and go to the `Sharing & Extending` area of your account settings (click on your profile icon in the top right -> `Settings`-> `Sharing & Extending`). Click on the link next to `Your API keys` and click on `Get another key` followed by `Apply for non-commercial key`. Enter the required information and click the `Submit` button to get a key for use.
+
 ## Making requests in a python environment
 
 Altough APIs can be used from any environment that can handle HTPP requests, it is beneficial to make use of existing API wrappers. These wrappers are usually developed based on the API documentation, often by 3rd parties and they
@@ -86,6 +89,13 @@ You can use `http://localhost` as your Redirect URI and then copy the code from 
 
 Most of the API functions work without authentication. However, all calls that try to create, modify or delete any OSM data need to be authenticated (i.e. a user to be logged in).
 Consult the Wiki for the [basic authentication](https://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](http://wiki.openstreetmap.org/wiki/OAuth).
+
+### Wheelmap
+
+Although Wheelmap data is primarily based on the OSM dataset, an API key is required for requests. This key needs to be passed in the query string of the HTTP request in the form &api_key=xxx. The key can be obtained from the [user profile](https://wheelmap.org/profile/edit) area of the Wheelmap site after logging in with an OSM account.
+
+### Flickr
+For making requests to the Flickr API, an api_key is required for most interaction. After signing in to Flickr, the key can be found in the [Account Settings page](https://www.flickr.com/account/sharing/).
 
 ## API methods
 
