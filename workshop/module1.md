@@ -28,6 +28,8 @@ Altough APIs can be used from any environment that can handle HTPP requests, it 
 purpose is to tackle some technical challenges for developers, making interactions easier. Using API wrappers in python is an easy way to start with.
 Some examples are [Tweepy](https://github.com/tweepy/tweepy) for Twitter, [python-instagram](https://github.com/facebookarchive/python-instagram) for Instagram or even a low level package for [Overpass API](https://github.com/mvexel/overpass-api-python-wrapper).
 
+In some cases however, such as with Wheelmap, easy to use API wrappers are not readily available. In those cases, data can still be obtained relatively easily, though some basic knowledge of HTTP communication is required. The bulk of the HTTP communication can be done through inbuilt packages (urllib2 in Python for example) specifically aimed at facilitating communication of data over HTTP connections in a straightforward manner.
+
 ## Authentication
 
 In order to use APIs, these systems often require authentication from the developer's side. This is to protect user's privacy, monitor usage intensity and in general to govern the different levels of data access.
