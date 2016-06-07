@@ -3,7 +3,7 @@ The purpose of this exercise is to assess the accessibility of popular locations
 Within this exercise, you will use images from Flickr as a proxy to popular locations, based on the assumption that areas with a high density of images taken there will be a popular location. These locations will then be given an accessibilty value based on the closest POI obtained from Wheelmap.
 
 ## Wheelmap
-[Wheelmap](http://wheelmap.org) is a service developed by Soyialhelden in Berlin which aims at allowing users to view and edit whether a place is accessible to wheelchair users. The base data used are POI features from OSM, with the accessibilty information being stored agains the POI in the OSM dataset. The possible values for this accessibility are "yes", "limited", "no" and "unknown".
+[Wheelmap](http://wheelmap.org) is a service developed by Sozialhelden in Berlin which aims at allowing users to view and edit whether a place is accessible to wheelchair users. The base data used are POI features from OSM, with the accessibilty information being stored agains the POI in the OSM dataset. The possible values for this accessibility are "yes", "limited", "no" and "unknown".
 
 ## Flickr
 [Flickr](http://flickr.com) is a widely used platform for uploading and sharing photogrpahs. As many cameras and smartphones now include in built GPS technology, a number of these photographs are geotagged when they are taken. This information is then uploaded alongside the image and the images can be searched for by geographic location.
