@@ -69,7 +69,7 @@ for lyr in layers:
 	if lyr.name() == "foursquare_venues_helsinki":
 		fsl = lyr
 
-vl = QgsVectorLayer('LineString?crs=epsg:4326', 'Layer 1', "memory")
+vl = QgsVectorLayer('LineString?crs=epsg:4326', 'Linked features', "memory")
 vp = vl.dataProvider()
 vl.startEditing()
 count = 0
