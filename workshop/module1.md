@@ -131,3 +131,101 @@ for tweet in tweets:
     print "---"
     
 ```
+
+### Methods using a HTTP object
+As mentioned earlier, not all APIs have a wrapper available to make communication easy. One example of these is Wheelmap. In the case that a wrapper class is not available, data can normally be obtained through direct connection with the API via the internet. Within python, there is the urllib2 inbuilt package that can perform such tasks. When communicating directly with the API, you need to know a few basics first. 
+API calls are made up of two components: a request, and a response. The request is sent by the client (our python script) to the API and basically asks for some specific action to be performed. This can be an action such as getting a list of features, creating a new feature or any other process of the service that the API exposes. In our case, we will stick with simply asking for some data. The response componenet is what the API sends back to the client.
+So lets look at some code that gets Wheelmap features from the API using a HTTP connector.
+```python
+import json
+import urllib2
+import urllib
+import csv
+
+api_key = 'xxx'
+csv_path = 'wheelmap_heidelberg.csv'
+
+class WheelmapItem:
+	def __init__(self, name, osm_id, lat, lon, category, node_type, accessible):
+		self.name = name
+		self.osm_id = osm_id
+		self.lat = lat
+		self.lon = lon
+		self.category = category
+		self.node_type = node_type
+		self.accessible = accessible
+
+	def getName(self):
+		if not self.name:
+			return ''
+		else:
+			return self.name.encode('utf-8')
+
+def getWheelmapNodes(ll_lat, ll_lon, ur_lat, ur_lon, page, accessible):
+	bbox = str(ll_lat) + ',' + str(ll_lon) + ',' + str(ur_lat) + ',' + str(ur_lon)
+	url = 'http://wheelmap.org/api/nodes?api_key=' + api_key + '&bbox=' + bbox + '&page=' + str(page)
+	if accessible != None:
+		url = url + '&wheelchair=' + accessible
+	headers = {'User-Agent':'Python'}
+	
+	req = urllib2.Request(url, None, headers)
+
+	print (url)
+	resp = urllib2.urlopen(req).read().decode('utf-8')
+	return json.loads(resp)
+
+# When we get the first load of data we can read the meta info to see how many pages there are in total
+
+firstPage = getWheelmapNodes(8.638939,49.397075,8.727843,49.429415,1,None)
+numPages = firstPage['meta']['num_pages']
+
+# so now we need to loop through each page and store the info
+pagedData = []
+pagedData.append(firstPage)
+
+for i in range (2,numPages+1):
+	pagedData.append(getWheelmapNodes(8.638939,49.397075,8.727843,49.429415,i,None))
+
+# now that we have the data we should go through and create a list of items 
+# for now we will store the name, location, category, node type, accessibility and osm id
+items = []
+for i in range (0,len(pagedData)):
+	page = pagedData[i]
+	# go through each item
+	nodes = page['nodes']
+	for node in nodes:
+		item = WheelmapItem(node['name'], node['id'], node['lat'], node['lon'], node['category']['identifier'], node['node_type']['identifier'], node['wheelchair'])
+		items.append(item)
+
+print('Total items read: ' + str(len(items)))
+```
+The first thing to note is the `class WheelmapItem:` class decleration at the beggining of the code. This is a simple class that can be used as a template for Wheelmap features in the script, which makes reading information later on easier.
+
+The `getWheelmapNodes(ll_lat, ll_lon, ur_lat, ur_lon, page, accessible):` is the method that we have written to actually get the data from the API. Let's look more in depth at that method now.
+
+```python
+def getWheelmapNodes(ll_lat, ll_lon, ur_lat, ur_lon, page, accessible):
+	bbox = str(ll_lat) + ',' + str(ll_lon) + ',' + str(ur_lat) + ',' + str(ur_lon)
+	url = 'http://wheelmap.org/api/nodes?api_key=' + api_key + '&bbox=' + bbox + '&page=' + str(page)
+	if accessible != None:
+		url = url + '&wheelchair=' + accessible
+	headers = {'User-Agent':'Python'}
+	
+	req = urllib2.Request(url, None, headers)
+
+	print (url)
+	resp = urllib2.urlopen(req).read().decode('utf-8')
+	return json.loads(resp)
+```
+The first step is to create a bounding box string that is passed to the API as a means of identifying what area to get features for `bbox = str(ll_lat) + ',' + str(ll_lon) + ',' + str(ur_lat) + ',' + str(ur_lon)`.
+Next we create the URL that is used to request the data. This URL is exactly the same as what you would type into a web browser to get the same information. In this URL (and many many others) we can provide parameters within the URL itself. This part of the URL is known as the "query string". The start of the query string always starts with a ? symbol, and each parameter consists of a name=value pair. If more than one parameter is used, then they are seperated using the & symbol. For example, say we wanted to get a list from a service that tells us who dies in Game of Thrones (it would be a very long list...). The URL may be something like `http://www.whodiesingot.com/deaths?house=stark&book_number=2` (don't worry, I won't give any spoilers). The important part here is the `deaths?house=stark&book_number=2` which is a call to the 'deaths' API method. Notice the ? symbol which tells the `deaths` API method that we are giving it some parameters. the two parameters (seperated by &) are `house=stark` and `book_number=2`. This means that we are telling the service that we want a list of all deaths from the house of Stark which happen in the second book.
+In the case of the Wheelmap API we are required to provide three pieces of information: our api key that we obtain from our user profile, the bounding box which tells it where to get features for, and the page number. As most APIs only return a limited number of features per request, they often paginate the data. This means that say, for example, there were 1000 features found in the bounding box, but the service is limited to only provide 100 per request, it would split the dataset into 10 groups of 100, known as pages. In the first response it would send the first 100 (1-100) but would also provide extra information in the response telling the requesting client that this is a subset of all the data (i.e. `items_per_page=100,total_pages=10,current_page=1`). The client then knows that it should make another request to the API, but this time tell it to get the second page (features 101-200), and then a third request to get the third (201-300) and so on. 
+The Wheelmap API also allows you to specify what level of accessibility of features we are looking for. Providing the vale `accessible=yes` tells it to return only the accessible places, whereas `accessible=unknown` tells it to only get the unknown ones. The other two values are 'no' and 'limited'. As this is an optional parameter, our code only puts it on to the request if there is an explicit need for it, i.e. we tell the method we want only those places that are accessible. Without the parameter, Wheelmap returns all features in the bounding area.
+The `headers = {'User-Agent':'Python'}` line is often required as many services need to have where the request is coming from provided. If you enter the url in a browser, this information is automatically put on to the request, but not when you do it through a script.
+Now we construct the request to the service with `req = urllib2.Request(url, None, headers)`. url is the URL that we created above, None tells the method that we are not passing any extra parameters that are not in the query string of the URL, and headers is the user-agent information identifying to the API where the request is coming from. At this point, no data is being transmitted. 
+To make the request for information, we use `resp = urllib2.urlopen(req).read().decode('utf-8')`. This line tells the urllib2 package to open a connection to the API as specified in the Request (req) object we just created, then read what is sent back and decode the information to a particular string format. resp now contains a string representation of a JSON object detailing the features returned by the request to the API. The `json.loads(resp)` line just tells the system that we want the response changed to a JSON object in the script.
+
+Now that we know how the requesting works, we have the code that actually calls this method to make the requests. First we obtain the first page of the data (pages are described above) with the line `firstPage = getWheelmapNodes(8.638939,49.397075,8.727843,49.429415,1,None)`.
+Once we have data from the request, we need to see if there are any additional pages that need to be read. We get this information using `numPages = firstPage['meta']['num_pages']`. This looks into the JSON data we got from the response, finds a JSON object called 'meta' and then gets the value of the 'num_pages' property. Now that we have the number of pages, the next few lines repeat the request process until all pages have been stored in the pagedData array.
+
+The final stage of reading from the API is to go through all the data we have obtained and convert them into WheelmapItems for easier use later on.
