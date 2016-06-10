@@ -18,13 +18,53 @@ You will need to install the following software components before attending the 
 
 Follow the guides of [this page](https://wiki.python.org/moin/BeginnersGuide/Download) to install a Python version suitable for your operating system.
 
-### Python modules
+#### Python modules
 
-#### python-instagram
+###### python-instagram
 
-#### python-facebook [optional for mapping_behavior example]
+###### Tweepy - Twitter for Python!
 
-#### python-flickrapi
+Tweepy is a Python wrapper built around Twitter API. It allows us to easily interact with Twitter data in a Python environment.  You can install Tweepy from PyPi using `easy_install` or `pip`
+
+```
+pip install tweepy
+```
+
+###### pyshp - Pure Python read/write support for ESRI Shapefile format
+
+This python package allows to read and write regular shapefiles in a Python environment. Use the prebuilt package from PyPi with `easy_install` or `pip`.
+
+```
+pip install pyshape
+```
+
+####### psycopg2 - PostgreSQL client for Python
+
+It is recommended to install `psycopg2` from a prebuilt package for your Operating System. Some help can be found [here](initd.org/psycopg/docs/install.html).
+
+**Linux (Ubuntu/debian)**
+
+In general the package for Linux distributuions is called `python-psycopg2`. On Debian/Ubuntu, simply run
+
+```
+sudo apt-get install python-psycopg2
+```
+
+**Mac OS X**
+
+```
+fink install psycopg2-py27
+```
+or
+```
+sudo port install py27-psycopg2
+```
+
+**Windows**
+
+Use an installer for `win-psycopg` from [here](www.stickpeople.com/projects/python/win-psycopg).
+
+###### python-flickrapi
 Info can be found [here](https://pypi.python.org/pypi/flickrapi). Install using pip
 
 ```
