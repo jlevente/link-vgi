@@ -91,7 +91,7 @@ f.close()
 
 ### Shapefile
 
-Python code snippet to query for Mapillary photos in a given area and export them as a shapefile. We are using the [**/search/im**](https://a.mapillary.com/#get-searchim) method.
+Shapefiles are well known to all GIS professionals therefore it is useful to learn how to create them in Python. The Python code snippet below queries for Mapillary photos in a given area and export them as a shapefile. The example uses the [**/search/im**](https://a.mapillary.com/#get-searchim) method from the Mapillary API to access images nearby. Similar to the `urrlib2` package seen in the Wheelmap example, another package called `requests` (*HTTP for Humans*) can be used to handle HTTP requests in the abscence of available API wrapper. This example also uses the `pyshp` package for writing a shapefile.
 
 ```python
 import requests
