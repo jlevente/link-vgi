@@ -1,5 +1,7 @@
 The purpose of this exercise is to use two sources of data with different contextual focuses in order to produce a visualisation that portrays the accessibility of popular places. The two datasets that will be used are Wheelmap and Foursquare Venues.
 
+![Accessibility of popular places in Helsinki map](https://raw.githubusercontent.com/jlevente/link-vgi/master/workshop/case_study/accessible.png)
+
 ## Wheelmap
 [Wheelmap](http://wheelmap.org) is a service developed by Sozialhelden in Berlin which aims at allowing users to view and edit whether a place is accessible to wheelchair users. The base data used are POI features from OSM, with the accessibilty information being stored agains the POI in the OSM dataset. The possible values for this accessibility are "yes", "limited", "no" and "unknown".
 
