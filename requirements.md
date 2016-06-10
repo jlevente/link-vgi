@@ -85,7 +85,7 @@ This python package allows to read and write regular shapefiles in a Python envi
 pip install pyshape
 ```
 
-##### psycopg2 - PostgreSQL client for Python
+#### psycopg2 - PostgreSQL client for Python
 
 It is recommended to install `psycopg2` from a prebuilt package for your Operating System. Some help can be found [here](initd.org/psycopg/docs/install.html).
 
@@ -111,7 +111,7 @@ sudo port install py27-psycopg2
 
 Use an installer for `win-psycopg` from [here](www.stickpeople.com/projects/python/win-psycopg).
 
-##### python-flickrapi
+#### python-flickrapi
 Info can be found [here](https://pypi.python.org/pypi/flickrapi). Install using pip
 
 ```
@@ -120,7 +120,7 @@ pip install flickrapi
 
 ##### python-instagram [optional]
 
-*As of June 1, 2016 access to the Instagram API has been seriously cut down by Instagram. You can still install this API wrapper and experiment with it but data access is extremely limited currently*
+*As of June 1, 2016 access to the Instagram API has been seriously cut down by Instagram. You can still install this API wrapper and experiment with it but data access is extremely limited.*
 ```
 pip install python-instagram
 ```
