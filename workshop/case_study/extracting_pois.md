@@ -1,0 +1,1 @@
+Sometimes, not all datasets provide explicit POI locations and instead provide the locations of things such as geo-lacated photographs. In this example, we will use the data obtained from Flickr in the format of geo-referenced images to identify possible points of interest in the Heslinki area.
