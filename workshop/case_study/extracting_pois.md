@@ -1,0 +1,15 @@
+Sometimes, not all datasets provide explicit POI locations and instead provide the locations of things such as geo-lacated photographs. In this example, we will use the data obtained from Flickr in the format of geo-referenced images to identify possible points of interest in the Heslinki area.
+
+**Step 1:** Firstly, add the `flickr_helsinki.csv` file to QGIS. The fields fo X an Y should be set to `X field` - "lon" and `Y field` to "lat". If asked, select "WGS 84" as the coordinate system.
+
+**Step 2:** Perform a heatmap analysis on this dataset using the Heatmap tool (`Raster`->`Heatmap`->`Heatmap...`), setting the distance to be 20m (just enter 20 into the `Radius` field and have `layer units` selected from the drop down as the layers units should be metres). You can play around with this value to get different results for the POI detection - setting a higher value will result in less POIs whereas haveing a lower value will give more.
+
+**Step 3:** Now that we have a raster layer representing the density of the images, we need to identify the central points of these clusters. At the minute the raster layer basically shows how many images are located within 20 metres of the current location, but what we need is to show areas where there are more than a certain number of images, for now 3. To do this, open the raster calculator (`Raster`->`Raster calculator`) and in the `Raster calculator expression` area enter `"flickr_density@1" >= 3`, where `"flickr_density"` is the name of the raster layer you created in the heatmap process. the `@1` is just telling the calculator to look at band 1 of the dataset (this is not important).
+
+**Step 4:** The raster layer you just created now tells us where the areas are that have an image density greater than 3 pictures per 20m. The next stage is to convert this raster information into polygons so that we can identify the central point. To do this, we use the "Polygonize" feature (`Raster`->`Conversion`->`Polygonize (raster to polygon)...`), Select the layer you created in step 3 as the Input file, select the location and file name for the polygon file, and then click OK. 
+
+**Step 5:** This new polygon file contains information about both the areas that are a cluster, and those that are not. To only show the cluster areas, we need to "Filter" the results. This is done by right-clicking on the vector layer and selecting `Filter...`. in the `Provider specific filter expression` area, enter `"DN" = 1` which is the value of the raster that signifies where more than 3 imapges per 20m were found. Then click OK.
+
+**Step 6:** Now that we have polygons that signify clusters of images, we need to find the centroid of them as this is likely to be a POI. The tool used for this can be found at `Vector`->`Geometry Tools`->`Polygon Centroids`. Select the polgon layer created in Step 4 and select the locaiton and name of the point shapefile that will contain the centroids. Click OK. 
+
+**Step 7:** The new point layer added estimates where POIs can be foudn within Helsinki. Unfortunately it does not tell us what these POIs are, but we can overlay the points onto a base map to get a good idea.
