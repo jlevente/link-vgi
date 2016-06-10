@@ -1,5 +1,7 @@
 Sometimes, not all datasets provide explicit POI locations and instead provide the locations of things such as geo-lacated photographs. In this example, we will use the data obtained from Flickr in the format of geo-referenced images to identify possible points of interest in the Heslinki area.
 
+![POI map of Helsinki](https://raw.githubusercontent.com/jlevente/link-vgi/master/workshop/case_study/pois.png)
+
 **Step 1:** Firstly, add the `flickr_helsinki.csv` file to QGIS. The fields fo X an Y should be set to `X field` - "lon" and `Y field` to "lat". If asked, select "WGS 84" as the coordinate system.
 
 **Step 2:** Perform a heatmap analysis on this dataset using the Heatmap tool (`Raster`->`Heatmap`->`Heatmap...`), setting the distance to be 20m (just enter 20 into the `Radius` field and have `layer units` selected from the drop down as the layers units should be metres). You can play around with this value to get different results for the POI detection - setting a higher value will result in less POIs whereas haveing a lower value will give more.
