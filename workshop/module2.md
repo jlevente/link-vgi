@@ -135,11 +135,12 @@ for photo in photos:
     writer.record(image_url='http://mapillary.com/map/im/' + photo['key'], username=photo['user'], camera_angle=str(photo['ca']), captured_at=str(datetime.fromtimestamp(photo['captured_at']/1000)))
 writer.save('my_mapillary_photos.shp')
 file = open(filename + '.prj', 'w')
+# Manually add projection file
 file.write('GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]')
 file.close()
 ```
 
-### PostGIS
+### PostGIS [optional]
 
 PostgreSQL is the leading open source Relational Database Management System. The PostGIS extension allows to execute any geospatial operations in a highly customizable manner.
 Here's a more complex python script to
@@ -147,11 +148,16 @@ Here's a more complex python script to
 1. export locations of obtaining [drinking water](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddrinking_water) from OSM's OverpassAPI and
 2. place data in a sptially enabled PostgreSQL database.
 
-First, you need to manually create a database and perform some neccesary steps, for example enabling PostGIS and creating a table for your data.
+First, you need to manually create a database and perform some neccesary steps. You can use various methods to achieve this. For example, you can open  the `pgAdmin`, set up a server connection, then Right click `New object` -> `New Database`. Alternatively you can use the `createdb` command line tool or the `CREATE DATABASE dbname` SQL statement.
+
+Once your database is created, you can run the following statements to enable PostGIS extension and create a table for your soon to be mined OSM data.
 
 ```sql
+-- Add PostGIS extension
 CREATE EXTENSION postgis;
+-- Add hstore extension to store tags as key-value pairs
 CREATE EXTENSION hstore;
+-- Init table
 CREATE TABLE drinking_water (
     id bigint,
     user varchar,
@@ -162,6 +168,7 @@ CREATE TABLE drinking_water (
     tags hstore
     
 );
+-- Add a POINT geometry column to the table
 SELECT AddGeometryColumn('drinking_water', 'geom', 4326, 'POINT', 2);
 ```
 
@@ -172,7 +179,8 @@ import psycopg2
 import json
 import requests
 
-def query_nodes(bbox):
+# This function callse OverpassAPI and asks for all nodes that contain "amenity"->"drinking_water" tag
+ def query_nodes(bbox):
     # OverpassAPI url
     overpassAPI = 'http://overpass-api.de/api/interpreter'
 
@@ -186,23 +194,41 @@ def query_nodes(bbox):
     >;
     '''
 
+    # Sending HTTP request toward OverpassAPI
     data = requests.post(overpassAPI, postdata % (bbox))
+    # Parse response
     data = json.loads(data.text)
     return data
 
+# This function uploads the data to the PostgreSQL server
 def upload_data(data):
     with_no_geom = 0
     sql = 'INSERT INTO drinking_water (id, user, user_id, created_at, version, changeset, tags, geom) VALUES (%s, %s, %s, %s, %s, %s, ST_SetSRID(ST_MakePoint(%s, %s), 4326));'
+
+    # Define a connection
     conn = psycopg2.connect(host='localhost', user='postgres', password='postgres', dbname='osm_data')
     psycopg2.extras.register_hstore(conn)
+    # Initialize a cursor
     cursor = conn.cursor()
+    # Loop through all OSM nodes
     for node in data['elements']:
+        # Call the INSERT INTO sql statement with data from the current node
         cursor.execute(sql,(node['id'], node['user'], node['uid'], node['timestamp'], node['version'], node['changeset'], node['lon'], node['lat']))
+    # Finally commit all changes in the database
     conn.commit()
 
 # Lago Maggiore
 bbox = '45.698507, 8.44299,46.198844,8.915405'
 
+# Start with putting all nodes in the variable called drinking_water
 drinking_water = query_nodes(bbox)
+# Pass this variable containing all OSM nodes to the upload script that will insert it to the PostgreSQL database
 upload_data(drinking_water)
+```
+
+Alternatively you can visualize your data in QGIS, or you can simply make a query toward the database to see if it worked
+
+```
+-- Select 10 nodes
+SELECT id, user, created_at, tags from drinking water limit 10
 ```
