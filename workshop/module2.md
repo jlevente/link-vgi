@@ -230,5 +230,5 @@ Alternatively you can visualize your data in QGIS, or you can simply make a quer
 
 ```
 -- Select 10 nodes
-SELECT id, user, created_at, tags from drinking water limit 10
+SELECT id, user, created_at, tags from drinking_water limit 10
 ```
