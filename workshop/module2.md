@@ -53,40 +53,45 @@ with open("tweet_export.csv", "wb") as csvfile:
 
 ### GeoJSON
 
-Python code snippet to query Instagram locations for a given area and export results to a GeoJSON file. We're using the [**locations/search**](https://www.instagram.com/developer/endpoints/locations/) method from Instagram API.
+GeoJSON is a common interchange format gaining popularity over the recent years. It is commonly used in web environments to transport geospatial data but most Dekstop GIS software can read and write the format as well. Below is a Python code snippet you can use to extend the [Wheelmap example from Module 1](https://github.com/jlevente/link-vgi/blob/master/workshop/module1.md#methods-using-a-http-object). These few lines of code will let you export the data in a GeoJSON format.
+
 ```python
-from instagram.client import InstagramAPI
-import json
+# This method takes a list of WhelmapItems and writes them to a GeoJSON file
 
-client_id = "Your client ID"
-client_secret = "Your client secret"
-# Access token can be manually generated with generate_access_token.py !
-access_token = "Access token aquired from a user"
-
-api = InstagramAPI(access_token=access_token, client_secret=client_secret)
-locations = api.location_search(lat=60.1694461, lng=24.9527073, distance=50, count=100)
-
-geojson = {
+def exportWheelmapNodes(node_list, file_name):
+    # Init geojson object
+    geojson = {
         "type": "FeatureCollection",
         "features": []
     }
 
-for loc in locations:
-    feature = {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-                "coordinates": [loc.point.longitude, loc.point.latitude]
-        },
-        "properties": {
-            "name": loc.name
+    # Loop through the list and append each feature to the GeoJSON
+    for node in node_list:
+        # Populate feature skeleton
+        feature = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [node.lon, node.lat]
+            },
+            "properties": {
+                "name": node.getName(),
+                "osm_id": node.osm_id,
+                "category": node.category,
+                "node_type": node.node_type,
+                "accessible": node.accessible
+            }
         }
-    }
-    geojson["features"].append(feature)
 
-f = open("my_instagram_locations.geojson", "w")
-f.write(json.dumps(geojson))
-f.close()
+        # Append WheelnodeItem to GeoJSON features list
+        geojson["features"].append(feature)
+
+    # Finally write the output geojson file
+    f = open(file_name, "w")
+    f.write(json.dumps(geojson))
+    f.close()
+
+exportWheelmapNodes(items, "wheelmap_nodes.geojson")
 ```
 
 ### Shapefile
