@@ -82,7 +82,7 @@ pip install tweepy
 This python package allows to read and write regular shapefiles in a Python environment. Use the prebuilt package from PyPi with `easy_install` or `pip`.
 
 ```
-pip install pyshape
+pip install pyshp
 ```
 
 #### psycopg2 - PostgreSQL client for Python
