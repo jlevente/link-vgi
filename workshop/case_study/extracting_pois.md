@@ -1,4 +1,4 @@
-Sometimes, not all datasets provide explicit POI locations and instead provide the locations of things such as geo-located photographs. In this example, we will use the data obtained from Flickr in the format of geo-referenced images to identify locations that maz contain possible points of interest in the Heslinki area.
+Sometimes, not all datasets provide explicit POI locations and instead provide the locations of things such as geo-located photographs. In this example, we will use the data obtained from Flickr in the format of geo-referenced images to identify locations that may contain possible points of interest in the Heslinki area.
 
 ![POI map of Helsinki](https://raw.githubusercontent.com/jlevente/link-vgi/master/workshop/case_study/pois.png)
 
