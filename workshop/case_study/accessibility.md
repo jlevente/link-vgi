@@ -72,3 +72,5 @@ As can be seen from running this code, a number of features may be linked even t
 To filter out the long lines, right click on the line layer and select `Filter...`. This opens a window where you can apply rules similarly to the rule-based styling described above. If the `Filter...` option is disabled, you may need to first turn off editing (click on the pencil button in the editing toolbar). In the `Provider specific filter expression` text area, enter the text `"length" <= 200` which tells the system to only show lines that have a length of less than 200m. Click `OK` to apply the filter, and then change the styling of the lines (Double click the layer in the Layers Panel, followed by the Style tab).
 
 ![Distances between foursquare and wheelmap nodes](https://raw.githubusercontent.com/jlevente/link-vgi/master/workshop/case_study/distances.png)
+
+From the basic vector statistics for these lines that are less than 200m in length, we find that the average length is 40m.
