@@ -14,7 +14,7 @@ We will use data from Instagram API that contains information of photos posted t
 Using this data allows us to extract insights about popular places in Helsinki, we can quantify data upload intensity, extract basic measure which ultimately leads towards understanding how Instagram users post photos.
 Let's do this step by step. You can [download](module_3.R) all of the codes below as a standalone file if you prefer.
 
-## Data import
+### Data import
 
 The importance of this step is to actually load the data into R. You can connect R to PostgreSQL with the [`RPostgreSQL`](http://www.r-bloggers.com/r-and-postgresql-using-rpostgresql-and-sqldf/) pacakge, and import many other formats, such as [Shapefile](http://www.r-bloggers.com/shapefiles-in-r/)
 or even [JSON](http://www.tutorialspoint.com/r/r_json_files.htm). In our case, the quickest way to get started is to read the CSV files.
@@ -29,7 +29,9 @@ hashtags <- read.csv('hashtags.csv', as.is=T, header=F)
 ```
 
 This will give us 3 R data frames for the different sets of data we have. You can call the `head()` and `summary()` functions to examine if the data is correctly loaded. At this point, we should be able to
-use all the powerful functionalities of R. `nrow(locations)` yields that we have 56 locations from Instagram ready. Let's draw a map of the spatial distribution.
+use all the powerful functionalities of R. `nrow(locations)` yields that the data frame contains 56 locations. Let's draw a map of the spatial distribution.
+
+### Generating a map of locations
 
 The [`ggmap` *](https://journal.r-project.org/archive/2013-1/kahle-wickham.pdf) package extends the functionality of `ggplot2` with handy tools to managa spatial data, such as loading background tiles.
 
@@ -73,6 +75,8 @@ map <- map + ggtitle('Instagram locations in Helsinki') + geom_text(data=locatio
 ```
 ![alt text](../examples/images/instagramlocations.png "Map of Instagram locations")
 
+### Exploring the data a bit further
+
 The great thing about importing mined data is being able to use all the statistics tools that come with the software. Running the following lines tell us how many photos we gathered,
 how many unique users posted those and we can also quickly extract the most popular places.
 
@@ -109,6 +113,8 @@ ggplot(plot_data, aes(x=name, y=user_count)) + geom_bar(stat='identity') + theme
 
 ![alt text](../examples/images/top_places.png "Top 20 places by user counts in downtown Helsinki")
 
+### Fitting a simple linear regression
+
 Running statistical tests is also easy. For example we can check on the relationship between the number of `users tagged in each photo` and the `likes` photos have.
 
 ```Rscript
@@ -132,6 +138,8 @@ summary(reg)
 ```
 ![alt text](../examples/images/regression.png "Linear regression model")
 
+### Upload intensity
+
 We can also check the upload intensity of photos. Let's see what days of the week people like sharing their photos on Instagram.
 
 ```Rscript
@@ -143,6 +151,7 @@ freq_table <- count(days)
 
 ggplot(freq_table, aes(x=x, y=freq)) + geom_bar(stat='identity')  + theme_bw() + xlab('Day of week') + ylab('Photos uploaded') 
 ```
+### Generating a wordcloud
 
 A nice visualization technique is using wordclouds. Instagram users can attach tags to each photo. Let's see what their photos were about.
 
