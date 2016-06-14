@@ -1,1 +1,0 @@
-# Extracting location data from different VGI sources

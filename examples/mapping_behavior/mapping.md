@@ -1,1 +1,0 @@
-# Comparing mapping activities of selected users in Mapillary and OpenStreetMap
