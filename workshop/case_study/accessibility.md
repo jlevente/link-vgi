@@ -58,6 +58,7 @@ for fsf in fsl.getFeatures():
 			feat = QgsFeature(vl.pendingFields())			
 			feat.setGeometry(QgsGeometry.fromPolyline([fsf.geometry().asPoint(),wmf.geometry().asPoint()]))
 			(res, outFeats) = vp.addFeatures([feat])
+			break
 		
 	
 	print str(count)
@@ -69,3 +70,5 @@ QgsMapLayerRegistry.instance().addMapLayer(vl)
 As can be seen from running this code, a number of features may be linked even though they are on the other side of the city. Though this is important information, it obscure the information relating to slight differences in position. For now, we want to hide the lines that are over a specified length. To do this, we first need to calculate the length of the lines. First, right click on the new line layer and select `Open attribute table`. Next click on the field calculator button (the last one that looks like an abacus). Within this window, enter the name `length` under `Output field name` and select `Decimal number (real)` from the `Output field type` drop down. In the text box below the maths operators, enter `$length` to tell the calculator to fill this field with the length of the line. Click on `OK` and then close the attribute table. If you are asked to save any edits, choose the option that saves them. If you notice that most of the fields contain the text `NULL`, this is most likely because you had a line selected in the map interface and so the calculation was only applied to that feature. To add values to the other features, make sure that no features are selected (click on the button with a yellow box next to a no-entry symbol) and then repeat the field calculator process, but rather then adding an output field name, check the `Update existing field` box and select the `length` field from the drop down box below.
 
 To filter out the long lines, right click on the line layer and select `Filter...`. This opens a window where you can apply rules similarly to the rule-based styling described above. If the `Filter...` option is disabled, you may need to first turn off editing (click on the pencil button in the editing toolbar). In the `Provider specific filter expression` text area, enter the text `"length" <= 200` which tells the system to only show lines that have a length of less than 100m. Click `OK` to apply the filter, and then change the styling of the lines (Double click the layer in the Layers Panel, followed by the Style tab).
+
+![Distances between foursquare and wheelmap nodes](https://raw.githubusercontent.com/jlevente/link-vgi/master/workshop/case_study/distances.png)
