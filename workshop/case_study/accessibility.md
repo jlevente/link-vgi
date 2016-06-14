@@ -73,4 +73,4 @@ To filter out the long lines, right click on the line layer and select `Filter..
 
 ![Distances between foursquare and wheelmap nodes](https://raw.githubusercontent.com/jlevente/link-vgi/master/workshop/case_study/distances.png)
 
-From the basic vector statistics for these lines that are less than 200m in length, we find that the average length is 40m.
+From the basic vector statistics for these lines that are less than 200m in length, we find that the average length is 39m.
