@@ -11,7 +11,8 @@ We will use data from Instagram API that contains information of photos posted t
 *Instagram API has changed its policy as of June 1, 2016. All registered applications start with limited access to data therefore the method presented above do not work with real data. Use the uploaded csv files above to complete this task.* 
 ```
 
-Using this data allows us to extract insights about popular places in Helsinki, we can quantify data upload intensity and ultimately. Let's do this step by step. You can [download](module_3.R) all of the codes below as a standalone file if you prefer.
+Using this data allows us to extract insights about popular places in Helsinki, we can quantify data upload intensity, extract basic measure which ultimately leads towards understanding how Instagram users post photos.
+Let's do this step by step. You can [download](module_3.R) all of the codes below as a standalone file if you prefer.
 
 ## Data import
 
