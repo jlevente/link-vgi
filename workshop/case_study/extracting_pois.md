@@ -1,4 +1,4 @@
-Sometimes, not all datasets provide explicit POI locations and instead provide the locations of things such as geo-lacated photographs. In this example, we will use the data obtained from Flickr in the format of geo-referenced images to identify possible points of interest in the Heslinki area.
+Sometimes, not all datasets provide explicit POI locations and instead provide the locations of things such as geo-located photographs. In this example, we will use the data obtained from Flickr in the format of geo-referenced images to identify locations that maz contain possible points of interest in the Heslinki area.
 
 ![POI map of Helsinki](https://raw.githubusercontent.com/jlevente/link-vgi/master/workshop/case_study/pois.png)
 
@@ -14,4 +14,4 @@ Sometimes, not all datasets provide explicit POI locations and instead provide t
 
 **Step 6:** Now that we have polygons that signify clusters of images, we need to find the centroid of them as this is likely to be a POI. The tool used for this can be found at `Vector`->`Geometry Tools`->`Polygon Centroids`. Select the polgon layer created in Step 4 and select the locaiton and name of the point shapefile that will contain the centroids. Click OK. 
 
-**Step 7:** The new point layer added estimates where POIs can be foudn within Helsinki. Unfortunately it does not tell us what these POIs are, but we can overlay the points onto a base map to get a good idea.
+**Step 7:** The new point layer added estimates where POIs can be found within Helsinki. Unfortunately it does not tell us what these POIs are, but we can overlay the points onto a base map to get a good idea. Also, it needs to be noted that the locations that photos are taken is not necasserily the location of the feature that is the usbject of the image. If available, the direction and focal distance of images could be used as a means of detecting where the image subject is actually located.
