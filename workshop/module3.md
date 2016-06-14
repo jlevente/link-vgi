@@ -5,11 +5,11 @@ In general, once we exported our data from the APIs in a more standardized forma
 data exploration, creating charts and applying statistical tests.
 
 We will use data from Instagram API that contains information of photos posted to Instagram since January 1, 2015 in downtown Helsinki. You can use the sample dataset of
-[Instagram locations](../examples/locations.csv) and [Instagram photo metadata](../examples/photos.csv). These data filest were generated with this [script](../examples/insta.py)). ~Try running it at home.~ 
+[Instagram locations](../examples/data_files/locations.csv) and [Instagram photo metadata](../examples/data_files/photos.csv). These data filest were generated with this [script](../examples/insta.py)). ~Try running it at home.~ 
 
 *Instagram API has changed its policy as of June 1, 2016. All registered applications start with limited access to data therefore the method presented above do not work with real data. Use the uploaded csv files above to complete this task.* 
 
-Using this data allows us to extract insights about popular places in Helsinki, we can quantify data upload intensity and ultimately. Let's do this step by step.
+Using this data allows us to extract insights about popular places in Helsinki, we can quantify data upload intensity and ultimately. Let's do this step by step. You can [download](module_3.R) all of the codes below as a standalone file if you prefer.
 
 ## Data import
 
@@ -85,9 +85,9 @@ length(unique(photos$username))
 locations['user_count'] <- NA
 locations['photo_count'] <- NA
 # sapply() summarizes users by applying the length() function for all location_ids (i.e. what is the length of the list of users for a location?)
-locations['user_count'] <- sapply(locations$location_id, function(x) length(unique(photos[photos$location_id==x,]$username)))
+locations['user_count'] <- sapply(locations$id, function(x) length(unique(photos[photos$location_id==x,]$username)))
 # Again, we answer to the question "How many rows do we have after truncating our photos data frame to the specific location?" with sapply()
-locations['photo_count'] <- sapply(locations$location_id, function(x) nrow(photos[photos$location_id==x,]))
+locations['photo_count'] <- sapply(locations$id, function(x) nrow(photos[photos$location_id==x,]))
 
 # Draw histograms to see how popularity of places is distributed
 
@@ -98,11 +98,12 @@ hist(locations$photo_count)
 
 # Extract top 20 places with most users
 plot_data <- locations[order(-locations$user_count),][1:20,]
-plot_data <- transform(plot_data[,c('location_name','user_count')], location_name = reorder(location_name, order(user_count, decreasing=T)))
+plot_data <- transform(plot_data[,c('name','user_count')], name = reorder(name, order(user_count, decreasing=T)))
 
 # Create a bar plot of user counts for the 20 most visiteg locations
-ggplot(plot_data, aes(x=location_name, y=user_count)) + geom_bar(stat='identity') + theme_bw() + theme(axis.text.x=element_text(angle=90), axis.title.x=element_blank()) + ylab('User counts
+ggplot(plot_data, aes(x=name, y=user_count)) + geom_bar(stat='identity') + theme_bw() + theme(axis.text.x=element_text(angle=90), axis.title.x=element_blank()) + ylab('User counts')
 ```
+
 ![alt text](../examples/images/top_places.png "Top 20 places by user counts in downtown Helsinki")
 
 Running statistical tests is also easy. For example we can check on the relationship between the number of `users tagged in each photo` and the `likes` photos have.
@@ -132,7 +133,7 @@ We can also check the upload intensity of photos. Let's see what days of the wee
 
 ```Rscript
 # Extract the Day of Week from the timestamp
-days <- format(as.Date(photos$created_at), format='%A)
+days <- format(as.Date(photos$created_at), format='%A')
 
 # Calculate frequencies using the count() function from the plyr package
 freq_table <- count(days)
