@@ -3,7 +3,7 @@
 
 Public repository of the [Link-VGI](http://www.geog.uni-heidelberg.de/gis/link_vgi.html) pre-conference workshop at [AGILE2016](https://agile-online.org/index.php/conference/conference-2016).
 
-13 June, 2016. Helsinki, Finland
+14 June, 2016. Helsinki, Finland
 
 ## Hands-on exercises
 
