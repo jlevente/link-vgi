@@ -1,0 +1,1240 @@
+id,name,lat,lng,?column?,tipcount,checkincount,usercount,photo_count,url,tags
+53678cbb11d263215d67b377,Die Kuh Die Lacht,49.4115454342514,8.70577473872957,"""Burger Joint""",15,319,236,37,http://www.diekuhdielacht.com,{}
+4b19385af964a52069d923e3,Heidelberg Hauptbahnhof,49.4041318431925,8.67542266845703,"""Train Station""",37,21309,6168,281,http://www.bahnhof.de,"{booth,cafes,""central station"",coffee,photo,""photo booth"",pizza}"
+4fdc93e9e4b0602ab5df079c,REWE,49.3851330400079,8.67426163235392,"""Supermarket""",0,172,32,2,http://www.rewe.de,{}
+535e4316498e876ea3f8a614,China City,49.4065073938383,8.67518400340493,"""Chinese Restaurant""",2,57,26,9,,{}
+4bd73360e914a59332b750fa,Motor-Yacht-Club Heidelberg,49.4109563834121,8.69026387222587,"""Harbor / Marina""",0,11,5,0,http://www.myc-heidelberg.de,{}
+5236c25511d268062e90a2e1,Dr. Ball und Dr. Hild,49.3807379064848,8.67105519146529,"""Doctor's Office""",0,13,4,0,http://www.kinderaerzte-im-netz.de/aerzte/hild-ball/startseite.html,{}
+5432ae00498ed5e70bca5212,Theo's 🌈,49.3947659742616,8.6897733485692,"""Student Center""",0,165,4,0,,{}
+4c4b2e8e712ac92853d18d6c,Tsv Wieblingen,49.414244,8.64923,"""Bar""",0,8,8,2,,{}
+533bec83498e38e5b755b270,Mr. Zhao by Sakura,49.407991,8.688763,"""Japanese Restaurant""",0,19,12,0,,{}
+4d0fdcad01d5a090c87b3947,Lidl,49.377259826237,8.66482257843018,"""Supermarket""",0,85,21,1,http://www.lidl.de,{discounter}
+54401d53498e78202210e098,iKOI,49.4113449883559,8.70333291933228,"""Sushi Restaurant""",7,73,54,7,http://www.ikoisushi.de,{}
+4dd0cc67c65bdac7139a94d9,A.T.U Heidelberg,49.4064885170743,8.66020702968108,"""Automotive Shop""",0,48,19,0,http://www.atu.de/pages/service/filialen/f_detail.html?lkz=DE&nr=466&campaign=cooperation/foursquare,{}
+4c45baaadd1f2d7fa69981f9,Deutsche Post,49.4013514839053,8.6763867224584,"""Post Office""",0,74,36,0,http://www.deutschepost.de,{}
+4b910eccf964a5206da133e3,Medocs,49.410059,8.69322,"""Restaurant""",7,527,228,21,http://www.medocs-cafe.de,{}
+4d440bd43616b60c8407e0c2,NORDSEE,49.4103249313745,8.69686355019033,"""Seafood Restaurant""",2,201,161,15,http://www.nordsee.com,{}
+4eff1c414fc6fc240ee4da23,H Brückenstraße,49.4155103082673,8.69207382202148,"""Tram Station""",0,325,69,4,,{}
+504b1832e4b084386aad609a,Kerwe Kirchheim,49.3768602753543,8.66639955737802,"""General Entertainment""",0,10,4,2,,{}
+51096ac9e4b0924a5edb82c5,Europa-Bar,49.407454,8.691099,"""Hotel Bar""",0,2,2,0,,{}
+4c133b0ba9c220a1d77e559d,McDonald's,49.4037967318528,8.67660284042358,"""Fast Food Restaurant""",15,1063,518,32,http://www.mcdonalds.de,"{""fast food""}"
+4d56e27f611aa35d30f84639,Die Kamera,49.4154171501442,8.6922609414863,"""Indie Movie Theater""",0,53,35,3,http://www.gloria-kamera-kinos.de,{}
+4c6271d2e1621b8d176f2353,Kardo Express,49.412862,8.676449,"""Middle Eastern Restaurant""",1,17,11,2,,{}
+4e03a3f02271233b767ab08d,Goodfellas,49.4060865209642,8.69086786631621,"""Bar""",1,126,37,1,,{}
+570bcbe1498ed4f923a68c9c,Anca's home,49.406845,8.681731,"""Residential Building (Apartment / Condo)""",0,4,1,0,,{}
+4c6bb8e246353704e2bc04bc,Metzgerei Zeiss,49.4040875925256,8.64549175841446,"""Butcher""",0,28,9,1,,{}
+4b4cf978f964a52038c626e3,Eppelheimer Wasserturm,49.4017092159697,8.62977147102356,"""Sculpture Garden""",0,249,19,4,,{}
+52b616a1498e8a763737d1b2,Cappuccino,49.4090107192086,8.69210863542225,"""Caf\u00e9""",2,79,62,14,http://cappuccino-heidelberg.com,{}
+4eec755baa1f98ce6490ad71,Mod's Hair,49.4152173176778,8.69042009515255,"""Salon / Barbershop""",0,6,5,0,,{}
+5720d387498e4066cee2cc03,Tommys Frisier-Domus,49.420143,8.651598,"""Salon / Barbershop""",0,1,1,0,,{}
+4b8fe099f964a520fb6633e3,Café Rossi,49.408426177552,8.69234453858154,"""Caf\u00e9""",27,1367,692,25,http://www.caferossi.de,{}
+4e062787d22d6585329de8a0,Zeughaus-Mensa im Marstall,49.41255260966,8.70431583665298,"""College Cafeteria""",4,2271,587,31,http://www.studentenwerk.uni-heidelberg.de/mensen,{}
+4d0d00cb903d3704133ec155,Bodega,49.377777,8.693162,"""Paella Restaurant""",0,26,21,3,,{}
+4b8fe099f964a520fb6633e3,Café Rossi,49.408426177552,8.69234453858154,"""Caf\u00e9""",27,1367,692,25,http://www.caferossi.de,{}
+4e86ed7f30f80c7d3c4e60ef,Konfuzius Institut Heidelberg,49.3998009259269,8.67738263806303,"""General College & University""",0,26,5,0,,{}
+5231f094498e53ce04c4ccb6,Kurpfalzschule,49.3794158686492,8.66777431654848,"""General College & University""",0,81,6,9,,{}
+4e33ba9ce4cdf7a42ca9fee4,Dorothea Rieth Creative Floristik,49.414345,8.689585,"""Flower Shop""",0,1,1,0,,{}
+4d2e1a554377224b75a50b38,Rabe Bistro & Bar,49.3792919125317,8.69119521286313,"""Spanish Restaurant""",1,27,15,3,,{}
+52a3237911d24d2c2b204ebb,Fascination Hair Style,49.377947,8.68739,"""Salon / Barbershop""",0,2,2,0,,{}
+4e1af1602271aba93799ed46,VW Bernhard Nutzfahrzeuge,49.4208778962854,8.63361102169801,"""Automotive Shop""",0,5,5,0,,{}
+4ca4a573d7c337047516ab62,Universitätsmuseum,49.4113501446888,8.70619297027588,"""Museum""",1,54,50,1,http://www.uni-heidelberg.de/einrichtungen/museen/universitaetsmuseum.html,{}
+5527bd6d498e17c66662e947,Oh Angie!,49.38368679512,8.68596058986039,"""Bistro""",0,14,10,4,http://oh-angie.de/heidelberg,{}
+4b55a06cf964a5209de927e3,McDonald's,49.3974710763201,8.68224620819092,"""Fast Food Restaurant""",2,640,178,15,http://www.mcdonalds.de,"{burger,kaffee}"
+5012e251e4b0adaeb0651ad1,Mr. Wu,49.406309,8.69066,"""Chinese Restaurant""",5,69,38,3,,{}
+4b9f9ed4f964a5206e2f37e3,Pizza Hut,49.3969807379357,8.68291896927355,"""Pizza Place""",4,138,79,8,http://www.pizzahut.de,{pizza}
+4d4274a248cea35dc96531f7,Max Planck Institut fuer medicinische Forschung,49.4126574991578,8.67676497647766,"""University""",0,47,17,0,http://www.mpg.de/153095/medizinische_forschung,{}
+4b8facd8f964a5207d5c33e3,Galeria Kaufhof,49.4097725407961,8.69633316993713,"""Department Store""",2,915,444,23,http://www.galeria-kaufhof.de,{}
+4d4e5ee2a8fba1431f44431a,Vorbach Pralinen,49.4091268482116,8.69210250659003,"""Chocolate Shop""",0,3,3,0,,{}
+53fb0a16498ef4999743340a,KFC Heidelberg,49.3973063105392,8.68278120378849,"""Fast Food Restaurant""",0,56,29,4,,{}
+518ea9b6498eb0cdf7d42a6d,Orient Lounge Sisha Bar,49.410481,8.694645,"""Bar""",0,34,28,0,,{}
+50cc5548e4b06f07d39942cf,Restaurant und Pension Dufke,49.3792088219518,8.67334729475332,"""German Restaurant""",1,27,5,15,http://www.restaurant-dufke.de,{}
+4e8ee23b9adf0d7c3544504c,Ristorante Italia,49.3809108421292,8.68881865463409,"""Italian Restaurant""",1,39,20,1,http://www.italia-heidelberg.de,{}
+4bc6fe7315a7ef3bb58978da,Chocolaterie St.Anna No 1,49.4095024142015,8.69414455103523,"""Caf\u00e9""",4,49,40,17,,{}
+4d5ffe29865a224ba486a585,P8 - Kongresshaus (C&A),49.4109382972353,8.7000560760498,"""Parking""",1,84,25,2,,{}
+5728baed498e648459b66de0,Eichendoffhalle,49.380235,8.692078,"""Athletics & Sports""",0,2,1,2,,{}
+4cffb093181a9eb0dde64906,Media Markt Heidelberg-Rohrbach,49.3668284004899,8.68541698996705,"""Electronics Store""",1,439,132,3,http://www.mediamarkt.de,{}
+56894e50498e9a7080eb1f1d,H Seegarten,49.4065105324608,8.68882273739719,"""Light Rail Station""",0,8,4,0,,{}
+56894e50498e9a7080eb1f1d,H Seegarten,49.4065105324608,8.68882273739719,"""Light Rail Station""",0,8,4,0,,{}
+557c4e41498e50ed0586a9cc,Sebastians Grilldach,49.3792855746915,8.67553486073142,"""Castle""",0,5,3,2,,{}
+56bad58e498e75fd31ed71da,Boarding House Luise 5,49.4101683317616,8.69131449701438,"""Residential Building (Apartment / Condo)""",0,32,4,0,,{}
+4b5640e5f964a520970728e3,ibis Heidelberg,49.4036675713642,8.67743435026971,"""Hotel""",12,670,409,20,http://www.ibis.com/de/deutschland/index.shtml,{}
+4cb5c5bd64998cfa9a4610a2,Deutsche Post,49.4087680698292,8.69358576558549,"""Post Office""",0,184,67,3,http://www.deutschepost.de,{}
+4b5497f6f964a520a5c127e3,Hotel Bayrischer Hof,49.4088766498175,8.69231247343962,"""Hotel""",4,261,136,10,http://www.bayrischer-hof-heidelberg.com,{}
+4c41981faf052d7fe28d7d79,Thalia,49.4110084781616,8.7006769,"""Bookstore""",1,127,88,2,http://www.thalia.de,"{""bücher, books, dvds, newspapers, zeitungen, thalia, buchhandlung""}"
+4fd735f3e4b0884f34ae468b,Knoblauch Büro- und Schreibwaren,49.4088571148556,8.69378241799102,"""Paper / Office Supplies Store""",0,19,11,0,,{}
+5710923a498e00f31ee6dac4,Cella's Room,49.385603,8.686788,"""Housing Development""",0,5,2,0,,{}
+5738b45c498e268997b6a135,Campbell Barracks,49.391956,8.685582,"""Military Base""",0,5,3,0,,{}
+4b55f707f964a52045f927e3,Zum Weissen Schwannen,49.411680275,8.7064,"""Restaurant""",3,172,140,24,,{}
+516cf8d4e4b086022acfe770,Institut für Theoretische Physik,49.4147573960419,8.69840783728916,"""College Science Building""",1,25,1,2,,{}
+4f9edc88e4b044503ca58fa7,Heidel-bike,49.4063050833488,8.69280034240966,"""Bike Shop""",0,21,16,2,http://www.heidelbike.de,"{"" shop"",bicycle,bike}"
+4c49be849e3e2d7f36f43049,Orchid Thai Restaurant,49.4078054696016,8.67682149104717,"""Thai Restaurant""",3,59,48,2,http://www.orchid-heidelberg.de,{}
+4bd94eac11dcc928876df933,C&A,49.4108692614003,8.69994016756342,"""Clothing Store""",0,148,92,2,http://www.c-and-a.com,{}
+55433efc498e4fd3ac13fcd3,Reit- und Fahrverein Heidelberg-Wieblingen,49.4217966659919,8.63915417044786,"""Stables""",0,2,1,2,,{}
+56cf18c1498ee97528d1b8b4,Datavard,49.4058282746106,8.68468494490289,"""Office""",0,3,1,2,,{}
+51095e26e4b032ec289b5b1d,Stotz,49.402693,8.643962,"""Light Rail Station""",0,27,13,1,,{}
+52656142498e0b0053035a04,Pestalozzi-Sporthalle,49.3967376556265,8.68693402463776,"""College Gym""",0,3,3,0,,{}
+4e0e0425483bc2b5f47d526d,orsay,49.3666706993817,8.68545576146382,"""Women's Store""",0,17,5,0,http://www.orsay.com,{}
+4b8d546af964a520f3f432e3,Starbucks,49.4101844666667,8.6955923,"""Coffee Shop""",15,1273,795,29,http://www.starbucks.de,{}
+53f6019a498ef49996bc3823,Presse - Tabak Karmann,49.366641998291,8.68529033660889,"""Convenience Store""",0,51,2,0,,{}
+4ec78625f79041351cc1621c,Tor,49.3668129617904,8.68539844499084,"""Falafel Restaurant""",0,36,6,0,,{}
+4e0e02e462843e04afa6fb80,New Yorker,49.3666648852287,8.68550345219025,,0,8,6,1,,{}
+4f194ea7e4b0a339fadf3220,La Crépe,49.3666207827692,8.68535928666306,"""Creperie""",1,108,35,1,,{crêperie}
+4da84c5ef7b12d2d9a079af5,Breitwieser,49.3666480369877,8.68397376600424,"""Department Store""",0,75,33,0,,{}
+4bd0989c1f89ce724ab767ea,Hotel ISG Heidelberg,49.3705252689157,8.705816340945,"""Hotel""",0,98,63,5,,{hotel}
+5178d245498e4d114cb2f1a2,PartyLite Germany,49.380084,8.679013,"""Office""",0,10,5,0,,{}
+50d37cb1e4b0830e0e184612,Freiburger Straße,49.3735631918722,8.68648838919754,"""Light Rail Station""",0,55,28,2,,{}
+52a4d57611d249c2155513ff,Mombertplatz 29,49.36941,8.703487,"""Residential Building (Apartment / Condo)""",0,17,6,0,,{}
+5729157a498ec95d48a2d0f1,Ongun Haus,49.371535,8.70648,"""Residential Building (Apartment / Condo)""",0,8,1,0,,{}
+56e3ef21cd10a88c5632691c,Im Eichwald,49.3711472005086,8.70603130191202,"""Neighborhood""",0,26,1,1,,{}
+51448f0fe4b0dfd2cd233d41,Mombertplatz,49.3688410290509,8.70350328158827,"""Housing Development""",1,20,11,0,,{}
+56f0ea5b498e352d77866590,Rutz im Rewe,49.3692845156275,8.70325181236314,"""Bakery""",0,5,3,0,,{}
+536d2759498e00e87fd9ce9a,Spielplatz an der Lahrerstrasse,49.372686,8.679839,"""Playground""",0,9,4,0,http://www.spielplatznet.de/spielplaetze/Heidelberg,{}
+4fae460de4b0ec8289146917,Adventgemeinde Heidelberg,49.3743654181923,8.68842682714266,"""Church""",0,63,7,1,,{}
+4ec53d0d29c224ea7c5324d2,Speyerer Strasse,49.3745138722008,8.66443470581373,"""Road""",0,7,3,1,,{}
+4ffc3231e4b03dec7849ebb6,Boxberg,49.37237523466,8.70541571217515,"""Neighborhood""",0,57,30,18,,{}
+4eec755baa1f98ce6490ad71,Mod's Hair,49.4152173176778,8.69042009515255,"""Salon / Barbershop""",0,6,5,0,,{}
+4b2bcf6ff964a5206ebb24e3,Hotel Heidelberg,49.3757789240471,8.66098165512085,"""Hotel""",5,148,82,7,http://hotelheidelberg.com,{}
+4e288291fa762797e59e2478,Kirchheim Friedhof,49.3759927362232,8.65957005358892,"""Light Rail Station""",0,16,9,2,,{}
+50cfb94be4b0707f6ca6fd25,Konstanzer 4/62/4,49.373142783641,8.68694949890302,"""Residential Building (Apartment / Condo)""",0,10,6,0,,{}
+56ffbac8498ea84483f6de70,Zekinin Bahçesi,49.3759201485117,8.66378007039834,"""Garden""",0,3,1,0,,{}
+525540fe498ed16114c2e116,Karnahl-KFZ-Meisterbetrieb,49.377461,8.666621,"""Automotive Shop""",0,5,2,1,,{}
+51975779498edb9fadeb393b,Rutschenspielplatz,49.377658,8.657192,"""Playground""",0,5,4,4,,{}
+4d29d878068e8cfa9ff2d34c,H Kirchheim-Rathaus,49.377105935809,8.66497320720187,"""Tram Station""",0,381,35,2,,{}
+4dcaaee11f6e2812677cae81,Bürgerzentrum Heidelberg - Kircheim,49.3771760027761,8.66589546203613,"""General Entertainment""",0,43,15,1,,"{""heidelberg kircheim bürgerzentrum cor ces""}"
+4b9403f6f964a520856134e3,restaurant goldener hirsch,49.377894,8.666676,,2,9,4,4,,"{griechiche,küche}"
+535d0294498ebcf55340688f,Kaffeetraum,49.3779373168945,8.66665363311768,"""Caf\u00e9""",0,8,3,1,,{}
+507edc23e4b0998ce3b49a68,Gärtnerei Jäger,49.3765907287598,8.65808296203613,"""Flower Shop""",0,7,4,0,,{}
+4d6e93f7134ea143c5b1921a,Goldene Rose,49.3774400165295,8.66703312984559,"""Italian Restaurant""",7,246,50,2,http://www.goldenerose-hd.de,{}
+51d9930c498ebe884251d6a7,Petruskirche,49.3776550292969,8.66870498657227,"""Church""",0,6,2,2,,{}
+4e7b2ab5ae60e8217bba2854,IGH,49.3768651585902,8.68060134100696,"""General College & University""",0,129,19,1,,{}
+5318cd1c498ea6c6b7d63190,Pfälzer Hof Kirchheim,49.377167,8.672742,"""Pub""",1,4,3,0,,{}
+4c8fd68bd38dbfb772aa00e2,Thoraxklinik Heidelberg,49.3778143719715,8.68928455432154,"""Medical Center""",3,247,45,0,http://www.thoraxklinik-heidelberg.de,{lunge}
+5517e9ec498ea99fe4ce47ec,HELL,49.377211,8.665756,"""Doner Restaurant""",0,4,2,0,,{}
+5409dbce498e42bb5c8cedae,HEIDEILBERGER PÄDAGOGIUM,49.376986,8.685478,"""Language School""",0,2,2,0,,{}
+4d6e93f7134ea143c5b1921a,Goldene Rose,49.3774400165295,8.66703312984559,"""Italian Restaurant""",7,246,50,2,http://www.goldenerose-hd.de,{}
+4ea2eb797ee52a35dd182bd1,BMW Heidelberg,49.3763135521111,8.66784208589408,"""Auto Dealership""",0,4,4,1,http://www.bmw.de,{}
+4c53092cfd2ea593fd9ecc27,Bodega Don Jamon,49.3779220932235,8.69310516250136,"""Spanish Restaurant""",1,28,26,1,http://www.bodega-heidelberg.de/home.php,{}
+525545fc11d23dac6748917b,Bäckerei Grimminger,49.3792135805739,8.66426489398688,"""Bakery""",0,13,4,0,,{}
+4cb975b0dd41a35d07cbe1a0,Burger King,49.3789757588153,8.63193554020651,"""Fast Food Restaurant""",0,142,34,3,http://www.burgerking.de,{}
+4b66d60af964a520bb2c2be3,Patrick-Henry-Village,49.3784015102324,8.63097785488229,"""Military Base""",2,1046,137,21,,"{"" henry"","" patrick "","" village"",family,housing,karaoke,military,phv}"
+4ea641c4722e2c16d2ef8d24,Ortenauer Straße,49.376942,8.687777,"""Tram Station""",0,59,21,3,,{}
+4ece97352c5bc35054de3a45,Linde Restaurant,49.3778810119892,8.69310157044679,"""German Restaurant""",1,23,19,1,,{}
+545b2f7e498e54247c2a7aac,Heidelberg,49.3781879755207,8.64917365183552,"""Town""",0,55,43,2,,{}
+52aff97b11d2bf55ae056c74,Rondell,49.379227422036,8.66145407555386,"""Plaza""",0,23,6,2,,{}
+517261d8e4b0d68673eeb5ef,ALDI SÜD,49.3783493542905,8.66409266221705,"""Supermarket""",0,87,11,0,http://www.aldi-sued.de,{}
+50581d29e4b04791645a4bb8,Zahnarzt Dr. Kuri,49.3791070575638,8.66948061610004,"""Dentist's Office""",0,6,2,0,,{}
+55b1234a498edfb121de9010,Deza Döner,49.3788242702056,8.67244108010218,"""Food Court""",0,3,2,0,,{}
+525545fc11d23dac6748917b,Bäckerei Grimminger,49.3792135805739,8.66426489398688,"""Bakery""",0,13,4,0,,{}
+51405f1be4b014553855e654,Bürgeramt Kirchheim,49.3781026926995,8.66398497583594,"""City Hall""",0,5,4,0,,{}
+4c0fdd9981e976b01e3b0eeb,Bahnhof Heidelberg-Kirchheim/Rohrbach,49.379424163113,8.67537335963356,"""Train Station""",0,1127,254,29,http://www.bahnhof.de,{}
+52b01b2911d200c426dfa9a0,Drogerie Werner&Post,49.3796527207971,8.66991628865431,"""Pharmacy""",0,9,4,1,,{}
+57178bd7498e485c69be90df,Kathys Nagelstudio,49.379453,8.66718,"""Nail Salon""",0,1,1,0,,{}
+537a3a51498edb1da5582792,Mrs. Sporty,49.379039957719,8.66931582102262,"""Sports Club""",0,4,2,0,,{}
+4bd7024f7b1876b0ad648d86,Mr. Pepperoni,49.3784752503544,8.66759061813354,"""Middle Eastern Restaurant""",1,94,21,1,,{}
+52aff97b11d2bf55ae056c74,Rondell,49.379227422036,8.66145407555386,"""Plaza""",0,23,6,2,,{}
+545a5755498e7b3215e161be,ck physio,49.406165,8.694498,"""Massage Studio""",0,1,1,0,,{}
+557c4e41498e50ed0586a9cc,Sebastians Grilldach,49.3792855746915,8.67553486073142,"""Castle""",0,5,3,2,,{}
+4c4549a3da2176b0a41f637a,Bürgeramt Rohrbach,49.378157067274,8.68657073507473,"""City Hall""",0,10,8,0,,{}
+4c456aaada2176b0c527637a,PENNY,49.3796724112966,8.69041899648924,"""Supermarket""",1,79,28,3,http://www.penny.de,{}
+52375ae511d23f85ba98d81f,Pronto Pizza,49.378662,8.687292,"""Italian Restaurant""",0,2,2,0,,{}
+54ec9532498edc0294d19ee8,Wühlmäuse Kinderbetreuung,49.3781774772188,8.68623393607984,"""Daycare""",0,5,2,0,http://www.wuehlmaeuse-hd.de/kontakt-anfahrt/,{}
+4f67a3c1e4b018e73185aa62,Residenz,49.3789362654326,8.69203090667725,"""Boarding House""",1,127,14,2,,{}
+5558bfc1498eccd4a51cbf8d,Il Gambero Rosso,49.3790341346112,8.69140591583893,"""Italian Restaurant""",1,7,7,1,,{}
+517e82f67ab400cf075d053d,Pipe Creek,49.3792855164005,8.69151592254639,"""Neighborhood""",1,28,3,2,,{}
+5049fbcce4b01e50331c59cc,metzgerei sommer,49.3795471191406,8.69063854217529,"""Butcher""",0,3,3,0,,{}
+4d86020c99b78cfa0fb6da1f,Eis Dolomiti,49.378792,8.691971,"""Ice Cream Shop""",1,54,22,2,,{}
+56a28175498e17db8f9ccf37,Melody,49.3793361525551,8.69101615251006,"""Mediterranean Restaurant""",0,5,2,1,,{}
+508046b5e4b0974e4fc6edda,Fandango,49.379911,8.690339,"""Bar""",1,7,4,0,,{}
+4c456c6fda2176b02928637a,Schreibwaren Hoffmann,49.3790330303544,8.69167201767231,"""Paper / Office Supplies Store""",0,31,3,0,,{}
+56f57695498e50b14426e1e1,Gästehaus Zu Herrenwiesen,49.37982,8.690004,"""Boarding House""",0,1,1,0,,{}
+5278a495498ecc6c3cc528ce,Montessori Kinderhaus Am Turm,49.381658,8.677747,"""Daycare""",0,2,2,0,,{}
+53cfabd6498e49734a889b42,schmitthennerstrasse 1,49.3814697265625,8.66350364685059,"""Residential Building (Apartment / Condo)""",0,8,4,0,,{}
+4d9d64787865a09385f4e67a,Lidl,49.380044884992,8.67809555884133,"""Supermarket""",0,103,29,1,http://www.lidl.de,{}
+4f17d74ae4b0d1497112164b,Bäckerei Riegler,49.3814615955524,8.66349282488768,"""Bakery""",0,29,15,1,,{}
+502943f7e4b0dd4acd7bd1d3,Sardegna,49.381237,8.671425,"""Pizza Place""",3,30,17,8,http://www.ristorante-pizzeria-sardegna.de,{}
+51541e78e4b01a67ec0288b5,Bürgeramt Rohrbach,49.3793991206251,8.69246153379262,"""City Hall""",0,5,3,0,,{}
+52f8b590498e151ddda0f90c,Freier Montessori Kindergarten,49.3805136869697,8.67514846747661,"""Nursery School""",0,2,2,0,http://montessori-heidelberg.de,{}
+4dd013c2fa7664b7c6d064d8,PHV Launderette,49.3812082707312,8.63443367901713,,0,16,8,0,,{}
+5314bfade4b0d805d379f48e,Kirchheim,49.3806314586819,8.66293687971538,"""Neighborhood""",0,24,14,0,,{}
+4efc25a09911cd89d0a5536e,H Rohrbach Markt,49.3804168853662,8.68810655712712,"""Tram Station""",1,272,85,17,,{}
+4d878260f1e56ea8347fb18a,Blockwart,49.381088,8.687184,"""Building""",0,198,10,6,,{}
+4d85e62440a7a35d44ec29be,AVIA,49.381059,8.689524,"""Gas Station""",0,72,21,1,,{}
+4f18b69be4b0a339fa520347,Wellness Oase ***,49.40414412723,8.63320874629317,"""Spa""",0,1,1,0,,{}
+4c4fcca8371520a1074840c0,Praxis Dres. Hestermann - Hausarzt / Internist,49.3800028128259,8.68221936841521,"""Doctor's Office""",0,11,3,0,,{}
+5214f1ed11d2d9e547b9b42e,Eichendorf Apotheke,49.3806492624045,8.68831478474272,"""Pharmacy""",0,6,2,0,,{}
+535bf85e498e56c7bac65678,Quartiersspielplatz,49.3808937850768,8.67894440889359,"""Playground""",0,2,2,0,http://www.spielplatznet.de/spielplaetze/Heidelberg/Rohrbach,{}
+4e93e9f6722e42857acd6f3a,Albert-Fritz-Straße,49.3829340176897,8.6721499415941,"""Light Rail Station""",0,38,18,3,,{}
+527568ef11d23000409c2aa1,Scheune,49.382767,8.669113,"""Pub""",0,7,5,2,,{}
+4e8ee1cf77c843122ccae90a,Optik Masing,49.3809564805761,8.68866175036022,"""Optical Shop""",0,20,4,0,,{}
+532d96c3498e67da98617380,Kindergarten St. Georg,49.382809,8.668954,"""Nursery School""",0,1,1,1,,{}
+51ce29bd498e9830f3a9cfbe,F+U Turner Wohnheim,49.381373,8.689103,"""Residential Building (Apartment / Condo)""",0,23,10,0,,{}
+4c0004d475fc952125a94898,Heidelberg trian station,49.3809084215577,8.69189493471507,,0,3,3,0,,{}
+4ea2e985be7ba4918e72bf66,Club Extacy,49.3799811770964,8.69008278721658,"""Nightclub""",0,3,3,0,,{}
+5057546fe4b0d070fde0c8f4,Römerstraße,49.3810691833496,8.68727397918701,"""Road""",0,3,2,0,,{}
+501d5ed1e4b05160dd0bf8ae,Trattoria Vecchia Bari,49.3835107739321,8.66225946673263,"""Trattoria/Osteria""",1,34,28,1,,{}
+51e410db498e873c1921aeb1,Orchid Thai Massage,49.3830985289567,8.66784518256996,"""Massage Studio""",0,10,5,1,,{}
+57189603498ec0b8f9f48136,Hautcore Tattoo,49.382761,8.668712,"""Tattoo Parlor""",0,1,1,0,,{}
+4c44b140f05e95217e27e4b3,ALDI SÜD,49.3828904628754,8.678743,"""Supermarket""",0,136,37,1,http://www.aldi-sued.de,{}
+4fd34c36e4b0cb311eac8033,Bric & Brac,49.3817940231712,8.68268112684486,"""Antique Shop""",0,5,4,1,,{}
+4c6673f67abde21eb37a6368,Sisal Kebap Haus,49.382736,8.682411,"""Middle Eastern Restaurant""",0,67,26,2,,{}
+573f4f37498ebf62bcbdc0ba,Rutz im Rewe,49.383546,8.679595,"""Bakery""",0,1,1,0,,{}
+542d83ff498e27ad97454c8d,Cogitars HD,49.383556,8.681769,"""Building""",0,2,1,0,,{}
+56ffd769cd101329dabd8053,Zeki-Zekiye House,49.3839678251192,8.66935584297181,"""Residential Building (Apartment / Condo)""",0,2,1,0,,{}
+56fbd298498eeb8c8fa9e5a3,Rudolph GmbH,49.3831739833262,8.67935542924844,"""Miscellaneous Shop""",0,2,1,0,,{}
+4ef87c4cf790731252c7ac74,H Eichendorffplatz,49.3834106758917,8.69038403322201,"""Bus Stop""",0,325,43,3,,{}
+4e86dea061afbe0284283bef,Studentenwohnheim Holbeinring,49.3828806458791,8.68646877232193,"""College Residence Hall""",0,331,57,9,,{}
+550ee70c498e28d81abffb26,Heidelberg,49.383500184279,8.69104686103225,"""Road""",0,4,4,1,,{}
+52651bb911d280762c6445e5,Zahnarztpraxis Heidelberg-Rohrbach,49.3835359524994,8.69051139846017,"""Dentist's Office""",0,3,3,0,http://zahnarzt-heidelberg.eu/Leiner-Schormann/Willkommen.html,{}
+4c03ee6539d476b018be30a7,Hakims Imbiss- & Steakhaus,49.38423813296,8.68042138406643,"""BBQ Joint""",12,188,97,24,,"{""food, barbeque, douchebag""}"
+51821425498e22a5ad1de505,Agip,49.385108,8.673447,"""Gas Station""",0,19,7,0,,{}
+4bff944c369476b022fb8d1f,Mark Twain Village,49.38434914189,8.68342088489171,"""Government Building""",3,111,29,0,,{soldiers}
+4c2de679987f20a121234aaa,REWE Center,49.3837836470122,8.67867350578308,"""Supermarket""",4,816,170,6,https://www.rewe.de/meinkaufsbox/markt/marktinfo.html?marketId=485121#frameId=iframe1&height=819,{}
+4cc2f49ecdb59c7414fc2c48,Vertigo - DAV Kletterzentrum,49.3894257745612,8.66646031618963,"""Gym / Fitness Center""",1,36,15,0,,{klettern}
+5710923a498e00f31ee6dac4,Cella's Room,49.385603,8.686788,"""Housing Development""",0,5,2,0,,{}
+4c456bacda2176b0fc27637a,Autohaus Bernhardt,49.3856108,8.6891297,"""Auto Dealership""",0,3,3,0,,{}
+4ce685dbfe90a35dd692360e,Campbell Barracks Raquetball Courts,49.3873637215367,8.68580780022221,"""Gym""",1,14,8,0,,{}
+4c87c3e433453704338d1572,Boulderhaus,49.3862828,8.679123,"""Gym / Fitness Center""",5,516,61,18,http://www.boulderhaus.de,"{"" climbing"","" hall"","" indoors"",gym,sports}"
+4b67dc1ef964a5207d5f2be3,Leonardo Hotel,49.38709,8.661468,"""Hotel""",10,455,294,20,http://www.leonardo-hotels.de,{}
+4ed4f7a52c5b695abfa25213,Wild Stammwerk ( Capri-Sonne),49.3875065199129,8.63785007737996,"""Factory""",1,104,74,2,,{}
+4ce39940dc85a143fd8e46d2,Esso,49.3871140874233,8.66182546411255,"""Gas Station""",0,113,48,2,http://www.esso.de,{}
+4de65f6f45dda52a060b653e,ADAC Geschäftsstelle,49.3868116450453,8.66325133081009,"""Miscellaneous Shop""",0,44,30,1,http://www.adac.de,{}
+56d19505cd10d7d59ca1a638,"Hagenstraße, Rohrbach, Heidelberg",49.3852734289502,8.69072601782942,"""Road""",0,11,1,1,,{}
+53930055498e3acc6d62881e,Kirchheim,49.3844960524761,8.67042334705156,"""Neighborhood""",0,21,13,0,,{}
+52b01efb498ea90b5f71026e,ADAC Kirchheim,49.3867389722484,8.66314314529046,"""General Travel""",0,8,5,0,,{}
+4da49fc79935a0935c95e16f,Schützenhaus Eppelheim,49.3885301940609,8.63379383707709,"""Diner""",4,146,42,10,,{}
+4c456bacda2176b0fc27637a,Autohaus Bernhardt,49.3856108,8.6891297,"""Auto Dealership""",0,3,3,0,,{}
+4db585b90cb6729b6aa6dbed,Bierhelderhof,49.386371,8.704135,"""German Restaurant""",6,82,65,9,,"{biergarten,gaststätte,""gaststätte / biergarten""}"
+4ed4f7a52c5b695abfa25213,Wild Stammwerk ( Capri-Sonne),49.3875065199129,8.63785007737996,"""Factory""",1,104,74,2,,{}
+54dd1125498e588e8b3ae628,Distille,49.3870321172446,8.6941425483711,"""Bar""",0,7,7,0,,{}
+4e9848aa2c5b827059d3350c,Markscheide,49.3871045184525,8.69030984304515,"""Light Rail Station""",0,147,23,2,,{}
+545ccbb5498eabb252d41647,Hof Eins,49.3894187579562,8.65361334483143,"""Design Studio""",0,12,1,0,,{}
+4e1212e452b1655efa4b8be8,Darwisch Persische,49.4053717282679,8.69265088240451,"""Middle Eastern Restaurant""",3,54,43,8,,{}
+528bd6b411d2f09fa6df4635,Studentenwohnheim Römerstr 131,49.3872323108423,8.68685999063602,"""College Residence Hall""",0,283,7,0,,{}
+5073e98ee4b0b56e989b7c00,institut für Bildungswissenschaft,49.4099789454517,8.69762572356575,"""College Science Building""",0,35,8,2,,{}
+52d11ffb11d2ad3815eaf783,Turnzentrum,49.387955,8.666491,"""Athletics & Sports""",0,23,3,3,,{}
+4f8d542ce4b0a66dd3dcefc1,Dekra - Prüfstelle Heidelberg,49.3900583,8.6533815,"""Automotive Shop""",0,2,2,0,,{}
+4c35ffdc16adc928faa4c79c,Casa Sorrento,49.388804,8.690176,"""Italian Restaurant""",2,81,29,2,,{}
+5358e599498e9061150896f7,Recyclinghof HD,49.391016989868,8.66173544500762,"""Recycling Facility""",1,4,3,2,,{}
+4cc2f49ecdb59c7414fc2c48,Vertigo - DAV Kletterzentrum,49.3894257745612,8.66646031618963,"""Gym / Fitness Center""",1,36,15,0,,{klettern}
+545ccbb5498eabb252d41647,Hof Eins,49.3894187579562,8.65361334483143,"""Design Studio""",0,12,1,0,,{}
+4da186e8bf22a14399889df8,TVE Sportplatz,49.390837339398,8.62765789031982,"""Soccer Field""",0,11,3,0,,{}
+4c50101df080a5937e30e0e1,Giardino Italian Restaurant,49.3897954983317,8.69011408446374,"""Italian Restaurant""",3,42,26,0,,{}
+4d8489b15ad3a093023dd1fd,Bethanien Krankenhaus,49.3919078803573,8.69015270945065,"""Hospital""",0,102,23,0,http://www.bethanien-heidelberg.de,{}
+4e5c3bf57d8bfb5e36b5d5a7,Englisches Institut,49.390050805916,8.68734594208149,"""School""",0,11,8,0,,{}
+5165933fe4b0f799bad62932,Adenauerplatz,49.4071267992266,8.69336128234863,"""Historic Site""",2,501,50,15,,{}
+4f8418f3e4b00dd95227d530,Capri-Sonne Sportcenter,49.3938032492043,8.636080668711,"""Gym / Fitness Center""",0,13,12,3,,{}
+4e0b8a3d483bb906b6b31178,Moods Bar & Restaurant,49.3931910579712,8.68197195324798,"""Bar""",3,93,53,2,,{}
+4cd19f555845bfb7e80cb30d,Ehrenfriedhof Heidelberg,49.3929995149163,8.6975683235099,"""Cemetery""",0,33,26,3,,{}
+4f6834a4e4b0fef78f7aab84,rheinstrasse,49.3919448852539,8.68504619598389,"""Light Rail Station""",0,24,10,0,,{}
+4f86cf3ee4b02b69f39b6e99,HTV,49.3936004638672,8.6820068359375,"""Soccer Field""",0,21,6,1,,{}
+4d2a42fcf7a9224b2cbd05a0,Patton Barracks,49.3950294349333,8.67356268311368,"""Military Base""",0,328,37,1,,{}
+4f8418f3e4b00dd95227d530,Capri-Sonne Sportcenter,49.3938032492043,8.636080668711,"""Gym / Fitness Center""",0,13,12,3,,{}
+4fc9c21ce4b013489ab31264,Netto (City),49.3950642398079,8.64396174711241,"""Supermarket""",0,45,9,1,,{}
+4e0b8a3d483bb906b6b31178,Moods Bar & Restaurant,49.3931910579712,8.68197195324798,"""Bar""",3,93,53,2,,{}
+4b6bee8cf964a520fe1c2ce3,St. Josefskrankenhaus,49.4028743188316,8.68873970673802,"""Hospital""",0,84,42,0,http://www.josefskrankenhaus.de,{}
+51dd234c498e621128f60db2,Dietrich-Bonhoeffer-Gymnasium,49.3949256700834,8.63380666579508,"""High School""",0,20,5,0,http://www.dbg-eppelheim.de,{}
+554db967498ec7eee379fb64,Ernst-Knoll-Halle,49.394071,8.634156,"""Basketball Court""",0,2,2,0,,{}
+5743f6f2498e6810a8d8b18a,Haltestelle Steinhofweg,49.394283,8.646483,"""Bus Stop""",0,3,1,0,,{}
+56210469498efb96c1e7b4a5,Autohaus Südstadt,49.3935665202362,8.68551669798952,"""Auto Garage""",0,2,1,0,,{}
+4ca37f286bb1b7137e518069,Bergfriedhof,49.3949992411796,8.69155883789062,"""Cemetery""",0,186,46,10,,{}
+51d45d6b498e82e7713af3b3,Christ-König-Kirche,49.3965335052577,8.6298774760067,"""Church""",0,8,3,2,,{}
+569f8396498e8f42d4a7105c,Friseur Büssecker,49.3958537376636,8.64339540514514,"""Salon / Barbershop""",0,4,2,0,,{}
+4eac0cd59a522a65af66bde5,Feigenbutz,49.3960723876953,8.62524032592773,"""Rock Club""",0,4,2,0,,{}
+4d0797aea2685481d486c7bd,Eissporthalle Eppelheim,49.3957688042358,8.63607172229879,"""Skating Rink""",0,75,42,0,,{}
+4f5249dce4b028a91f25433e,Heidelberg Bulls,49.393579013619,8.68170942153882,"""Field""",0,4,3,0,,{}
+564ecbfb498e06a8289c17cf,Arztpraxis Dr. Marggraf,49.3956879905626,8.6442242400147,"""Doctor's Office""",0,11,2,0,,{}
+4cb432bc75ebb60ce887e0ad,Spektrum der Wissenschaft Verlag,49.394437,8.688119,"""Office""",1,451,17,3,,"{scilogs.de,""spektrum der wissenschaft, gehirn&geist, epoc, sterne und weltraum""}"
+4fe05cb5e4b0c4779153ed7a,Feuerwehr Heidelberg,49.3960701624851,8.67027134070784,"""Fire Station""",0,10,9,3,,{}
+4e63bf7f45ddda352a23484e,Kranich Cafe,49.3959431,8.6435634,"""Pub""",1,43,20,1,,{}
+56977f27498e7ea36d465eed,Kranich Döner,49.396038,8.64327,"""BBQ Joint""",0,2,1,0,,{}
+4cc2fb0a306e224b54ba936c,Heid's,49.396683,8.67222327,"""Steakhouse""",21,429,232,39,http://www.heids-heidelberg.de,"{liquor,seafood,steak}"
+4e7c3d538877aac4a95e91ab,Heidelberg-Pfaffengrund/Wieblingen,49.3951682357445,8.64444527240809,"""Bus Station""",0,180,26,2,,{}
+4dbef2b9f7b1ab37dd98b87b,Häll,49.3953105489071,8.67729850968514,"""Rock Club""",4,92,64,5,http://haell.de,{}
+56eaea7e498eb30b28a91a7b,Radhaus Gerger,49.396202,8.643019,"""Bike Shop""",0,1,1,0,,{}
+4c8676a074d7b60c0d52a4d8,Kegelhalle Heidelberg,49.3961691279577,8.68052991425153,"""Bowling Alley""",0,210,18,0,,{}
+56c60874cd10c05768ef0904,GT Performance,49.3964874545547,8.68534972780705,"""Auto Garage""",0,1,1,0,,{}
+4f496281e4b0ecc813ada88e,Breidenbach Studios,49.396699514017,8.6785152554512,"""Art Gallery""",3,179,43,18,,{}
+54608ddf498ed1b7f6c8476f,Dr. Kayser,49.397346,8.647506,"""Doctor's Office""",0,2,1,0,,{}
+5258fadc498ea0562dc98425,Reiff Reifen,49.3960001633987,8.67789941888195,"""Automotive Shop""",0,5,4,0,http://www.reiff-reifen.de/de/content/Reifenservice.html,{}
+4eefa6ad0cd6a4f9e827b057,Helmholtz Gymnasium,49.3956625989809,8.68867814540863,"""High School""",0,25,12,0,,{}
+507c5bb0e4b0e1211845c259,H Bergfriedhof,49.3958436256681,8.68984069575857,"""Tram Station""",0,13,8,1,,{}
+4d91e310033ba35d954a790d,VW Zentrum Heidelberg,49.3970544443767,8.68050332381294,"""Building""",0,57,16,0,,{}
+4d91e310033ba35d954a790d,VW Zentrum Heidelberg,49.3970544443767,8.68050332381294,"""Building""",0,57,16,0,,{}
+4b4c616af964a520e7b126e3,Burger King,49.398613,8.674381,"""Fast Food Restaurant""",2,339,128,16,http://www.burgerking.de,{}
+4c5fb88290b2c9b64b573b22,Autohaus Dechent,49.3986300755526,8.67505279605873,"""Auto Dealership""",1,23,17,1,,{}
+4d1db97d2eb1f04d69dad8c1,Deutsches Rotes Kreuz,49.3988162324873,8.67322544703322,"""Building""",0,41,10,1,,{}
+54b107b4498e6ffea54e326e,Tierarztpraxis Dr. Claudia Benda,49.402407,8.625836,"""Veterinarian""",0,2,1,0,,{}
+52b1fa59498eabeda973a678,Der kleine Pfaffe,49.397431,8.652245,"""German Restaurant""",2,22,13,4,http://www.derkleinepfaffe.de,{}
+4e29a0ded22d848a146f5464,TSV Pfaffengrund,49.397342,8.653161,"""Soccer Field""",0,4,4,0,,{}
+520f1a3211d2d0dc2550af7b,B&B Hotel Heidelberg,49.3972948477489,8.67491105046636,"""Hotel""",4,225,148,13,http://www.hotelbb.de,{}
+4bd74440304fce72924933ab,Hotelo,49.398881,8.680678,"""Hotel""",2,133,71,3,https://hotelo-heidelberg.de,{}
+56b6f428498e0e803274ffca,Halle02 Gmbh & Co. Kg,49.3987524,8.6724335,"""Music Venue""",0,2,2,0,,{}
+526ba315498e8f0dfba3f116,Zum Goldenen Löwen,49.3992351089001,8.62691724462963,"""German Restaurant""",2,53,29,1,,{}
+4b9e1a45f964a520d3ca36e3,Goldener Löwe,49.3989373604125,8.62714290618896,"""German Restaurant""",6,246,46,6,,{}
+4c407f72d691c9b6133e8b0a,China Restaurant,49.3970987,8.68325575,"""Chinese Restaurant""",1,35,29,2,,{}
+4f380628e4b0653d4b541c87,H Kranichweg,49.4020866910154,8.64078795361313,"""Tram Station""",0,206,40,3,,{}
+4f682b78e4b094ea6cd9ab20,H Kirchheimer Straße,49.3992545056335,8.62668006108015,"""Tram Station""",0,182,29,0,,{}
+544b615b498ec90c7a80008c,Sportzentrum Mitte,49.3986577952177,8.68519756458392,"""Sports Club""",0,18,2,0,,{}
+56423f64498e49d041881206,SUYTES Business Studios,49.398639,8.680778,"""Residential Building (Apartment / Condo)""",0,14,3,0,,{}
+52115345498e735d914f1b9e,Carl-Benz-strasse,49.3987770080566,8.68059825897217,"""Road""",0,4,2,0,,{}
+4d5c4a5eb9b2a143502f748c,Eichbaum Theke,49.4001937368453,8.63061596338235,"""German Restaurant""",0,165,10,1,,{}
+51df163d498ee63ef79dca2c,Schwetzinger Terrasse,49.3994997293023,8.67151626778292,"""Plaza""",0,38,10,3,,{}
+53cd032f498edc8c0e6b225e,Kamelien Thai-Massage,49.3999454079214,8.62722504494594,"""Massage Studio""",0,1,1,1,,{}
+4c94fc8a21c7199cdc42147f,VeniceBeach Lifestyle Fitness,49.3996549950262,8.67625015782875,"""Gym / Fitness Center""",2,1384,78,1,http://www.venicebeach-fitness.de/studios/lifestyle-fitness/heidelberg.html,{}
+4b545256f964a52079b727e3,Mandy's Railway Diner,49.3997682352992,8.67799758911133,"""Diner""",58,1828,863,134,http://www.mandys-hd.de/mandysdiner/,"{"" american"","" burger"","" listing"","" railcar"","" second"","" shakes"","" the"",""american diner"",diner,why}"
+51483fd9e4b0006ed639f25c,"Sparkasse Heidelberg, Filiale Bahnstadt",49.399327,8.671028,"""Bank""",0,23,7,3,,{}
+55072f8c498e138fa852fc28,LA33,49.399715770824,8.67024089007941,"""Cultural Center""",0,4,4,0,,{}
+53d8d37d498e903b9f4899a7,Mandy's Fast Food Center,49.3999689436215,8.67836939420189,"""Fast Food Restaurant""",4,48,29,4,,{}
+519ba2f4498e702884bac97a,H Montpellierbrücke,49.400539064525,8.67831198801948,"""Tram Station""",0,17,5,0,,{}
+4eaab475108160300032cb67,ZIM (Zentrum für Informations- und Medizintechnik) Uniklinik Heidelberg,49.4000265716848,8.67682814598083,"""Office""",1,115,15,2,http://www.klinikum.uni-heidelberg.de/zim-zentrum-fuer-informations-und-medizintechnik.93.0.html,{}
+4bfc347ce05e0f470c57cfa8,Cafe Boulevard Am Danteplatz,49.400492,8.686568,"""Caf\u00e9""",3,129,49,4,,{}
+4e267a7db61ce3fb054f1c50,Montpellierbrücke,49.400532314152,8.6783688771294,"""Bridge""",0,426,85,6,,{}
+4bed67b79868a593734e5d46,Sunisa's Thai Imbiss,49.3999980875392,8.6782537637021,"""Thai Restaurant""",7,520,110,11,http://www.thai-heidelberg.de,{}
+5659dd88498efbd1a7b3bed1,Spielbetrieb Heidelberg,49.3995675644964,8.68300933773953,"""Toy / Game Store""",0,9,2,0,,{}
+562b4ed8498e345df0fa2e81,Olè Olè La Taperia,49.399488,8.685091,"""Tapas Restaurant""",0,8,8,0,,{}
+5065f419e4b08ee4f0398de6,Moro's Coffee Shop,49.3998547666321,8.68309140126528,"""Coffee Shop""",0,6,5,0,,{}
+4e74789e52b1c8e518fee4e6,Tanzschule Nuzinger GmbH,49.4007470730004,8.68452820899077,"""Dance Studio""",0,48,7,0,,{}
+4e5e65c222718258c48dd259,Löwenkeller,49.399677996696,8.69035098120144,"""Mediterranean Restaurant""",0,29,18,1,http://www.löwenkeller-heidelberg.de,{}
+4e2b043b62e144b5d3a7af77,Poseidon,49.400809,8.691227,"""Greek Restaurant""",1,14,9,3,,{}
+522b09a711d2118e92891e5e,Kulturmeile Eppelheim,49.4013671062411,8.62405300140381,"""Public Art""",1,19,4,2,,{}
+50ca1d31e4b0bd36c06c9a89,Hutzelwald,49.4003158453438,8.69189722217451,"""Gastropub""",0,5,5,0,,{}
+571770b3498e20c4c522ec47,Kosmetik Harmonie,49.4026,8.62237,"""Cosmetics Shop""",0,1,1,0,,{}
+4f7ca98fe4b06a80abe940bc,Anatolien Pizza Kebab,49.3998537544833,8.69053833922505,"""Turkish Restaurant""",1,38,17,2,,{}
+4ebffaecb6341cd41ed07712,Shell,49.3991377079888,8.68970818549039,"""Gas Station""",0,40,28,2,http://www.shell.de,{}
+4cfcce7f7945224b40028de7,La Torre Pizzeria,49.4019270482985,8.62987444915092,"""Italian Restaurant""",0,35,13,0,,{}
+4b65637af964a52042ef2ae3,Rathaus Eppelheim,49.4017473154355,8.62885368444914,"""Other Great Outdoors""",1,188,26,1,,{}
+4d301900a62d721efff5967d,Dr. Mollet HNO,49.403603,8.634946,"""Doctor's Office""",0,2,2,0,,{}
+4b4b0c34f964a520789126e3,Yasmins 2 - Döner & Pizza,49.4014159792054,8.62944960594177,"""Pizza Place""",3,268,24,0,http://www.yasmins-doener.de,{}
+4f37f057e4b0571dc7f9e226,Cafe am Wasserturm,49.4023305928502,8.63008260726929,"""Caf\u00e9""",0,8,6,0,,{}
+509b71c1e4b02b9bb31b6e6c,H Eppelheim Rathaus,49.40154,8.628856,"""Tram Station""",0,15,7,0,,{}
+55aa3474498eca475cef270e,Medina Beauty Lounge,49.401486,8.62985,"""Health & Beauty Service""",0,2,1,0,,{}
+517398fce4b03b4666265cc7,Pauluskirche Eppelheim,49.401521,8.630365,"""Auditorium""",0,9,4,0,,{}
+5091455de4b0554ee8671d4c,H Jakobsgasse,49.4009358381119,8.63328571274845,"""Tram Station""",0,164,15,0,,{}
+4e341fcfaeb722686263cfaa,Stadtpark Eppelheim,49.4023498882246,8.63000730089334,"""Park""",2,110,16,3,,{}
+4e295d2162e17c3301a6f66c,H Römerkreis Süd,49.4047198070477,8.68465229094475,"""Tram Station""",0,190,70,2,,{}
+517398fce4b03b4666265cc7,Pauluskirche Eppelheim,49.401521,8.630365,"""Auditorium""",0,9,4,0,,{}
+4e15a98c091a2112063117dd,"Sparkasse Heidelberg, Filiale Eppelheim",49.4018837608314,8.62953543663025,"""Bank""",0,40,8,0,,{}
+4bea50fd246fb713fbe0abdf,Cfashion,49.4010112910484,8.63098976926013,"""Hobby Shop""",0,55,9,0,http://www.c-fashion.de,{}
+4d4d5000a7f86ea8fc2635de,St. Joseph,49.4008221714286,8.63211302857143,,0,10,3,0,,{}
+4d5ef022865a224b216a9885,Institut für Medizinische Psychologie,49.3960184091181,8.62641776903299,"""Medical School""",0,9,5,1,,{}
+52a776cb11d2e760ad8d417f,Central Apotheke,49.4012553964257,8.63041520118713,"""Pharmacy""",0,3,2,0,,{}
+54560b2c498e603ae605de60,Görtz,49.4013278840561,8.66874423478498,"""Bakery""",1,16,12,4,,{}
+4be6dce078e8952153cb64ce,Eiscafé San Remo,49.4016743069229,8.62937450408936,"""Ice Cream Shop""",0,78,13,1,,{}
+4c8243c7309aef3beb98c181,Venice Beach,49.4020652868294,8.64078998565674,"""Gym""",0,254,39,0,,{gym}
+4b899658f964a5201b4432e3,Halle02,49.4020103702661,8.67130264632787,"""Event Space""",2,548,379,42,http://www.halle02.de,"{art,drinks,food,music}"
+4f5a43cae4b0a5f2149f6c3b,ALDI SÜD,49.4020376159071,8.66874169562753,"""Supermarket""",3,123,38,2,http://www.aldi-sued.de,{}
+51c2dc26498e07444f9dc389,Hauptbahnhof Süd,49.4015996273225,8.67262114775996,"""Bus Station""",0,274,15,1,,{}
+545578c2498ecfacfe2bc66c,viani s FRISEUR,49.4021560495768,8.66659283638,"""Salon / Barbershop""",0,1,1,0,,{}
+574c2359498ec191f140452c,Haltestelle Untere Rödt,49.40215,8.647186,"""Bus Stop""",0,1,1,0,,{}
+4fd761cde4b055412c424888,Bürgeramt Pfaffengrund,49.402523676789,8.64740299199145,"""City Hall""",0,11,4,0,,{}
+4fe97feae4b0a47fb9c97914,Heidelberg In/Out Processing Center,49.4023791036088,8.67108343656785,"""Military Base""",0,4,4,1,,{}
+4fd1b628e4b0d6a2d4ceed1a,Römer-Apotheke Christuskirche,49.401464,8.684749,"""Pharmacy""",0,26,9,0,,{}
+4e9a06e793ada5036d2b8ccc,Halle01,49.4019224582063,8.67164378508144,,1,20,17,1,,{}
+4b838474f964a520820831e3,Zollhofgarten,49.4017571210861,8.670671,"""Neighborhood""",1,30,13,10,,"{afterwork,beachclub,party}"
+4e2b043b62e144b5d3a7af77,Poseidon,49.400809,8.691227,"""Greek Restaurant""",1,14,9,3,,{}
+4d99c841daec224bb6ce663e,Hochschule für Kirchenmusik,49.4019782716927,8.68254701912447,,0,20,2,1,,{}
+571261cb498edfcdc1bf54e1,Gelato Go Bahnstadt,49.401751,8.67018,"""Ice Cream Shop""",0,1,1,2,,{}
+5261176d11d250365f9c75c7,H Christuskirche,49.4014888362208,8.68549657168354,"""Light Rail Station""",0,15,10,0,,{}
+52602572498e11f4f4d3fa44,FDP Heidelberg,49.4016941427696,8.68257748076112,"""Office""",0,3,1,0,,{}
+56e71330498e5f2d7f55064e,Carbon&Design,49.403459,8.632982,"""Factory""",0,1,1,0,,{}
+4c94782a94a0236a88fd8c12,Konditorei Cafe Zimmermann,49.401944,8.691311,"""Bakery""",1,82,20,2,http://www.konditoreicafezimmermann.de,{}
+537dda5b498e08214a8a9155,Finanz-WG,49.401392,8.691081,"""Historic Site""",1,46,3,0,,{}
+4d5d954482e8236a105ffdc9,Rudolf-Wild-Halle,49.4029649216067,8.62847500246606,"""Meeting Room""",0,227,28,2,,{}
+54296482498e919245a30384,Alte Universität Heidelberg,49.4115891982255,8.70596391905169,"""General College & University""",0,34,28,0,http://www.uni-heidelberg.de/universitaet/geschichte/alte_universitaet.html,{}
+4d626409196ba09342c02f56,Ärztehaus Eppelheim,49.4035235264935,8.63462909065847,"""Medical Center""",0,68,21,0,,{}
+4dfe22321495014331aa2122,Mesón Madrid,49.4015462838946,8.69163279692266,"""Spanish Restaurant""",0,23,14,5,,{}
+4ce56adf14682d43a0228f61,Packstation 105,49.4035694967026,8.63488565105566,"""Shipping Store""",0,121,10,2,,{}
+4bd754f3f645c9b6b3b2a5e0,Döner Kebap - Bistro Bagis,49.4023639819775,8.69151554158168,"""Eastern European Restaurant""",1,27,19,2,,{}
+4d9eb92d9b91a1cd0e305cc0,GIM Gesellschaft Für Innovative Marktforschung,49.4017013868473,8.69042593349022,"""Office""",0,8,8,0,,{}
+4ed4c7f89adf3fc7af1994d5,Bierbörse,49.4039174654208,8.6349768726576,"""Bar""",1,31,6,0,,{}
+4b48547ef964a520b34b26e3,Kaufland,49.4041876948602,8.64617586135864,"""Supermarket""",0,1414,151,14,http://www.kaufland.de/Home/index.jsp?FilialID=5180&et_cid=21&et_lid=584006&et_sub=Google_Places,{}
+4f5b32b8e4b05eaca3d87386,Gärtnerei Pfisterer,49.4033778394619,8.63628387451172,"""Flower Shop""",0,6,3,0,http://www.gaertnerei-pfisterer.de,{}
+4ca5a91f44a8224b75a3fb3f,ABB Stotz-Kontakt,49.4030774649169,8.64209335863431,"""Building""",0,353,56,24,,{}
+528a4414498ec1757764f500,Dr. Royar,49.403615,8.634448,"""Doctor's Office""",0,1,1,0,,{}
+4ed4bbf1775b45f6eda6bbeb,Udos Hähnchentruck,49.403643,8.635211,"""Food Truck""",0,3,2,0,,{}
+4c8a0bdd9ef0224bc021577b,SRH Liberty Restaurant Bar,49.4040019732125,8.63321602592466,"""German Restaurant""",0,10,9,0,,{}
+4d6e986c2e6ea0935b0b2050,Dehner,49.4042493013167,8.64765469424428,"""Garden Center""",0,129,44,7,http://www.dehner.de,{}
+4c29cc26ed0ac9b6654062aa,Sorbas - Griechisches Restaurant,49.4046002626419,8.64990949630737,"""Greek Restaurant""",1,18,12,1,,{}
+4c5c2a917735c9b6c8708b72,Meze - Feinkost & Kebab,49.40425157547,8.6468017,"""Greek Restaurant""",0,21,1,0,,{}
+4d0f9198d21db60c8fe22418,Kaufland Tankstelle,49.403396,8.646345,"""Gas Station""",0,39,8,1,,{}
+53b2da2a498e241b0ad11978,EDEKA Bauer,49.392169,8.631949,"""Supermarket""",0,2,2,0,,{}
+56e7d560498e53ae0a20f0ca,Radhaus Gerger,49.404379030235,8.64672101512408,"""Bike Shop""",0,1,1,0,,{}
+4fbe5f15e4b099c7d5aa0fcb,Gleis 4/5,49.4036237330923,8.67543901621715,"""Platform""",0,199,53,4,,{}
+4be03ffb6af676b0203a51d4,Shanghai Wok,49.4042572344374,8.64818367260998,"""Asian Restaurant""",2,207,28,2,,{}
+4b2771a6f964a5207c8624e3,China Restaurant Dynasty,49.4041123414551,8.64838728272572,"""Chinese Restaurant""",0,21,9,0,,{}
+4f7efaf6e4b0ac821d349b7a,Bahnstadt,49.4034895444489,8.66585254669189,"""Neighborhood""",5,623,83,193,http://heidelberg-bahnstadt.de,{}
+50e189dee4b0437c42ee84fe,Gleis 7/8,49.4034999845857,8.67506118394249,"""Platform""",0,218,53,0,,{}
+4feadd7de4b0e2fa25480862,Subway,49.4041075405437,8.66952603973724,"""Sandwich Place""",0,11,8,0,http://www.subway-sandwiches.de,{}
+4cb1dbbc562d224bc2112288,Le Crobag,49.4042679897345,8.67598693523051,"""Bakery""",4,271,109,5,,"{croissant,kaffee}"
+4baa6ad9f964a5202b683ae3,Zapata :: Coffee and Lounge,49.4041217853562,8.67658670537157,"""Caf\u00e9""",10,775,343,26,,{trendy}
+4dac50a04df01c19b1b158d9,Yormas,49.40435,8.675993,"""Breakfast Spot""",1,262,55,1,,"{brezel,cappucino,kaffee,würstchen}"
+4ea7debbf5b917316feeb9c2,Thai Gourmet,49.4044210160667,8.6760430278085,"""Asian Restaurant""",2,181,81,11,,{}
+51ab54dd498ec0f9fc137ac3,Fernbusbahnhof Heidelberg,49.4041768197004,8.67683939315311,"""Bus Line""",0,22,17,3,,{}
+52daba28498e1876dcb2fea1,Gleis 1,49.403908984183,8.67565013431382,"""Platform""",0,66,20,0,,{}
+526bae2111d2978e37293942,Tourist Information,49.40440297923,8.67661367105692,"""Tourist Information Center""",0,22,20,0,,{}
+4b61fc08f964a520f72e2ae3,Hotel Central,49.4040620285187,8.68007898330688,"""Hotel""",1,120,51,2,http://www.hotel-central-heidelberg.de,{}
+4b8ffcccf964a520506e33e3,Kaufland,49.4044948778963,8.68138790130615,"""Supermarket""",1,633,149,7,http://www.kaufland.de,{}
+4baa6b6ff964a52063683ae3,Drupal User Group Rhein-Neckar,49.4044343270356,8.67703836267905,"""Event Space""",1,55,10,0,,{drupal}
+4dd3d106fa76c0bf024d9fa3,Buchhandlung Schmitt,49.4040414251726,8.67598590080154,"""Bookstore""",0,254,73,2,,{}
+56742708498ee472fb9336b8,Dunkin Donuts,49.4040667787823,8.67603494012706,"""Donut Shop""",0,7,3,1,,{}
+501a3b8ae4b06e20ab4fc225,Alte Eppelheimer Straße,49.404598236084,8.67603588104248,"""Parking""",0,4,3,0,,{}
+52cef52b498e84a3be3a678e,Welthaus,49.4043762601729,8.67749824465035,"""Non-Profit""",0,3,3,0,,{}
+52d57bca498ef60b62849c0b,Ringstraße,49.402974,8.681153,"""Light Rail Station""",0,15,7,0,,{}
+5182ee832fc6b36a99334d99,Pazar Feinkost Obst & Gemüse,49.40431336088,8.68473529815674,"""Gourmet Shop""",1,31,6,1,,{}
+4b4b71d7f964a520ec9b26e3,Krokodil,49.4042810255977,8.68725998054104,"""Hotel""",5,218,91,9,http://www.krokodil-heidelberg.de,{}
+5165a090e4b0e029ccc2eede,Spielbetrieb Heidelberg,49.4034191250799,8.68601104807676,"""Hobby Shop""",2,5,3,0,,{}
+4e5636a8d164a0684c5b555d,Weststadt,49.4031544287255,8.68606567382812,"""Neighborhood""",2,1184,199,16,,{}
+52d57bca498ef60b62849c0b,Ringstraße,49.402974,8.681153,"""Light Rail Station""",0,15,7,0,,{}
+4bd896272ecdce72ddd7d0f2,BoardingHouse Heidelberg,49.4044726763028,8.69224601392061,"""Hotel""",4,369,88,9,http://www.boardinghouse-hd.de/bhouse/website.nsf/Inhalt/BH-Index-L1?opendocument&L=1,{}
+4d5a104dfe7c224bf0fb7eb5,Riegler,49.4033249975808,8.68264829592839,"""Bakery""",0,60,15,0,,{}
+5362aaca498eb6229df0787f,Season,49.404482,8.692304,"""Bistro""",3,26,20,3,,{}
+4c7e373af0b09c74ab963f7c,Steuerbüro Dr. Heindl,49.403749,8.693153,"""Office""",0,209,2,0,,{steuerberater}
+4f6b6a50e4b0c122f03acecf,Sole D Oro,49.4054865144119,8.63100267582564,"""Italian Restaurant""",0,13,5,1,,{}
+4f9f4ae4e4b0d0d54745a9eb,Jesus Raves,49.4062893357562,8.63694823400519,"""Other Nightlife""",0,7,7,0,,{}
+4c5c3d3d6147be9abfa98e09,Dehner,49.404857909916,8.64765644073486,"""Garden Center""",0,9,6,0,http://www.dehner.de,{}
+5257e43711d2704544bc6df9,Moschee Heidelberg,49.4054807988141,8.6395253882393,"""Mosque""",2,26,15,2,,{}
+4b7e7ceaf964a5202fef2fe3,Hugo Wine & Dine,49.4036470518124,8.6920434614539,"""Wine Bar""",3,112,81,3,http://www.hugo-hd.de,"{"" fish"","" french"","" international"",wine}"
+5033dd1fe4b0c160f7684418,Friedhof Eppelheim,49.4051371634893,8.623366355896,"""Cemetery""",0,9,2,0,,{}
+4f5a4098e4b0b310def17876,Zoo & Co,49.405457,8.660731,"""Pet Store""",0,82,8,2,http://www.zooundco24.de/marktfinder/heidelberg-eppelheimer-strasse-19/,{}
+4bcc23fc937ca59326a0aa92,Volvo Zentrum Heidelberg - Autohaus Geisser,49.4055650260564,8.66322352582503,"""Automotive Shop""",0,22,11,0,,{}
+4dd4b3d6183859a589a91578,H Stadtwerke,49.4049713538904,8.68189878546651,"""Tram Station""",0,271,50,1,,{}
+4c7fd4226cc2b71392260c9b,Kölle Zoo,49.4063088438778,8.65774611727797,"""Pet Store""",0,54,35,3,http://www.koelle-zoo.de/erlebnismaerkte/auf-einen-blick/rueckblick/veranstaltungen/veran-74.shtml,{}
+4b56e8dcf964a520e81e28e3,Bäckerei Mantei,49.4054373153533,8.66592671569337,"""Bakery""",6,199,65,14,,{}
+4d79eae018db6ea873df5953,K&K Tankstelle,49.406294,8.659138,"""Gas Station""",1,35,12,1,http://www.kk-heizoel.de,{}
+529ce25e11d2104712c4d458,Tanzsportclub Grün-Gold: Tanzsaal,49.4056925188669,8.64796609328256,"""Dance Studio""",0,5,2,0,,{}
+52878e1011d2d63ab7b48e53,IMO wash,49.4058751772629,8.65973041569594,"""Car Wash""",0,12,4,0,,{}
+4ef38d208231b0d621e8c50e,VeniceBeach Premium Fitness,49.405825113165,8.66042047174735,"""Gym / Fitness Center""",2,118,20,0,http://www.venicebeach-fitness.de/studios/premium-fitness/heidelberg.html,{}
+55bbc8ee498e97575db482d1,sevenDays Hotel BoardingHouse,49.4055981883938,8.66473117226423,"""Boarding House""",0,6,5,1,,{}
+4b740dd6f964a520a4c52de3,Asia Bistro,49.4053008080479,8.67561602384063,"""Asian Restaurant""",2,146,61,1,http://asia-heidelberg.de,{}
+4f424ac3e4b0bf54cae2a5e9,SIXT,49.40557073,8.665339889,"""Rental Car Location""",0,42,24,1,http://www.sixt.de/mietwagen/deutschland/heidelberg/heidelberg,{}
+530f572c498e8e842e55d67d,Czernybrücke,49.405715,8.670119,"""Bridge""",0,21,9,2,,{}
+4c6947ad8e7c0f47e126df0f,Pirim Pizza & Kebaphaus,49.40573,8.675972,"""Eastern European Restaurant""",6,370,81,15,,{}
+5135b1b4e4b0fc20602aec59,H Czernybrücke Süd,49.405123,8.668831,"""Light Rail Station""",0,75,12,2,,{}
+51048610e4b0967f79bf267d,Canoa,49.404761665946,8.6764964961561,"""Nightclub""",0,42,15,0,,{}
+56af9989498ee2682ca08fc3,Eazy Hostel Heidelberg,49.4055606767155,8.66529571505422,"""Hostel""",0,3,3,0,,{}
+4e0d744b1838f62321bb2f66,medhochzwei Verlag GmbH,49.406422,8.677547,"""Office""",0,60,2,1,http://www.medhochzwei-verlag.de,{}
+4bc829f28b7c9c7448ae37cf,Leonardo Hotel Heidelberg,49.407939,8.686652,"""Hotel""",6,510,240,14,http://www.leonardo-hotels.com,"{heidelberg,""heidelberg hotel"",""hotel heidelberg"",""hotels in heidelberg"",""leonardo hotel heidelberg"",""leonardo hotels""}"
+4b980ee0f964a5209f2935e3,Print Media Academy,49.404816021743,8.67739677429199,"""General College & University""",2,617,218,31,,{}
+5284972a498ee3a9539feb58,H  Hauptbahnhof,49.4049399176846,8.67609106964123,"""Tram Station""",0,127,30,1,,{}
+56fcbbc5498edfc835396eb9,Helim Backwaren,49.405304,8.675771,"""Bakery""",0,2,2,0,,{}
+4ddb6cc7d4c009d3c5883544,Heidelberger Druckmaschinen AG - Forschung und Entwicklung,49.4058951916773,8.67933063731864,"""Building""",0,123,23,6,,{}
+4dd3750352b1f6bad407e46c,X-House,49.405058981293,8.67713318867656,"""Residential Building (Apartment / Condo)""",0,50,14,0,,{}
+538df7fb498e7360cc2e8e13,level12,49.404759666721,8.67778281780627,"""Other Nightlife""",0,14,12,2,,{}
+4b4c6b07f964a520a7b226e3,Masala,49.40537583491,8.685756,"""Grocery Store""",3,121,31,1,http://masala-heidelberg.de,{}
+5333333f498e65c861a78bfd,ROYAL Döner Pizza Grill,49.40522,8.685385,"""Restaurant""",1,47,19,1,,{}
+533d0c4e498e779692d885f9,Scheck-In Center,49.4058604312936,8.6867089086319,"""Supermarket""",0,68,29,5,,{}
+4d9df230a695721ee93e1d0d,NEC Laboratories Europe,49.405993318128,8.68504270790556,"""Office""",0,1170,51,2,http://www.netlab.nec.de,{}
+4b4b24bff964a5200a9326e3,P11 Cafe,49.4050882942286,8.68461728096008,"""Bar""",18,953,279,23,http://www.p11-hd.de,{}
+4f546bb1e4b028a921854794,Linie 24 Rohrbach Süd - Handschuhsheim,49.4049487529205,8.68150634639626,"""Tram Station""",0,52,7,0,http://www.rnv-online.de,{}
+5272a9c211d21b05f5db0eff,Kufi Haus,49.4049958472074,8.68382328800896,"""Residential Building (Apartment / Condo)""",1,13,4,0,,{}
+5484d92d498e70cd7c799c4d,glücklich Familiencafé,49.4051344542993,8.68891015761752,"""Coffee Shop""",1,14,9,1,http://www.gluecklich-heidelberg.de,{}
+572bbe34cd10a513b7cf9c06,Landhaus,49.40475,8.689231,"""Residential Building (Apartment / Condo)""",0,3,1,0,,{}
+53b652eb498e28001d69b568,Kaffeezimmer²,49.4055213928223,8.68737030029297,"""Coffee Shop""",5,69,38,7,http://www.kaffeezimmer.de,{}
+50094dace4b06f74a90f4b2d,PENNY,49.406237,8.691033,"""Supermarket""",0,24,13,1,http://www.penny.de,{}
+4f6dc463e4b0d4a5b0c9216b,bio eismanufaktur,49.4052463134914,8.68719863398279,"""Ice Cream Shop""",3,30,20,5,,{}
+4c909c5a04a1b60cd386a83e,Landgericht Heidelberg,49.4057024917426,8.68874682918885,"""Government Building""",0,31,15,3,,{}
+558af61e498e506a8d2f828d,thai bistro TUK TUK,49.405582,8.687888,"""Thai Restaurant""",0,11,9,0,,{}
+5343c225498e5bd843fbff11,EDEKA - Scheck-in Center,49.4058478598696,8.68683177155063,"""Supermarket""",0,92,28,1,,{}
+4bc5a5da0a30d13a7e3c5a9c,Ristorante Da Vinci,49.4055709983528,8.68916536465279,"""Italian Restaurant""",6,201,135,10,,"{"" italian"","" pasta"",pizza}"
+4c2d8299987f20a145a649aa,Coffee Cream,49.406539752144,8.69151125057005,"""Caf\u00e9""",1,17,16,1,,{}
+4b4c12a1f964a520eead26e3,Elite Hotel Heidelberg,49.405084,8.691696,"""Hotel""",1,144,97,10,http://www.hotel-elite-heidelberg.de/en/index.html,{}
+4fd62e98e4b0d43255dcbf20,santa lucia,49.4062619000112,8.69142907172149,"""Italian Restaurant""",0,15,14,1,,{}
+4f1a8b9ae4b0854505f51e38,Sofa3,49.4065132141113,8.69067287445068,"""Furniture / Home Store""",0,4,4,0,,{}
+4c2a43ef2219c92869d3a248,Thanaphon,49.405984,8.69024,"""Thai Restaurant""",4,90,54,9,http://www.thanaphon.de,{}
+5156a416e4b0702abcf03348,Lufthansa Shuttle Station,49.4061894550916,8.69142546852216,"""Bus Station""",0,12,11,0,,{}
+53161925498ea46bcd0da36b,สามเหลี่ยมทองคำ,49.4061317443848,8.69178104400635,"""Thai Restaurant""",0,5,2,0,,{}
+56bb7b5a498e38062602eec8,Haar Duo Kampa u. Holzer,49.4050986811291,8.69136926781845,"""Salon / Barbershop""",0,1,1,0,,{}
+532c4e5a11d27d4bf49b91e5,Salon Michelle,49.405818939209,8.69260692596436,"""Salon / Barbershop""",0,3,3,1,,{}
+50e0919ce4b07dd5e341b8e9,Hot Pot House,49.405851,8.692674,"""Chinese Restaurant""",3,20,20,5,,{}
+5220b93711d20fa1e8bd31e3,Heil's Feinkostladen,49.4060447893623,8.69067000455606,"""Gourmet Shop""",1,20,5,0,,{}
+4b9a8d6df964a5206bc035e3,Restaurant Darwisch,49.4057934031347,8.69253516197205,"""Middle Eastern Restaurant""",0,31,18,6,,{}
+52052e6511d27144246b103a,Heidelberger Payment,49.40527,8.693679,"""Office""",0,1,1,0,,{}
+55ed5908498e544c7fca033e,Dr Karen Foltmann,49.405628,8.692632,"""Medical Center""",0,2,1,0,,{}
+5602c57a498e1f6978fd3145,Siriporn,49.4062125469119,8.69270203076548,"""Massage Studio""",0,3,3,0,,{}
+52a1adc9498e1e67e5138984,Salzraum Heidelberg,49.4058283092531,8.69256734848022,"""Spa""",0,5,5,0,http://www.salzraum-heidelberg.de,{}
+522b3a7811d25e9836e4bf07,Hans-Böckler-Straße,49.4058169448775,8.69257961860716,"""Bus Station""",0,3,3,0,,{}
+4e2326f918a88345f05defce,Klar Seifen GmbH,49.4059304705249,8.69253240195355,"""Miscellaneous Shop""",0,2,2,0,http://www.klarseifen.de,{}
+4f44b4bde4b027c579085212,IHK Heidelberg,49.4059345776491,8.69356239094516,"""Building""",0,14,2,0,,{}
+51e6d940498e43f7428b3ea7,Verkehrspolizei Heidelberg,49.406557,8.692858,"""Police Station""",0,2,1,1,,{}
+535f48cb498ed03adb04c480,Dr. K. Folttmann Kieferorthopädin,49.405607819039,8.6926402255072,"""Dentist's Office""",0,3,1,0,,{}
+4eaad9f8722efacf27842426,Kopfkultur Lounge,49.405329,8.692739,"""Salon / Barbershop""",0,2,2,0,,{}
+4d9edcfa35a9224bf83a3e85,Faupels Friseure,49.3666290669258,8.68548635011262,"""Salon / Barbershop""",0,70,9,0,,{}
+562fbb0a498ec9bdf0fd680a,Annas Unverpacktes,49.4144008662435,8.69203020727782,"""Organic Grocery""",0,3,3,0,,{}
+52a5cead11d2ae60e4091686,Sinus Institut,49.405883,8.694041,"""Office""",0,2,2,0,,{}
+531dfe0c498e00e817afaff9,fahrschule finkenzeller,49.405971,8.692732,"""Building""",0,2,1,0,,{}
+515832bee4b093384c185b57,Nodes Heidelberg,49.4053635713495,8.69269269731646,"""Brewery""",0,4,1,0,,{}
+4b45dee2f964a520701126e3,erdfisch HQ,49.4075792665814,8.64786346095687,"""Office""",1,1165,16,19,http://erdfisch.de,"{cms,""content management"",drupal,erdfisch}"
+52d95336498ef7c9a28558e1,Henkel Heidelberg,49.4079708392091,8.64706735977865,"""Factory""",0,9,6,2,http://www.henkel.de/index.htm,{}
+4e93195e8231bf0d17a8d96f,Europcar,49.4079372199799,8.67268863688301,"""Automotive Shop""",0,38,21,1,,{}
+4e8455ee722e7eac0121746d,Bäcker Görtz,49.4073292488698,8.65669012069702,"""Bakery""",0,60,7,0,http://www.baeckergoertz.de,{}
+4f105a7be4b0472043868d35,Dezernat 16,49.4069029681318,8.67239397376831,"""Building""",0,161,60,16,http://www.dezernat16.de,{}
+52282b6f11d2aa3c843894a8,Ochsenkopf,49.407206231424,8.66952623494573,"""Neighborhood""",0,4,4,0,,{}
+517d8d71e4b02beba09b8a0b,Don Carlitos Tanzpalast,49.40823,8.628543,"""General Entertainment""",0,5,4,0,,{}
+55b1cb7b498e0dc05a55137a,TOTAL Station,49.407471,8.672272,"""Gas Station""",0,19,8,0,http://www.totaltankstelle.de,{}
+4c71abe01b11199c853b5413,Steffi's Hostel Heidelberg,49.4065752942397,8.67551922798157,"""Hostel""",8,422,220,23,http://www.hostelheidelberg.de/de/index.php,{}
+4b56f2d4f964a520452028e3,Tati Bar Restaurant,49.4077271647011,8.67530465126038,"""French Restaurant""",2,308,111,23,http://www.restaurant-tati.de,"{essen,mittagstisch}"
+535e4316498e876ea3f8a614,China City,49.4065073938383,8.67518400340493,"""Chinese Restaurant""",2,57,26,9,,{}
+4e93195e8231bf0d17a8d96f,Europcar,49.4079372199799,8.67268863688301,"""Automotive Shop""",0,38,21,1,,{}
+4bcb3715fb84c9b6cf541e3e,Taj Mahal Tandoori Restaurant,49.408161478893,8.67338468953095,"""Indian Restaurant""",7,145,91,15,http://www.tajmahal-heidelberg.de/menue.htm,{}
+4e356853483bf3839a2e0a78,Pit Stop,49.4081669626572,8.67311596870422,"""Gas Station""",0,1,1,1,,{}
+520a2baf11d261f7b5dbeb9f,Design & Co-Innovation Center,49.4073881400532,8.67560120327344,"""Office""",0,1300,100,31,,{}
+4edd003d7ee5e8e3e9ebfe08,Czerny Apotheke,49.4080971537209,8.67238640785217,"""Pharmacy""",0,10,8,0,http://www.heidelapo.de,{}
+57308acc498edf83e6ee1a68,AppHaus Projectspace,49.407116,8.675476,"""Business Service""",0,1,1,0,,{}
+4f72a4e0e4b0ee7d4699dba4,H Wieblingen Mitte,49.4235075010643,8.6461956883848,"""Tram Station""",0,221,72,8,,{}
+4d33d8f6ceb62d437435eb61,Aral,49.4079569296664,8.67810830550687,"""Gas Station""",2,131,60,2,http://www.aral.de,"{""tankstelle, gas station, aral, alles super, shop""}"
+52f13ca711d2e4c1ea027d2a,Café Saron,49.4081111155161,8.67583036422729,"""African Restaurant""",2,18,14,1,http://www.saron-heidelberg.de,{}
+4c961ab46b35a14315b92adc,Firebowl,49.4071756664583,8.67632389068604,"""Bowling Alley""",6,275,203,14,http://www.firebowlheidelberg.de,{}
+4e5ab943d4c0ba8c11af87d6,H Betriebshof,49.407902,8.675766,"""Tram Station""",1,636,96,2,,{}
+5096b106e4b0147d2ea5c2da,Musik- und Singschule Heidelberg,49.4083597675135,8.67865705205986,"""School""",0,16,8,2,http://musikschule.heidelberg.de,{}
+4daa1b0cf7b145b3700937f6,Nachtschicht,49.4071780626398,8.67652267628832,"""Music Venue""",0,129,98,8,,{}
+53f0d82b498e0e419047777d,Moe's Roadhouse,49.4070081937759,8.67609828431354,"""American Restaurant""",3,206,70,8,,{}
+57308acc498edf83e6ee1a68,AppHaus Projectspace,49.407116,8.675476,"""Business Service""",0,1,1,0,,{}
+4b9967d9f964a5201b7935e3,NH Heidelberg,49.40740381,8.68269957,"""Hotel""",17,895,473,55,http://www.nh-hotels.de/hotel/nh-heidelberg,{}
+4b8fde61f964a5206b6633e3,Merlin,49.407594526449,8.68387699127197,"""Gastropub""",22,860,477,48,http://www.cafe-merlin.de,{food}
+5077d934704326861e877fea,Max-Weber-Institut für Soziologie,49.4083414845637,8.68376970291138,"""Student Center""",0,139,11,1,,{}
+4c8b84e49ef0224bc9c1647b,ALDI SÜD,49.4075718105086,8.68865568238718,"""Supermarket""",0,108,48,0,http://www.aldi-sued.de,{}
+5626183d498e51e70dd632bc,Gallo Nero,49.407805,8.682739,"""Italian Restaurant""",0,8,7,0,,{}
+55e9721d498ed75c79be0625,Friseur am Revier,49.406924,8.6839,"""Salon / Barbershop""",0,8,2,0,,{}
+4bdeeb6efe0e62b5580d0606,Qube Hotel Heidelberg,49.4079348186646,8.68129496913403,"""Hotel""",12,446,238,32,http://qube-hotel-heidelberg.de,{}
+52839f6611d2f11db05c3ed0,Neckar - Pizza - Pasta & Vegatarian,49.4077417041191,8.68376909164568,"""Pizza Place""",1,29,20,0,,{}
+506aa79de4b09a4647e06764,SAP Designspace Walldorf,49.4074980538501,8.68256009471718,"""Spiritual Center""",0,8,6,0,,{}
+4d8f1e5afa943704e9ea12c6,Punjab Curry,49.407832,8.683446,"""Indian Restaurant""",3,68,33,2,,{}
+4b4dbcd0f964a5208cd626e3,Thanner,49.407871,8.6861,"""Restaurant""",6,352,194,10,http://www.thanner.net,{}
+4b7c47aef964a52053892fe3,turmBAR,49.4066341948606,8.68551660010594,"""Cocktail Bar""",2,232,183,17,http://www.turmbar-heidelberg.de,{}
+54b2f003498e2617e22bf630,Mahmoud's,49.4083479501652,8.6879215220759,"""Falafel Restaurant""",5,100,40,6,http://mahmouds.de,{}
+4b4efec6f964a5204af826e3,Mildner's,49.4078502775306,8.68473749317932,"""Coffee Shop""",8,576,219,37,http://www.mildners.com,{}
+4c4923ef9f2ad13a89e8e352,Riegler,49.407413,8.684325,"""Bakery""",1,385,60,2,,{}
+4d2c5e5e342d6dcbd6a01ecb,Stadtbücherei,49.40664510534,8.68675231933594,"""College Library""",2,347,132,39,http://www.stadtbuecherei-heidelberg.bib-bw.de,{}
+4f0d8f3ce4b0e45bddc2121d,Bergheim,49.408407,8.687803,"""Neighborhood""",1,1399,426,33,,{}
+4e48f56dd164155c0e053148,Römerstraße,49.4077518348199,8.68497101319565,"""Bus Station""",0,75,25,0,,{}
+5020fd20e4b0bfa4af7947b4,Kopierzentrum Peker,49.4067843277517,8.68446749869254,"""Paper / Office Supplies Store""",0,14,7,0,,{}
+50872138e4b096443bf4b0f0,Frauenbad Heidelberg,49.4075852718171,8.68860708861328,"""General Entertainment""",2,88,75,9,http://www.frauenbad.com,{}
+509e79eee4b0d459dc26ee4a,Bergheim 41 Kaffekultur,49.4085063550764,8.68860393337442,"""Caf\u00e9""",2,96,65,6,http://www.bergheim41-kaffeekultur.de,{}
+55eb6c18498e81ccd0e01ef8,Capitol,49.4080735092046,8.68685777324553,"""Cocktail Bar""",0,12,10,1,,{}
+4f329446e4b013bb0845162a,Istanbul Döner,49.4084949988026,8.68915150389564,"""Doner Restaurant""",0,73,33,1,,{}
+4d2c5e5e342d6dcbd6a01ecb,Stadtbücherei,49.40664510534,8.68675231933594,"""College Library""",2,347,132,39,http://www.stadtbuecherei-heidelberg.bib-bw.de,{}
+559fb8b8498e5dafeba52588,Altes Hallenbad,49.4076614379883,8.68862438201904,"""Gourmet Shop""",0,24,18,2,http://www.alteshallenbad.de/altes-hallenbad/,{}
+4c651ff094160f4755852e17,red - Die Grüne Küche,49.4074977320434,8.6881343997996,"""Vegetarian / Vegan Restaurant""",11,186,118,20,http://www.red-diegruenekueche.com,{}
+4bd2f36b77b29c74d3958f82,REWE City,49.4073244871506,8.69190762719507,"""Supermarket""",3,761,249,10,http://www.rewe.de,{}
+4c508dbfd2a7c9b6148ebf0f,Alnatura,49.4077802903393,8.68888186292599,"""Organic Grocery""",2,61,36,1,http://www.alnatura.de,{}
+4ff82dd2e4b009b18f879175,GameStop,49.407783278418,8.68831695488932,"""Video Game Store""",1,25,16,2,https://www.gamestop.de,{}
+52fbb10e498e0d094c1c22b5,pizza im carre,49.4073143005371,8.69179630279541,"""Pizza Place""",0,91,26,2,,{}
+4f192dd1e4b0674e006f7e1c,Tiger & Dragon Supermarket,49.4075932244892,8.69235165034486,"""Grocery Store""",0,42,28,0,,{}
+4d0f2536d21db60cb4962218,ALDI SÜD,49.4074985380168,8.68925213813782,"""Supermarket""",0,116,51,1,http://www.aldi-sued.de,{}
+50ae6841e4b0ed6fa7debe62,Zafferano,49.4078559875488,8.68973731994629,"""Deli / Bodega""",6,121,51,7,,{}
+53e998d2498eae0710a0a368,Hirschberg an der Bergstraße,49.4068635369095,8.69036975334033,"""Town""",0,38,22,3,,{}
+4bae52c6f964a520aca23be3,Ristorante Da Mario,49.408316,8.692438,"""Italian Restaurant""",5,232,171,12,,"{italian,pasta,pizza}"
+4cbd81a7d8e9bfb74cd3d6d2,Sparkasse Heidelberg,49.4070360456672,8.68988513946533,"""Bank""",0,53,33,1,http://www.sparkasse-heidelberg.de,{}
+4bdd4d2d645e0f4742406b19,Pfitzenmeier,49.4078543664231,8.69179307962288,"""Gym / Fitness Center""",2,1247,92,5,http://www.pfitzenmeier.de,{gym}
+4c57ec8212f0d13a2c2108ad,Parkhaus P1 City Poststraße,49.4080013036728,8.69119942188263,"""Parking""",0,81,25,1,,{}
+4c5beb0c7735c9b6dec78a72,Deutsche Bank,49.4076503741778,8.69211673736572,"""Bank""",1,239,79,6,,{}
+4bb0ec94f964a520a36a3ce3,McDonald's,49.4081040308843,8.69248287181591,"""Fast Food Restaurant""",2,546,319,19,http://www.mcdonalds.de,{}
+509525a3e4b03898afcd98ce,coffee nerd,49.4074558963921,8.6927403544689,"""Coffee Shop""",49,1918,333,125,http://www.coffeenerd.de,{}
+5299f956498e6bddbbae41c6,ARBIL RESAURANT,49.408001821979,8.69249235698329,"""Restaurant""",0,43,30,5,,{}
+4bae52c6f964a520aca23be3,Ristorante Da Mario,49.408316,8.692438,"""Italian Restaurant""",5,232,171,12,,"{italian,pasta,pizza}"
+5297a8c6498e2c76f4d196e9,Friedrich,49.4077620694447,8.69488477706909,"""Caf\u00e9""",3,174,60,10,,{}
+4f9a80a6e4b02aa9beaad3bb,Rich'n Greens,49.408081,8.69248,"""Salad Place""",3,195,64,12,http://www.richngreens.de,{}
+4d78f3b54b30a14346b69bcb,Café Fresko,49.407804,8.694225,"""Caf\u00e9""",1,376,130,11,http://www.myfresko.de,{}
+4fa7c97ce4b017e939bc29f7,Geographisches Institut (Physio),49.4179706781461,8.66965030204595,"""College Academic Building""",0,43,4,0,,{}
+4fa7c97ce4b017e939bc29f7,Geographisches Institut (Physio),49.4179706781461,8.66965030204595,"""College Academic Building""",0,43,4,0,,{}
+4b96c179f964a52075e234e3,Stadtgarten,49.4074312656495,8.69467182189204,"""Park""",1,227,72,14,,{}
+5606aea2498e40063c53e3ea,Pirates,49.407767,8.692554,"""Vegetarian / Vegan Restaurant""",2,10,9,1,,{}
+570521a7498e17a2eb06a350,Hd Nails,49.40812,8.695676,"""Nail Salon""",0,1,1,0,,{}
+4cbc5f67bac9370488b7f77c,Juristisches Seminar der Universität Heidelberg,49.4075923234827,8.69568155444725,"""Law School""",0,441,51,1,,{}
+4ed7ca8d7ee53b381030299b,DAI Heidelberg,49.4078946855208,8.69398906397026,"""Office""",0,82,41,8,http://www.dai-heidelberg.de/content/index_ger.html,{}
+567fdc2e498ed1ef61f6db0f,le coq,49.407621542281,8.69297333628353,"""French Restaurant""",1,4,4,0,,{}
+559cd962498e79631cd826bb,Parkhaus Universitätsklinikum,49.4180181598406,8.66116288519269,"""General Travel""",0,40,4,2,,{}
+5706702a498e74a8ef4e76cf,Seegarten,49.407257,8.693496,"""Park""",0,2,2,0,,{}
+4eb11949775b7cb808bffbc6,Weinhaus Fehser,49.4082897915625,8.69861562222582,"""Miscellaneous Shop""",0,16,11,0,,{}
+515ae140e4b09aad836b781b,Hotel Anlage,49.408247996701,8.69939893340665,,2,14,11,0,,{}
+4cf6d2ee665854814f78cb98,Kab24,49.4096189660279,8.62694978713989,"""Hardware Store""",2,11,5,0,,{}
+4b522036f964a520f76927e3,REWE,49.4100517664166,8.62860202789307,"""Supermarket""",0,216,35,0,http://www.rewe.de,{}
+4cc5abf4dba3ef3b41610805,NORMA,49.4097166954814,8.63001823425293,"""Supermarket""",0,24,6,0,http://norma-online.de,{}
+5188f687498ef7f59136cfc6,Rhein Petroleum,49.408252,8.69833,"""Office""",0,1,1,0,,{}
+539ea302498e06f4cc84ce82,The Blonde Beard Headhunting Show,49.408225,8.699117,"""Recruiting Agency""",0,6,1,0,,{}
+4ba4e83af964a52097c138e3,Happy Kids Indoorspielplatz,49.4093276148387,8.62551634193955,"""Playground""",1,24,16,2,http://www.happykidsgmbh.de,{}
+4b6d8254f964a5201d792ce3,ALDI SÜD,49.4098283860473,8.62797975540161,"""Supermarket""",0,211,21,0,http://www.aldi-sued.de,{}
+4de60ad7ae607cf3446ad189,Johannes-Gutenberg-Schule,49.409940076359,8.66224765777588,"""College & University""",0,84,21,3,,{}
+50620907e4b0b8dc40bb6f85,Cookst Du!,49.4103825565063,8.63225930272455,"""German Restaurant""",0,12,12,0,,{}
+505b04d2e4b0334c15986edf,H Berufsschule,49.4087218416697,8.66120836157566,"""Tram Station""",0,97,13,1,,{}
+538a483f498ed12b84306325,Wieblingen,49.4089246830627,8.65944971358826,"""Neighborhood""",0,43,9,1,,{}
+5624a49b498e6a92d8bfb5f6,F+U Akademie für Wirtschafts- und Sozialmanagement,49.4059609453032,8.67309969678257,"""College Academic Building""",0,40,3,1,,{}
+4d31dc1feefa8cfa3f1630b3,dm-drogerie markt,49.4092420077417,8.6277437210083,"""Drugstore""",0,88,14,0,http://www.dm.de,{}
+4da5b8591e726e4969621b16,H Ochsenkopf,49.4094794021023,8.65235503713101,"""Bus Stop""",0,78,22,1,,{}
+51e9dee6498e591938574665,Wehrsteg,49.4098128647346,8.66823218582643,"""Bridge""",0,13,11,1,,{}
+4d849fa39324236a42cebc0e,Shell Station,49.4087777515125,8.67442845968327,"""Gas Station""",0,64,42,1,http://www.shell.de,{}
+528c78a1498e165a1b5dea77,Arbeitsgericht Heidelberg,49.4092926299145,8.67022711355944,"""Courthouse""",0,3,3,1,,{}
+50a686eee4b06c2ca7d3e315,Grill 16,49.409442,8.672542,"""Steakhouse""",3,131,71,13,,{}
+4c1dfcd2b306c928f25c66b7,Kieser Training,49.4091814756393,8.669716,"""Gym / Fitness Center""",1,159,25,1,http://www.kieser-training.de/standorte/detail/kieser-training-heidelberg/,{}
+5710ce60498ee29736047a7b,Carl-Auer-Systeme Verlag und Verlagsbuchhandlung GmbH,49.4090187953632,8.67425867303396,"""Corporate Amenity""",0,20,1,0,,{}
+56ace0a8498e0f402718bf3c,Heidelberg Marriott Executive Lounge,49.4093994466785,8.67259040350936,"""Travel Lounge""",0,32,9,0,,{}
+4dc55df32271f270512a5c8c,Heidelberger Ruderklub HRK,49.4088398290824,8.68140408595072,"""General Entertainment""",1,21,10,2,,{}
+4bc7832f15a7ef3b8c8b79da,Bootshaus,49.4096999261467,8.68094831627685,"""Gastropub""",4,272,143,11,http://www.dasbootshaus.com,{}
+4ddcfacdb0fba481fc8d5e76,IG Thermalbad Heidelberg,49.4091096945222,8.68010784342156,"""Pool""",0,198,82,7,http://www.thermalbad-heidelberg.de,{}
+4e356b091fc7144eb8c05d2e,Enterprise,49.40848041,8.67337794,"""Rental Car Location""",0,7,5,1,,{}
+4f0d8f3ce4b0e45bddc2121d,Bergheim,49.408407,8.687803,"""Neighborhood""",1,1399,426,33,,{}
+4f329446e4b013bb0845162a,Istanbul Döner,49.4084949988026,8.68915150389564,"""Doner Restaurant""",0,73,33,1,,{}
+4e9c4bb6be7bc875ab35d52d,Ethianum,49.4091613369875,8.68420425634637,"""Medical Center""",0,94,44,0,,{}
+4f94ff5ce4b0ab5f0b1b72fe,Bäckerei Riegler,49.40911629443,8.68804638288438,"""Bakery""",1,49,27,4,,{}
+509e79eee4b0d459dc26ee4a,Bergheim 41 Kaffekultur,49.4085063550764,8.68860393337442,"""Caf\u00e9""",2,96,65,6,http://www.bergheim41-kaffeekultur.de,{}
+51ed2664498eff8af5f44f1d,Max Planck Institute for Comparative Public Law and  International Law,49.4084735922462,8.68909867086533,"""College Academic Building""",0,32,3,4,,{}
+4f2a8455e4b0f70cbc731061,Karl Jaspers Centre for Advanced Transcultural Studies,49.409939,8.689503,"""College Lab""",0,278,20,2,,{}
+4e0db60bc65ba20da2187c4b,Linie 32,49.4088682824725,8.68826302057485,"""Bus Line""",0,21,15,2,,{}
+4f84154fe4b0443298f864e2,Terzi Änderungsschneiderei,49.408517,8.689334,"""Miscellaneous Shop""",0,7,3,0,,{}
+4fb244f3e4b0a0d79a784374,Heidelberger Dienste,49.4091262817383,8.68934440612793,"""Building""",0,5,4,0,,{}
+4ba4f166f964a5204dc638e3,Sammlung Prinzhorn,49.4098283860473,8.68874788284302,"""Art Museum""",1,9,6,1,http://prinzhorn.ukl-hd.de,{}
+5302088c11d235b4b82d9fd6,Klinik für Allgemeine Psychiatrie,49.4100792182397,8.68796852037761,"""Hospital""",0,13,4,0,,{}
+4badf3a6f964a52027753be3,La Vite,49.4086856678387,8.69014118767012,"""Italian Restaurant""",3,91,70,5,,{}
+4b9177e8f964a520d4be33e3,Ziegler,49.4086140547263,8.69184853312218,"""Nightclub""",10,1311,268,32,http://www.billyblues.de,"{bar,club,restaurant}"
+4bb483ab87aa95215836add1,Sakura Sushi,49.4089287649288,8.69105700240132,"""Sushi Restaurant""",11,325,179,19,http://www.sakura-heidelberg.de,{}
+504b5740e4b0f0297ceae0cc,Friseur Barber Style,49.4088878802308,8.69082768325631,"""Salon / Barbershop""",0,19,12,2,,{}
+4c8f59b0d68c6dcbe75103a2,Bäckerei Mantei,49.4088695948567,8.69216807174756,"""Bakery""",2,72,31,2,http://www.baeckerei-mantei.de,{}
+52a71f9211d2a713dfd14eb5,Capuccino Grand Cafe,49.4091861352029,8.69214676872554,"""Caf\u00e9""",0,55,34,3,,{}
+519769d2498edba15fa96b47,ATOS Klinik Heidelberg,49.4101431108597,8.69198043137677,"""Hospital""",0,102,42,0,http://atos.de,{}
+4bdca05b3904a593e20a4f9e,Lino's,49.408744,8.690217,"""Cocktail Bar""",12,463,146,12,http://www.linos-bar.de,"{""linos, heidelberg, longdrinks, cocktails, vodka""}"
+4e9817fd55032c6b414954c9,Hauptstraße,49.410023843926,8.69524955749512,"""Pedestrian Plaza""",5,1423,714,101,,{}
+4d738e255f0037041da0f1a0,Heidelberg,49.4097585794734,8.69286775588989,"""City""",22,10441,5638,551,http://www.heidelberg.de,"{""eat, sleep, study"",travel}"
+56b241eb498e5454c213b86d,Billy Blues,49.408857,8.691937,"""Bar""",0,6,5,1,,{}
+4c5667da30d82d7fbc98d762,F+U Academy of Language,49.4100080994072,8.69352118114091,"""College Classroom""",3,909,164,30,,{}
+4bd098a31f89ce7255b767ea,Denner Hotel,49.4091027365887,8.69211581808095,"""Hotel""",0,73,38,1,http://www.denner-hotel.de,{}
+4d26ec78ebacb1f72255e24f,ATOS Klinik,49.4100919090531,8.69209798727284,"""Hospital""",0,203,79,0,http://atos.de,{}
+4e71f1d77d8b53db1bfed732,Galeria Kaufhof,49.4088510849802,8.69312524795532,"""Department Store""",3,520,269,23,https://www.galeria-kaufhof.de/filialen/heidelberg-bismarckplatz/,{}
+4e4ce14118388d49816d9ba0,Darmstädter Hof Centrum,49.4100809958502,8.6936388765814,"""Shopping Mall""",2,377,196,7,http://www.darmstaedter-hof-centrum.de,{}
+4dce8b99e4cd130e1668f94f,dm-drogerie markt,49.4086467959746,8.69267259211225,"""Drugstore""",0,171,89,4,http://www.dm.de,{}
+50f3e2e2e4b07ac758a359d3,Studentenbücherei,49.4095153808594,8.70517444610596,"""College Library""",0,3,3,0,,{}
+52eab501498e28c05f164660,Babylon,49.4099184664321,8.69260718621664,"""Doner Restaurant""",0,15,15,0,,{}
+4e3f0001ae604542367a7287,Arbil Imbiss,49.4086491339854,8.69258052921307,"""Kebab Restaurant""",7,262,144,5,,{}
+53a6ed88498e183ecb317da3,H Technologiepark,49.4231837163119,8.68312208764958,"""Light Rail Station""",0,15,10,0,,{}
+53931fb3498e10da32cd98dc,Bistro Köpfel,49.4090053127685,8.6941744182987,"""Caf\u00e9""",0,3,3,1,,{}
+4b3a297ff964a520bf6125e3,Sportarena,49.4099984234769,8.6943761240053,"""Miscellaneous Shop""",0,184,96,8,http://www.sportarena.de/heidelberg.html,"{"" sport equipment"",sports}"
+5187750d498e8182070fca4b,Ditsch,49.4098837003406,8.69382797978946,"""Bakery""",0,17,12,3,http://www.ditsch.de,{}
+4e9817fd55032c6b414954c9,Hauptstraße,49.410023843926,8.69524955749512,"""Pedestrian Plaza""",5,1423,714,101,,{}
+552403d8498e243bb4b51587,Best Currywurst,49.408967,8.692682,"""Hot Dog Joint""",1,64,26,1,,{}
+50251283e4b0eda9fe0fadc1,the Fresh Tea Shop,49.4100520510706,8.69394682095054,"""Tea Room""",1,112,34,11,http://t.co/CXmQR5BqSC,{}
+4b9009bbf964a520b87133e3,PENNY,49.4089672900413,8.69544543189089,"""Supermarket""",1,105,53,1,http://www.penny.de,{}
+509bd657e4b0d26d357a8d47,Wiener Feinbäckerei Heberer,49.4100575330875,8.69594190622131,"""Bakery""",0,29,22,2,http://www.heberer.de,{}
+4e0de611d22d8582bdb9537a,Pasta Bar,49.408945169102,8.69555824868554,"""Italian Restaurant""",7,234,124,13,http://www.pastabar-hd.de,{}
+5187c720498ea8c4b8fb4aaf,TK Maxx,49.4099938709405,8.69545932524383,"""Clothing Store""",1,88,50,0,http://www.tkmaxx.com,{}
+4d4476cfbf61a1cdc22709ac,Eiscafé-Bistro Ricci,49.4011231,8.63106583333333,"""Bar""",0,86,8,0,,{}
+4c556319fd2ea593bc55a42b,Subway,49.4097952279371,8.69534611701965,"""Sandwich Place""",1,122,78,1,http://www.subway-sandwiches.de,{}
+4ea7b244991142bfaa1c61a7,Volksbank H+G Bank e. G.,49.4103739538741,8.69762638536469,"""Credit Union""",0,20,18,0,,{}
+4f882a90e4b0b1c4ae85b615,Zentrales Sprachlabor,49.4094017961267,8.70152894320144,"""Student Center""",1,213,23,0,,{}
+4bbafbee935e95216eac2890,Runners Point,49.4102848642732,8.69645975025394,"""Sporting Goods Shop""",0,54,38,4,http://www.runnerspoint.de,{}
+53a0605c498e62c556f35fe6,Apollo-Optik,49.4102497797268,8.69651979118915,"""Optical Shop""",0,3,2,0,http://www.apollo.de,{}
+4daaf39acda1652a2b97c777,Märzgarten Spielplatz,49.4096083016576,8.70033239412895,"""Playground""",0,43,25,5,,{}
+53e8780c498ea174698ad262,Institut für Deutsch als Fremdsprachenphilologie,49.4090264441755,8.69812781782418,"""College Academic Building""",0,24,8,0,,{}
+4c888a1294f5a0938faed01e,CoffeeIn,49.4091132717574,8.6989944673246,"""Coffee Shop""",0,21,13,2,,{}
+4dc81ebdb0fb5556cd30815b,the keys.,49.409582,8.700893,"""Dog Run""",0,52,5,0,,{}
+4c407f284a3e03bb18f56d0e,o2 Shop,49.4102821263579,8.69710564613342,"""Mobile Phone Shop""",0,18,13,0,http://o2.de,{}
+4cde7c8941ed224bc329d93c,Peterskirche,49.4093536993875,8.70593547821045,"""Church""",0,102,79,7,http://www.peterskirche-heidelberg.de,{}
+5137641ae4b0536565fd3c0e,V! Leonensia zu Heidelberg,49.408953,8.706032,"""Fraternity House""",0,2,2,0,,{}
+4c435222ff711b8d0dcb1405,Gaststätte Essighaus Heidelberg,49.4094880780621,8.70364218950272,"""German Restaurant""",4,122,92,13,http://www.essighaus-heidelberg.de,{}
+4fe5d099e4b0c7d6baf9d509,Spielplatz,49.4099291715686,8.70278542036031,"""Playground""",0,12,8,1,,{}
+4dc81ebdb0fb5556cd30815b,the keys.,49.409582,8.700893,"""Dog Run""",0,52,5,0,,{}
+4c54593430f92d7f6b7d57ba,Raja Rani,49.409518,8.70298316,"""Indian Restaurant""",4,173,99,4,http://www.rajarani-restaurant.com/main_home.html,{}
+57231727cd1040df5fc81c77,Stokley's,49.409414,8.702816,"""Coffee Shop""",0,1,1,1,,{}
+4f96c72fe4b0306856902caf,Historisches Seminar,49.4101203746803,8.70649387052187,"""College History Building""",0,67,15,2,,{}
+513e2a2ae4128a751e1bb7f3,Buchhandlung Himmelheber,49.409940076359,8.7040901184082,"""Bookstore""",2,200,8,39,,{}
+51a5ed69498ed35388e54cf9,Seyfarth Heidelberg,49.409460183311,8.70468678335494,"""Furniture / Home Store""",0,15,4,9,http://www.seyfarth-einrichtungen.de,{}
+51275639e4b0ff6440b94f74,Rieglers Bäckerei Café,49.409583957528,8.70412392019846,"""Bakery""",0,20,13,2,,{}
+4e56133f227140cf12efd7bf,Zentrale Universitätsverwaltung (ZUV),49.4100457665658,8.70615682826274,"""College & University""",0,14,10,1,,{}
+5228814411d2df8789806012,LUMAS Heidelberg,49.41013,8.705894,"""Art Gallery""",0,3,3,0,http://www.lumas.de/galerien/heidelberg/,{}
+5005d7b2e4b0d28cb45f346c,Hotel Monpti,49.4089288274449,8.70414086270359,"""Hotel""",0,30,15,0,,{}
+5184f8d5498ed8d0f779f1c4,La Bruschetta,49.4095260158648,8.70379098966614,"""Italian Restaurant""",0,3,3,0,,{}
+531b3e02498eca227f0a4df2,HORNBACH,49.4118975500564,8.64696540438779,"""Hardware Store""",1,54,32,4,http://www.hornbach.de,{}
+560f8fd4498e3ca963c29d79,Freeks Studentenbrauerei,49.4118242277827,8.65485589101477,"""Residential Building (Apartment / Condo)""",0,149,2,0,,{}
+4b7daf01f964a5204cce2fe3,Bahnhof Heidelberg-Pfaffengrund/Wieblingen,49.4120463946993,8.64153396618027,"""Train Station""",0,1213,307,22,http://www.bahnhof.de,{}
+4df7810b22717445a0b5e617,Seminarzentrum und Gästehaus der SRH,49.4117307113091,8.6551569052776,"""Bed & Breakfast""",1,50,26,2,,{}
+4ee36d0e8b81bab2826d16ed,Heidelberger Teehaus,49.4092799985771,8.70451595525187,"""Tea Room""",0,3,3,0,,{}
+4f37ed74e4b0179e5e131faf,P11,49.4096992438076,8.70633780956268,"""Parking""",0,63,10,2,,"{"" car"","" castle"","" heidelberg"","" lot"","" p"","" p10"","" p11"","" park"","" parkhaus"","" parking"","" scloss"",9,parkhouse}"
+4f426819e4b0e9ea7c3d9978,Friedrich-Ebert-Platz,49.4089375246958,8.70419534450086,"""Bus Station""",0,23,14,0,,{}
+53a8ab59498e04505153bfa4,Bonhoefferstr. 9,49.4118295782617,8.65482963583416,"""Residential Building (Apartment / Condo)""",0,210,8,0,,{}
+4da3648a573d1456a3b61f7d,Hotel Panorama,49.4110568221505,8.69184706598155,"""Hotel""",2,189,63,15,,{}
+536368e8498ec5bdccaabacd,HPK Klinik Für Innere Medizin,49.4108009338379,8.69148826599121,"""Doctor's Office""",0,1,1,0,,{}
+54824416498e12219910df81,Heidelberger Schloss,49.4116864000778,8.69118013117716,"""Historic Site""",0,13,13,1,,{}
+4ff82262e4b03e29584b65ea,Arlt Computer,49.4112530540858,8.67629137435621,"""Electronics Store""",1,6,4,1,http://www.arlt.com/heidelberg/,{}
+55cb070e498e79b3ba1fbf3d,MLP Geschäftsstelle Heidelberg,49.405652,8.686707,"""Office""",0,3,2,0,,{}
+4bb4e8a4b1edef3bfb482cdd,China Town,49.4105223557768,8.6897633255349,"""Chinese Restaurant""",0,15,15,0,,{}
+500a8424e4b00d76e48e9864,Sport Art,49.4114990234375,8.69198226928711,"""Sporting Goods Shop""",0,4,4,0,,{}
+4bcb6148937ca593f074a992,Petit Paris,49.410432,8.694714,"""Caf\u00e9""",3,415,158,20,,{}
+56ce1b6d498eddd77f130f7d,Telekom Shop Heidelberg Altstadt,49.4103327,8.6941757,"""Miscellaneous Shop""",0,1,1,1,http://m.telekomshop.de/shop/9949282,{}
+4ea7b244991142bfaa1c61a7,Volksbank H+G Bank e. G.,49.4103739538741,8.69762638536469,"""Credit Union""",0,20,18,0,,{}
+4e2ff0d58877341a5157000f,Das Carré,49.4077768399529,8.69196128177425,"""Shopping Mall""",0,635,136,4,,{}
+4dc5327cd22dafda2f9d8cbe,Standesamt Heidelberg,49.4121096250451,8.69589894795792,"""City Hall""",0,15,13,2,,{standesamt}
+4be4918f910020a17fe7d114,Hemingway's,49.4117096729046,8.69433187149175,"""Bar""",12,597,321,25,http://www.hemingways-heidelberg.de,{}
+535f5821498e39a09efeb613,Hallenbad im Darmstädter Hof Centrum,49.4104922180387,8.69340666635257,"""Gym Pool""",0,40,11,0,,{}
+4bfb71aeab180f47fadfb3ce,Psychologisches Institut,49.410987,8.697943,"""University""",2,285,42,6,http://www.psychologie.uni-heidelberg.de,{}
+5716a836498ee529a6ef0ba7,Märzgasse,49.4108587398341,8.69971813188292,"""Road""",1,21,1,0,,{}
+4e5c1b56bd41ab6bfd1168e0,Kongresshaus Stadthalle Heidelberg,49.4122498510831,8.69985245475858,"""Concert Hall""",2,311,215,33,http://www.heidelberg-kongresshaus.de,{}
+5034fb7ee4b047ee9268a9f9,Jubiläumsplatz,49.412199,8.699281,"""Plaza""",1,13,4,3,,{}
+5277b6a311d20d4bb9c8d82b,Alter Anatomiegarten,49.4108126481718,8.6980015039444,"""College & University""",0,21,13,1,https://www.psychologie.uni-heidelberg.de/willkomm/gebaeude/friedrich.html,{}
+5177c8aee4b05c35bf42e21a,Plöck,49.4108198694083,8.69973132410297,"""Road""",0,93,19,2,,{}
+5716a8a0498e82269fe37bf5,Ziegelgasse,49.4107929041991,8.69968854876105,"""Road""",1,23,1,0,,{}
+4b912bd2f964a520eea733e3,Cafe Extrablatt,49.410610649922,8.6984751112857,"""Caf\u00e9""",18,1250,769,55,http://www.extrablatt-hd.de,{}
+4d03eddddc45a093442de7c6,Vater Rhein,49.4120717667503,8.69824852749751,"""Gastropub""",3,132,68,5,,{}
+554eb135498e2bb209651a76,Fielmann,49.4109587416916,8.70073467605781,"""Optical Shop""",0,7,6,0,,{}
+4cc04154575d236a2871c38e,Stadthalle Heidelberg,49.4121526907305,8.6996191525878,"""General Entertainment""",0,120,93,17,,"{events,stadthalle}"
+55a0df1d498e55f7fefc275b,Unter Freunden,49.4104537963867,8.69967174530029,"""Pizza Place""",1,17,17,3,,{}
+529c456f11d293d7dd3cd72c,Lady Fitness,49.4115385655499,8.70066472704043,"""Gym""",0,19,3,0,,{}
+4f9e6e11e4b0027bd644ebc6,Deichmann,49.4106470612121,8.69872444353325,"""Shoe Store""",0,55,41,0,http://www.deichmann.com,{}
+4c0914056071a5937b39dd32,Goldener Anker,49.4119146765715,8.69988618859737,"""Gastropub""",4,90,54,4,http://www.goldener-anker-hd.de/homepage.php,{}
+5277b6a311d20d4bb9c8d82b,Alter Anatomiegarten,49.4108126481718,8.6980015039444,"""College & University""",0,21,13,1,https://www.psychologie.uni-heidelberg.de/willkomm/gebaeude/friedrich.html,{}
+50f92660e4b0c243838b10da,six,49.4107760324175,8.699748665648,"""Jewelry Store""",1,10,9,1,,{}
+536c91f5498eaec4c4c19411,Europäisches Pankreaszentrum,49.4130772484055,8.67572092888607,"""Hospital""",0,3,3,0,,{}
+4da9d01c5da3ba8a477b4915,bijou brigitte,49.4108683864448,8.69859731762715,,0,10,8,1,,{}
+545551ca498e70afc4f1f887,iKOI,49.4107461375694,8.6997120813476,"""Sushi Restaurant""",0,6,4,0,,{}
+4b561d71f964a520140128e3,Schnitzelbank,49.4112716147909,8.7023629370582,"""German Restaurant""",20,333,272,35,http://www.schnitzelbank-heidelberg.de,{}
+4bae49f1f964a520e69d3be3,Perkeo,49.4111116985182,8.70084555775663,"""German Restaurant""",6,482,390,35,,"{family,pub}"
+51fe3fde498e1c109b02bb97,Weisse Flotte,49.4128041267371,8.70087230293054,"""Boat or Ferry""",0,19,18,2,,{}
+4c360af4dfb0e21e5461aaa8,Kurpfälzisches Museum,49.411557,8.70265781879425,"""Art Museum""",0,121,105,12,http://www.museum-heidelberg.de,{}
+4f531ef1e4b0ee60b9c297e2,Alpha Aktiv Heidelberg,49.4109991096064,8.70145683509427,"""College Classroom""",0,98,17,23,,{}
+4d5fff5cd7206ea8217aeff1,Butlers,49.4112004501024,8.70217954377529,"""Furniture / Home Store""",0,98,68,2,http://www.butlers.de,{}
+52e7e07d498e4ae51db6dca8,Planet Sports Store Heidelberg,49.4114269294251,8.703693151474,"""Board Shop""",0,21,16,1,http://www.planet-sports.de?campaign=pin/foursquare,{}
+502500d2e4b0bb3db3d3ed0d,Swatch,49.4111766248549,8.70188566503146,"""Jewelry Store""",0,13,11,0,,{}
+56f687b9498e08ac4deda7dc,Timberland Store,49.411052,8.703519,"""Clothing Store""",0,7,1,2,,{}
+4c44a9b1f05e9521f424e4b3,Starbucks,49.4116579621534,8.70615353774832,"""Coffee Shop""",21,2231,1300,132,http://www.starbucks.de,{}
+4f709962e4b0f8396854bc87,Restaurant Kurpfälzisches Museum,49.4117205313123,8.70275750782223,"""Italian Restaurant""",2,48,48,11,,{}
+5152d3dae4b088d76f48cfc1,Max & Co Heidelberg,49.4108651098896,8.70138638151965,"""Women's Store""",1,11,9,1,,{}
+4c0a14f6a1b32d7f02c898f0,Schafheutle,49.4112121649241,8.70245886274143,"""Caf\u00e9""",8,241,162,11,http://www.cafe-schafheutle.de,{}
+4f67639fe4b06561276d4ec1,Wolle Rödel,49.4113912827602,8.70322160240017,"""Arts & Crafts Store""",0,14,11,0,,{}
+4fccfdc67beb176f5ddab396,Swarovski,49.411146,8.70206,"""Jewelry Store""",0,10,6,0,http://www.swarovski.com,{}
+5135f2f6e4b095ef8c0bd6da,NORDSEE,49.411529,8.703664,"""Seafood Restaurant""",0,3,3,0,http://www.nordsee.com,{}
+514467a6e4b0c80a2eb70115,The House of Villeroy & Boch,49.4111901492393,8.70230171834545,"""Furniture / Home Store""",0,13,8,0,http://www.villeroy-boch.com,{}
+4ba37b80f964a520de4038e3,Coyote Cafe,49.4116257240832,8.70586637445847,"""American Restaurant""",15,556,386,7,http://www.coyote.de,{}
+51934eeb498e19a2ceb56cf8,Coccon,49.4151776112703,8.69210746463398,"""Boutique""",1,6,4,0,,{}
+55d0d3c2498ed4b63ee392e2,starbucks hiedelberg center,49.4114775335712,8.70528242584143,"""Caf\u00e9""",0,9,5,1,,{}
+4c389fb52c8020a1771b8b00,Gino's,49.4114424333333,8.70428146666667,"""Mexican Restaurant""",11,235,191,10,,{}
+4b9962e4f964a520957735e3,Zum Güldenen Schaf,49.41147,8.704443,"""German Restaurant""",18,461,405,69,http://www.schaf-heidelberg.de,{}
+51e2be56498e0251d0c62680,emma Café-Bar,49.4114501693781,8.7051429270518,"""Caf\u00e9""",6,344,273,36,http://www.emmacafebar.de,{}
+4cb1a8a175ebb60cb3bdcead,Käthe Wohlfahrt,49.4115847349167,8.70564579963684,"""Gift Shop""",3,149,129,35,http://www.wohlfahrt.com/16-1-heidelberg,{}
+50799b38498ec6be8d9808b1,Ecco,49.4062190892712,8.69988996867677,"""Shoe Store""",0,5,5,0,,{}
+4bbf0e43ba9776b02a79fec8,Pizza Hut,49.4113415,8.7037985,"""Pizza Place""",5,329,252,7,http://www.pizzahut.de,"{italian,pasta,pizza}"
+4e663da7b993678bb84454b6,Zum Löwenbräu,49.4115804347947,8.70530650184587,"""Brewery""",1,152,141,22,,{}
+56097caf498ef664d5df9cae,Lindt,49.4116731609169,8.70582881358054,"""Chocolate Shop""",0,42,37,3,,{}
+50015c18e4b0ded98e6bf9f2,Eckhaus,49.41163,8.705529,"""Miscellaneous Shop""",0,10,7,1,,{}
+4c7bd7b993ef236a277bb60f,Antiquariat Hatry,49.4114448167826,8.70479617722158,"""Bookstore""",2,45,40,11,,{}
+4c30ab2eed37a593c52a6903,Hörnchen,49.4120883202488,8.70636999607086,"""Bar""",4,326,194,22,,{}
+4faa35c1e4b00ffffd79de14,Neue Universität Heidelberg,49.4107079403731,8.70635390281677,"""College Academic Building""",0,1064,244,27,,{}
+521f453011d2d9dfe3d43e75,Demmer shop,49.41223,8.7045,"""Hunting Supply""",0,4,3,0,,{}
+55b3cf0c498e74c43f9395dd,Puro Gelato,49.4109593854837,8.70647574430704,"""Ice Cream Shop""",0,9,7,0,,{}
+52e7e07d498e4ae51db6dca8,Planet Sports Store Heidelberg,49.4114269294251,8.703693151474,"""Board Shop""",0,21,16,1,http://www.planet-sports.de?campaign=pin/foursquare,{}
+511a6ab4759629b506188fd5,Autohaus Krauth,49.4138211568485,8.64014625549316,"""Auto Dealership""",0,40,22,2,http://www.bmw.de/ah_krauth,{}
+4e1af5be45dd5191e7c09586,Backmulde,49.4121823403029,8.70381253348759,"""Hotel""",4,99,52,8,http://www.gasthaus-backmulde-hotel.de,{}
+4c41bb0eaf052d7f73bd7d79,Alte Aula,49.4113446446955,8.70599693818467,"""College Auditorium""",0,80,61,15,,{}
+4dcbc745d4c0dfa030d72d55,Triplex-Mensa,49.4105923570178,8.70503639936462,"""College Cafeteria""",1,621,100,9,,{}
+4c52e2e0048b1b8d128b1531,Berger Campingausrüster,49.3983933216517,8.67841253079478,"""Sporting Goods Shop""",0,43,5,0,,{}
+5135f2f6e4b095ef8c0bd6da,NORDSEE,49.411529,8.703664,"""Seafood Restaurant""",0,3,3,0,http://www.nordsee.com,{}
+5090ef57e4b021bb21e4eae8,Copy-Quick,49.4110107421875,8.70459651947021,"""Paper / Office Supplies Store""",0,3,3,0,,{}
+4e45903fd164155c0dd96547,Edeka Rüdinger GmbH,49.4114694349075,8.70470206568876,"""Supermarket""",0,18,8,0,,{}
+56b06c9038fa96195ef5d62a,Restaurant Bernstein,49.4131541717523,8.65185954130937,"""Restaurant""",0,3,2,1,,{}
+5476493f498e385d53b76f4f,Chester Hotel,49.4124832588124,8.6550652568387,"""Hotel""",0,29,20,2,,{}
+4db6540793a017099dfe85ec,Nierenzentrum Universitätsklinik Heidelberg,49.4141826570073,8.66704664077437,"""Hospital""",0,425,27,0,,{}
+4ff6c38fe4b0b8fda9d8bd4b,Kurpfalz Café,49.4130029700584,8.65308587911584,"""Caf\u00e9""",1,15,12,0,,{}
+4ff866fce4b0956dd599eb9b,Kurpfalz Krankenhaus,49.413497306058,8.65381013630649,"""Hospital""",0,21,10,0,,{}
+531c4094498e0de8e1febf31,Faule Löwen,49.414206,8.660972,"""Scenic Lookout""",0,2,2,1,,{}
+4bcbee1bcc8cd13a8144c0cf,SRH Hochschule Heidelberg,49.4138443883325,8.65139271381322,"""College Academic Building""",1,1036,204,17,http://www.hochschule-heidelberg.de,"{bibliothek,hochschule,library,universität,wlan}"
+4db6540793a017099dfe85ec,Nierenzentrum Universitätsklinik Heidelberg,49.4141826570073,8.66704664077437,"""Hospital""",0,425,27,0,,{}
+4b755d4cf964a52060082ee3,Café Frisch,49.4127174893014,8.67817671322762,"""Caf\u00e9""",3,124,69,7,,{}
+4c515b369426c928dcef9373,Bellini,49.413953,8.671327,"""Gastropub""",4,165,69,7,,{}
+4e3f8cfed4c058f9dc20a109,H Uni-Campus,49.4135532167224,8.67078866013808,"""Bus Stop""",0,360,85,2,,{}
+527e752311d2e85b46f01ac8,Café Leitstelle,49.4067417098177,8.67243028251699,"""Caf\u00e9""",0,42,18,2,,{}
+4eea3b76f79057ab3ff5bf93,Hallenbad Hasenleiser,49.3769164645715,8.6785739173587,"""Pool""",0,31,13,0,http://www.swhd.de/heidelbergGips/Gips?SessionMandant=Heidelberg&Anwendung=CMSWebpage&Methode=ShowHTMLAusgabe&RessourceID=6351&WebPublisher.NavId=6336,{}
+570e0f51498ecafc94fd3a92,Zentrum für Informations- und Medizintechnik,49.412586,8.669764,"""Office""",0,2,1,0,,{}
+4dcb9c1ed4c0dfa030d3c80c,Heidelberg Cement,49.4139484455294,8.67640325029343,"""Office""",0,84,28,1,,{}
+5114ccc6e4b0b800a832b341,H Jahnstraße,49.4129311769909,8.6765801922085,"""Tram Station""",0,42,24,0,,{}
+4e22f05b1838712abe81c052,Café Blank,49.4138949671762,8.69225099207676,"""Bakery""",0,11,8,0,,{}
+4e1499ca14951daa08abf6bf,REWE City,49.4139501013401,8.68576557140132,"""Supermarket""",1,79,29,0,http://www.rewe.de,{}
+4bf90548b182c9b68955785a,ku17,49.412363,8.685744,,0,63,34,7,,{}
+4fe5ef7de4b02db7aded6e97,Beachvolleyball,49.4122555331015,8.68475910267963,"""Volleyball Court""",0,6,5,1,,{}
+50407371e4b00fd08e24f76c,"HNO Dr. Zeuner, Dr. Horn, Dr. Vasvári",49.4134253796242,8.69098078157486,"""Doctor's Office""",2,5,3,0,,{}
+531f6b5b498e6d45a986e012,Pilgrim,49.4132552109732,8.69180861130312,"""Caf\u00e9""",1,43,21,4,,{}
+4c0a9ff0a1b32d7fd5a999f0,Neckarwiese,49.412871856157,8.69100093841553,"""Park""",18,1661,831,198,,{}
+4e2db80b14955dbf7af198c9,Dorfschänke,49.4141638241526,8.6901629050469,"""German Restaurant""",3,29,24,4,http://www.dorfschaenke-hd.com,{}
+500aaea1e4b0bfba2268d105,Dragon Boat cup,49.412737,8.68929,"""Campground""",0,3,3,0,,{}
+4be9781a947820a1df06b6db,Theodor-Heuss-Brücke,49.4123971989265,8.69255661964417,"""Bridge""",4,327,181,51,,"{""heidelberg, neckarwiese""}"
+4c3613893849c9285768bbb1,Moghul Tandoori Restaurant,49.4134368797754,8.69267888530244,"""Indian Restaurant""",5,150,103,7,http://www.moghul-heidelberg.de,{}
+4cbf4fb6ca4aa1cd0f5d19b4,River Café,49.4139677384072,8.69355171918869,"""Wine Bar""",5,223,142,14,http://www.river-cafe-hd.de/willkommen/,{}
+4e5c1b56bd41ab6bfd1168e0,Kongresshaus Stadthalle Heidelberg,49.4122498510831,8.69985245475858,"""Concert Hall""",2,311,215,33,http://www.heidelberg-kongresshaus.de,{}
+4b7804d1f964a52048b22ee3,Café Moro,49.4137918976011,8.6926178874209,"""Caf\u00e9""",6,134,50,2,http://www.cafe-moro.de,{cafe}
+571ba1a9498edc8b1ac327af,LC Control Room,49.4066803945674,8.6730554333495,"""Factory""",0,2,1,0,,{}
+4bb8786ccf2fc9b6fd8e9f02,O'Reilly's,49.4136745092654,8.69338348870181,"""Irish Pub""",13,746,368,34,http://oreillys.com/heidelberg/,"{bar,""irish bar"",""irish pub"",pub}"
+56d43c85498e40011d80fe89,Studentská vila,49.413898,8.689969,"""Residential Building (Apartment / Condo)""",0,2,1,0,,{}
+5066eec7e4b0f6898ed1b439,Zum Achter,49.413368,8.694115,"""Caf\u00e9""",0,29,20,4,,{}
+4c8bd13655fba093a59e59ab,Konomi,49.4122953701749,8.7012237566741,"""Japanese Restaurant""",3,81,54,7,,{}
+51fe3fde498e1c109b02bb97,Weisse Flotte,49.4128041267371,8.70087230293054,"""Boat or Ferry""",0,19,18,2,,{}
+506f0e61498e137472385a69,Rad point,49.4124717712402,8.7018518447876,"""Bike Shop""",0,2,1,1,,{}
+51b2010d498e8c80166b2a65,Semann's,49.412862893985,8.70155062934357,"""Gastropub""",4,78,65,15,http://www.semanns.de,{}
+4b7d6920f964a520e6bc2fe3,Havana,49.4126200675964,8.701133,"""Bar""",1,84,74,1,,{}
+55e8a7bb498ee151a10016dd,Cella's 🏡,49.385519,8.686816,"""Residential Building (Apartment / Condo)""",0,8,2,0,,{}
+5051ad98e4b011f3a4531308,Kinderspielplatz,49.412739,8.703287,"""Playground""",0,1,1,0,,{}
+4e06417818a8382643acab38,Blu,49.4129172296557,8.70163470395434,"""Food""",0,35,32,4,,{}
+4e7c436629c2782aa976808e,Kinderspielplatz,49.415943145752,8.64977645874023,"""Playground""",0,18,6,1,,{}
+4bf94c154a67c928339626cf,Alte Synagoge,49.4130882424889,8.70598912239075,"""Synagogue""",0,21,12,1,,{}
+53a72394498e56d9917d0d4b,Heidelberger Schnitzelhaus,49.4124911221298,8.70455704285611,"""German Restaurant""",0,11,7,0,,{}
+5079d981e4b02bab19d436ff,Marstallcafé,49.4126277485485,8.70476081919295,"""Caf\u00e9""",5,192,81,6,http://www.studentenwerk.uni-heidelberg.de/index.jsp,{}
+4ba4c33ef964a520a6b238e3,Zoo Heidelberg,49.4148791055914,8.66371324668344,"""Zoo""",10,775,574,91,http://www.zoo-heidelberg.de,{}
+50dae534e4b0590916c3b991,Fody's,49.4141888672419,8.66111854257351,"""Fast Food Restaurant""",0,9,8,0,,{}
+521f453011d2d9dfe3d43e75,Demmer shop,49.41223,8.7045,"""Hunting Supply""",0,4,3,0,,{}
+531c4453498e5a1619ea3e66,Flamingos,49.414786,8.659977,"""Scenic Lookout""",0,2,2,1,,{}
+531c4094498e0de8e1febf31,Faule Löwen,49.414206,8.660972,"""Scenic Lookout""",0,2,2,1,,{}
+4db6540793a017099dfe85ec,Nierenzentrum Universitätsklinik Heidelberg,49.4141826570073,8.66704664077437,"""Hospital""",0,425,27,0,,{}
+4c63ee1efa7bc92809b31127,Botanischer Garten,49.4148832845983,8.6689500674189,"""Garden""",1,173,95,15,,{}
+4b951151f964a520c88d34e3,Medizinische Klinik (Krehl-Klinik),49.4156917838872,8.66649627685547,"""Hospital""",1,380,105,0,http://www.klinikum.uni-heidelberg.de/Medizinische-Klinik.medizin.0.html,"{@work,@work}"
+4bbccf068ec3d13ab4421b28,Café Botanik,49.415331253552,8.67059541014514,"""Caf\u00e9""",6,814,152,26,http://www.studentenwerk.uni-heidelberg.de/cafes,{studentencafé}
+4b728b10f964a520d97d2de3,Mensa,49.4155284539281,8.67144261866122,"""College Cafeteria""",0,1755,169,12,,"{buffet,mensa,""neuenheimer feld"",university}"
+5284c99a11d2f5e378e5588d,Bäckerei Kohlmann,49.4145388391233,8.67137018286268,"""Bakery""",0,17,7,0,,{}
+5697bd04498ebec5485a8c7b,BAIER DigitalDruck,49.4153621377005,8.6711099121634,"""Print Shop""",0,3,2,0,,{}
+543397d4498ed2ae5850dc88,Universitätsbauamt,49.4139434344116,8.67629879808951,"""College Administrative Building""",0,2,2,0,,{}
+4c0a09acbbc676b0533f49d5,Cafe Jules,49.414635,8.690474,"""Caf\u00e9""",1,66,35,4,,{}
+5062eb1be4b06f1105887237,ATV,49.4152128487791,8.67309929783842,"""Medical Lab""",0,243,9,0,,{}
+567e8806498e89ea72db3e00,Hubertus Apotheke,49.414176029638,8.6864678286941,"""Pharmacy""",0,2,2,0,,{}
+4c41fdd5cc410f476b10ac61,bar centrale heidelberg,49.41465165,8.690491,"""Bar""",6,201,110,10,http://www.barcentrale-hd.de,{}
+4c8b2069a92fa093043998bf,Marktplatz Neuenheim,49.414686,8.690365,"""Plaza""",1,274,111,30,http://www.wochenmarkt-heidelberg.de,{}
+57458344498edc4a357c5e8f,Schuhmacher Jürgen Bootz,49.414916,8.690996,"""Shoe Repair""",0,1,1,0,,{}
+5208f06011d2aadc73f87661,H Bunsengymnasium West,49.4150042669371,8.67468237876892,"""Bus Stop""",0,87,1,0,,{}
+512fc7bde4b0cfae3dd73605,ByLina,49.414293967084,8.68784852251288,"""Italian Restaurant""",1,34,11,1,,{}
+513142ede4b018c1b510ae52,Klare Linie/ Botox Parlour,49.415244,8.689967,"""Cosmetics Shop""",0,49,2,1,,{}
+5336ed81498e13310044152f,Chocami,49.4147541206985,8.69172134746819,"""Dessert Shop""",1,6,3,0,,{}
+4cf8f0844464b60cf51d63f8,Exzellenz Hotel,49.4048426593609,8.69276331338046,"""Hotel""",2,191,83,6,http://www.exzellenzhotel.de,{}
+4ef6040d8b81ef98cf89d0e7,St. Johannes Kirche,49.4146636292679,8.6904705515113,"""Church""",0,7,5,0,,{}
+4d985f37647d8cfae92ded3d,Marktstübel,49.414659,8.69035,"""Caf\u00e9""",1,58,40,3,,{}
+4f76d423e4b04210822a18cb,Boulangerie Patisserie La Flamm,49.4144982203894,8.69079172611237,"""French Restaurant""",0,44,19,9,,{}
+5108d7c8e4b0f44e46c43c2b,Riegel,49.4146650518908,8.68976455695048,"""Bakery""",0,18,5,1,,{}
+552ec8ac498e6ce7ced7a45b,caffee auszeit,49.415217931269,8.69054620872751,"""Caf\u00e9""",0,8,4,1,,{}
+530cab4211d24ea970406461,Tom|Co.,49.415467,8.69225,"""Salon / Barbershop""",0,3,3,0,,{}
+4e2db80b14955dbf7af198c9,Dorfschänke,49.4141638241526,8.6901629050469,"""German Restaurant""",3,29,24,4,http://www.dorfschaenke-hd.com,{}
+4e80df2ad3e391bacbe2f300,Hotel Astoria,49.4152517815297,8.69079507400351,"""Hotel""",0,20,5,2,,{}
+51e029d5498e129133449f5b,DIVINO,49.414208,8.69236,"""Wine Bar""",0,4,3,1,,{}
+4e4a98f78877bebe848fac18,Da Claudia,49.4146601719211,8.69227683526716,"""Italian Restaurant""",0,19,10,0,,{}
+544fab50498eac061c98cb30,Bauherrenschutzbund,49.414179,8.69128,"""Miscellaneous Shop""",0,1,1,0,,{}
+4b79c456f964a520a5102fe3,Crowne Plaza Heidelberg City Centre,49.4065662187894,8.69188123928325,"""Hotel""",12,1459,643,61,http://www.ihg.com/crowneplaza/hotels/de/de/heidelberg/hdbge/hoteldetail?cm_mmc=YextLocal-_-DEU-_-HDBGE,{}
+55eabeed498e9c058f161b6b,Teegarten,49.4146309092603,8.6914994863706,"""Food & Drink Shop""",1,2,1,0,,{}
+528640e511d22a0361750772,Prodotti Italiani,49.414441,8.690055,"""Gourmet Shop""",0,1,1,0,,{}
+4e502bc11f6eae4d25254844,Terrasse II,49.414498,8.691745,"""Scenic Lookout""",0,2,2,0,,{}
+4f703a29e4b0ad1af6f92e86,Praxis Prof. Raue,49.414779,8.692081,"""Doctor's Office""",0,6,3,0,,{}
+53357fd6498e9c73f307a1fe,Steiff,49.414217,8.691945,"""Baby Store""",0,1,1,1,,{}
+51827dd8498ee62ddc6ab4c5,una tierra Weltladen,49.4146448648525,8.69025567009609,"""Miscellaneous Shop""",0,2,2,0,,{}
+52dfa20a498e7ec756cc6764,Wilhelm's Haus der Clowns,49.415909,8.690189,"""Toy / Game Store""",0,2,1,1,,{}
+52dbf546498e3c89fb10d3ef,Chez Franck,49.4147036539346,8.69106581880899,"""Lounge""",1,2,2,0,,{}
+514e1534fe708eb9419e1cda,Brücken Apotheke,49.4147704391807,8.69205236434937,"""Pharmacy""",1,1,1,0,,{}
+4b79c456f964a520a5102fe3,Crowne Plaza Heidelberg City Centre,49.4065662187894,8.69188123928325,"""Hotel""",12,1459,643,61,http://www.ihg.com/crowneplaza/hotels/de/de/heidelberg/hdbge/hoteldetail?cm_mmc=YextLocal-_-DEU-_-HDBGE,{}
+528640e511d22a0361750772,Prodotti Italiani,49.414441,8.690055,"""Gourmet Shop""",0,1,1,0,,{}
+51d29490498ef79e90ea8e91,Libresso,49.4156258954595,8.69209246818679,"""Bookstore""",0,2,2,0,,{}
+530ef67e498e68c79b4e115e,Schreibwaren Müller,49.414607,8.690599,"""Paper / Office Supplies Store""",0,1,1,1,,{}
+5108d7c8e4b0f44e46c43c2b,Riegel,49.4146650518908,8.68976455695048,"""Bakery""",0,18,5,1,,{}
+4d985f37647d8cfae92ded3d,Marktstübel,49.414659,8.69035,"""Caf\u00e9""",1,58,40,3,,{}
+4f76d423e4b04210822a18cb,Boulangerie Patisserie La Flamm,49.4144982203894,8.69079172611237,"""French Restaurant""",0,44,19,9,,{}
+4c41fdd5cc410f476b10ac61,bar centrale heidelberg,49.41465165,8.690491,"""Bar""",6,201,110,10,http://www.barcentrale-hd.de,{}
+4c0a09acbbc676b0533f49d5,Cafe Jules,49.414635,8.690474,"""Caf\u00e9""",1,66,35,4,,{}
+4c8b2069a92fa093043998bf,Marktplatz Neuenheim,49.414686,8.690365,"""Plaza""",1,274,111,30,http://www.wochenmarkt-heidelberg.de,{}
+530ef67e498e68c79b4e115e,Schreibwaren Müller,49.414607,8.690599,"""Paper / Office Supplies Store""",0,1,1,1,,{}
+513142ede4b018c1b510ae52,Klare Linie/ Botox Parlour,49.415244,8.689967,"""Cosmetics Shop""",0,49,2,1,,{}
+552ec8ac498e6ce7ced7a45b,caffee auszeit,49.415217931269,8.69054620872751,"""Caf\u00e9""",0,8,4,1,,{}
+50992e39e4b0d4befdf0a6d4,H Studentenwohnheim,49.418845326079,8.66371203995139,"""Bus Stop""",0,207,20,14,,{}
+4f635a13e4b06cb9fa27fb7b,Schmidts an Der Heiliggeist Kirche Heidelberg,49.4144130281906,8.6924648065006,"""Cocktail Bar""",0,4,4,0,,{}
+4d753f538e7188bf0a10ea48,Heidelberger Pädagogium,49.4159666481485,8.68967578221497,"""College Academic Building""",1,218,50,8,,{}
+4c373e5edfb0e21e955daca8,Florian Steiner Kaffee,49.415895,8.69049693333333,"""Caf\u00e9""",10,325,121,15,http://www.floriansteiner.com,{}
+51827dd8498ee62ddc6ab4c5,una tierra Weltladen,49.4146448648525,8.69025567009609,"""Miscellaneous Shop""",0,2,2,0,,{}
+4e80df2ad3e391bacbe2f300,Hotel Astoria,49.4152517815297,8.69079507400351,"""Hotel""",0,20,5,2,,{}
+51934eeb498e19a2ceb56cf8,Coccon,49.4151776112703,8.69210746463398,"""Boutique""",1,6,4,0,,{}
+572b74c4498eb864242c2c5e,Raumfänger,49.412164,8.677702,"""General Entertainment""",0,1,1,0,,{}
+4efdb8fd754a29b5463d59f8,Philosophenweg,49.4149798372236,8.69762063026428,"""Scenic Lookout""",1,209,172,34,,{}
+4f5dc8e4e4b075ad7ba6b03a,Hells Kitchen Classics,49.4151682866336,8.69337566505192,"""Men's Store""",1,9,8,0,,{}
+5142838929af93e0dcbeb67f,Heidelgarden,49.4203128586182,8.65710419597498,"""Lounge""",0,19,15,3,,{}
+4eff1c414fc6fc240ee4da23,H Brückenstraße,49.4155103082673,8.69207382202148,"""Tram Station""",0,325,69,4,,{}
+52dfa20a498e7ec756cc6764,Wilhelm's Haus der Clowns,49.415909,8.690189,"""Toy / Game Store""",0,2,1,1,,{}
+530cab4211d24ea970406461,Tom|Co.,49.415467,8.69225,"""Salon / Barbershop""",0,3,3,0,,{}
+4f635a13e4b06cb9fa27fb7b,Schmidts an Der Heiliggeist Kirche Heidelberg,49.4144130281906,8.6924648065006,"""Cocktail Bar""",0,4,4,0,,{}
+4d1e273d6e8c37047df8e39f,Heidelberg Suites Patria,49.4147953204077,8.70596857725048,"""Hotel""",1,131,21,4,,{restaurantschiff}
+4cf3a2d51c158cfaf8b2deb5,Voltimum,49.4069073109109,8.69140326753365,"""Office""",0,149,5,0,,{}
+500ae873e4b043efbe5119b5,Joseph von Eichendorff,49.41505,8.700314,"""Sculpture Garden""",0,8,7,0,,{}
+5140446be4b0628157b41ba1,Patisserie La Flamm,49.417388,8.661512,"""Bakery""",0,6,4,0,,{}
+57074de1498e2f86eea60e90,Drupal Business And Community Days,49.416423493065,8.65929971588363,"""Convention""",0,7,2,3,,{}
+51b9eb22498e8e396e134518,Flammkuchenhof,49.4177017255131,8.6422448687856,"""French Restaurant""",5,71,45,9,http://www.flammkuchenhof.de,{}
+4c626a574b5176b0794d0417,Bibliothek Geograph. Institut,49.417743807666,8.66918921470642,,0,18,5,0,,"{""geography, library, university""}"
+4c5d1fef9b28d13a4dd05870,Cigo,49.4030617364965,8.64529676941036,"""Smoke Shop""",0,3,2,0,,{}
+4c516ebdd797e21e74ce047c,Universitätsbibliothek,49.4177298486105,8.66825580596924,"""College Library""",1,115,44,3,,"{""university library""}"
+52380f9d11d270da98f6c9af,Universitätsklinikum Heidelberg,49.4168922980088,8.66482257843018,"""Medical School""",3,396,113,0,http://www.klinikum.uni-heidelberg.de,{}
+53c29616498e7a3d7c49d09c,Campus Im Neuenheimer Feld,49.4166968674784,8.66915702819824,"""General College & University""",0,161,40,0,http://www.uni-heidelberg.de,{}
+4c0c882298102d7f6ee1e006,Theoretikum,49.4164426403208,8.6708685823717,"""College Science Building""",0,1112,79,12,http://www.zbt.uni-heidelberg.de,{}
+4c97028803413704284889ef,Kopfklinik,49.4174159925177,8.66623624224712,"""Hospital""",3,740,238,0,http://www.klinikum.uni-heidelberg.de/Kopfklinik-Zentrum-Startseite.1111.0.html,{}
+503b2646e4b0caef77c11e5d,H Bunsengymnasium,49.4169737459649,8.67633035307729,"""Tram Station""",0,452,27,2,,{}
+53707e67498e08d484495519,Mathematikon (Bauteil A),49.4177857866784,8.67578771773132,"""College Math Building""",0,75,11,7,,{}
+56f117f8498ed96e38c770c0,Görtz im Mathematikon,49.4173766375973,8.67564891162593,"""Bakery""",1,12,5,2,,{}
+570231d9498e08d3bf9a93df,Boxclub Heidelberg,49.41755,8.686004,"""Sports Club""",0,1,1,0,,{}
+4c5f52703986e21ecff4914f,Bioquant,49.4172333051752,8.6735535782238,"""College Science Building""",0,164,29,12,,{}
+541d8dd1498e7ac704089a94,Pflegeheim St. Hedwig,49.4177424048325,8.68345886652469,"""Assisted Living""",0,2,2,0,,{}
+50ab97eb498eb85ed8fbe50d,H Mönchhofachule,49.4173847800846,8.68203691790695,"""Bus Stop""",0,5,4,0,,{}
+545ba735498e5e6a25874cd7,Centre for Organismal Studies (COS),49.4176009623836,8.67424559290013,"""College Academic Building""",0,17,6,0,,{}
+4e7cc0e962e1020b0df2add6,TOTAL Station,49.4042179047546,8.68255701241342,"""Gas Station""",0,30,18,0,http://www.totaltankstelle.de,{}
+503b24b0e4b0fd37185f93f7,H Lutherstraße,49.4172188104514,8.69089317045954,"""Bus Stop""",0,36,8,0,,{}
+5198d22f498e1c05735b64b5,Bismarcksäule,49.4165901235273,8.7018897279553,"""Other Great Outdoors""",0,1,1,0,,{}
+4bba81b47421a59364eac340,Pizzeria Salerno il Calabrese,49.4162617516345,8.69212560458773,"""Pizza Place""",1,85,57,1,http://www.salerno-heidelberg.de,{}
+4d946ad898c88cfa9f541b49,Zahnarzt Dr. Bodem,49.4176917762909,8.68495416043238,"""Dentist's Office""",0,8,3,0,,{}
+520ceee411d2998831732f81,"Sparkasse Heidelberg, Filiale Brückenstraße",49.4167004544027,8.6920954893697,"""Bank""",0,3,2,0,,{}
+5126341ce4b061d2adf8847a,apropos Haare,49.4173521436387,8.69068153864868,"""Salon / Barbershop""",0,8,3,0,,{}
+4fdc5f6fe4b070b1a52865cb,Neuinheim Spielplatz,49.4166380391335,8.6916643227109,"""Playground""",0,3,3,0,,{}
+4cc805185b7aa1435f8c327d,Netto Marken-Discount,49.4188755834906,8.6520507163797,"""Supermarket""",0,88,20,1,https://www.netto-online.de/Filial-Angebote.chtm,{}
+56251340498e8039b1004af8,Adria Studentenwohnheim,49.4186504970501,8.64818736789007,"""Housing Development""",0,127,3,0,,{}
+5314bf15e4b0d805d3798656,Wieblingen,49.4186207107399,8.64802832085175,"""Neighborhood""",0,51,24,2,,{}
+4f508bd8e4b0390b9508a4a7,Kreuz Heidelberg (37) (5),49.4181486185513,8.63360166549683,"""Intersection""",0,391,127,1,http://www.autobahnkreuze-online.de/Kreuz_Heidelberg,"{autobahn,""bab kreuz""}"
+56b5caf1498ef52f7db150b1,Tiger & Dragon's Asia Discounter,49.4193517853182,8.64024212251083,"""Gourmet Shop""",0,5,4,1,,{}
+4d0261914115a0906db13ee2,Olympia,49.4190156383983,8.65199883198185,"""Greek Restaurant""",0,28,22,1,,"{griechisch,restaurant}"
+4e14610163657e2eebc3e6f2,ad-hoc,49.4084671399523,8.69922995567322,"""Salon / Barbershop""",0,11,8,0,,{}
+5100ebdbe4b08a44018107de,H Sandwingert,49.4185976700875,8.64786927442854,"""Bus Line""",0,8,5,0,,{}
+53c29588498e7ac83894bd57,Studentensiedlung Im Neuenheimer Feld (INF),49.4195255043181,8.66242363775487,"""Housing Development""",0,9,4,0,,{}
+4ce1aa7bac908eec049d5a06,Universitätsrechenzentrum (URZ),49.4190138782011,8.67190242869372,"""University""",0,136,41,3,,{}
+50ab98ece4b0cf7545fed9dc,H Pädagogische Hochschule,49.4194932537115,8.669878363731,"""Bus Stop""",0,119,9,0,,{}
+52cd52cc11d2699ca717b15e,Studienkolleg Heidelberg,49.4197520257261,8.66253701206811,"""College Academic Building""",0,41,14,0,,{}
+56f43b9e498e03967bd983c2,Rewe Mathematikon,49.4190614414924,8.67584618541412,"""Market""",0,19,9,0,,{}
+50ab98ece4b0cf7545fed9dc,H Pädagogische Hochschule,49.4194932537115,8.669878363731,"""Bus Stop""",0,119,9,0,,{}
+52de5e9d498e72156e5c38eb,Institut für Geowissenschaften,49.4190871783523,8.67505087604866,"""College Academic Building""",0,8,5,1,,{}
+4d394a90687ca35db30b7ec4,Südasien Institut (SAI),49.4186416241251,8.67016581581312,"""College Academic Building""",0,60,11,2,,{}
+573d84a2498e41989736182a,"Sparkasse Heidelberg, Filiale im Mathematikon",49.419336,8.675483,"""Bank""",0,1,1,0,,{}
+4deca9b3c65be8091ddd43fa,Geographisches Institut (Human),49.4186932697229,8.67665720208311,"""College Science Building""",0,176,18,0,,{geography}
+4f81aaa9e4b023c639c9868c,Heiliegenberg,49.4194767191128,8.70569156903293,"""Historic Site""",0,12,11,4,,{}
+518ca7d0498ea3305ab553fb,Neuenheim,49.4180439264011,8.68646264076233,"""Neighborhood""",0,278,62,1,http://de.wikipedia.org/wiki/Neuenheim,{}
+533815d9498e795a6785f06f,Heiligenberg,49.4190995821238,8.7063968707144,"""Mountain""",0,16,16,2,,{}
+53e9336d498e9b45f8f09745,shisha lounge,49.4207554610775,8.6512318484288,"""Hookah Bar""",2,23,11,0,,{}
+4c0ad636ffb8c9b61a536c61,Schwimmbad Musikclub,49.4201834823369,8.65739274946975,"""Music Venue""",1,269,159,18,http://www.schwimmbad-club.de,{}
+55433efc498e4fd3ac13fcd3,Reit- und Fahrverein Heidelberg-Wieblingen,49.4217966659919,8.63915417044786,"""Stables""",0,2,1,2,,{}
+573d84a2498e41989736182a,"Sparkasse Heidelberg, Filiale im Mathematikon",49.419336,8.675483,"""Bank""",0,1,1,0,,{}
+4ff9eea5e4b025109b65f274,Melisa Döner Kebap Haus,49.421277,8.650856,"""Diner""",0,34,17,2,,{}
+4ea06451dab4b59126ba6067,Hochschulsport Heidelberg,49.4210636448687,8.66052840789033,"""College Soccer Field""",1,144,38,2,,{}
+546f4024498eb0b4972257f1,TP3,49.4212249789178,8.67575074215675,"""College Lab""",0,19,6,2,,{}
+5146ccd9e4b016faf38fc71e,Sparkasse,49.4209363704954,8.68056718924019,"""Bank""",0,8,5,3,,{}
+4c6d754e65eda09335ad4ed0,Ameria GmbH,49.4200578893439,8.69000406144802,"""Tech Startup""",0,36,8,1,,{}
+53ea97e9498e202795789eaf,Werderplatz,49.4204734570304,8.68655248387483,"""Park""",0,3,2,0,,{}
+4d91b809f5388cfaeb9fba3d,Pädagogische Hochschule Heidelberg,49.4201487364055,8.68395557632281,"""College Academic Building""",0,167,52,9,,"{altbau,""alte ph""}"
+54633424498eb74ab33b07cc,Casino in TP,49.4217567443848,8.67549324035645,"""College Cafeteria""",0,33,3,1,,{}
+54633424498eb74ab33b07cc,Casino in TP,49.4217567443848,8.67549324035645,"""College Cafeteria""",0,33,3,1,,{}
+5625197c498e1d05714bd7ea,TSV Handschuhsheim Rugby,49.4207467367638,8.66376119954112,"""Stadium""",0,4,1,0,,{}
+5229b80211d27a838edc7b64,Heidelberger Volksbank,49.422749,8.650238,"""Credit Union""",0,12,6,0,,{}
+4d81ccb9c8bdb1f732c0d0c2,ProMinent GmbH,49.4226711062234,8.64070415496826,"""Factory""",0,541,20,2,http://www.prominent.com,{}
+54ce0342498ec2881777c296,Hasenblick,49.4235954284668,8.64726161956787,"""Scenic Lookout""",0,8,3,3,,{}
+523fe8df11d22e1c4fd52d18,Volkshochschule Wieblingen,49.4231029257476,8.64367248900469,"""School""",0,91,8,3,,{}
+518e8c06498e94439f8a1966,Gasthaus zum Hirsch,49.423345,8.646514,"""German Restaurant""",1,9,6,2,,{}
+510648e190e79d3cbd4817cb,ProMinent Deutschland GmbH,49.4218475978393,8.6417555809021,"""Office""",0,11,4,0,,{}
+4e15bb5b091a2112063124ab,"Sparkasse Heidelberg, Filiale Wieblingen",49.4229363008966,8.64897608757019,"""Bank""",0,5,3,0,,{}
+4f0c460de4b020a8d9767b66,ISSW Heidelberg,49.4225042292907,8.65916149632769,"""University""",0,58,28,0,,{}
+54633424498eb74ab33b07cc,Casino in TP,49.4217567443848,8.67549324035645,"""College Cafeteria""",0,33,3,1,,{}
+4d40320246775481438555f4,Technologiepark Heidelberg,49.4222157909898,8.67608770124727,"""Building""",0,274,85,5,,{}
+4c619ec0fa7bc928322a0c27,Olive,49.42272353,8.67255057,"""Mediterranean Restaurant""",3,73,41,17,,{}
+5206c19411d2c865dcf7180b,Zuckerschnucki's,49.421946,8.68217,"""Embassy / Consulate""",0,102,3,0,,{}
+5364a042498e95c589ed494e,La testa,49.423199025957,8.68389116299427,"""Salon / Barbershop""",0,1,1,0,,{}
+5065c04ae4b0c6fb831f6458,Octapharma Biopharmaceuticals,49.4233360290527,8.67523765563965,"""Building""",0,4,3,0,,{}
+546339be498ed498c494942a,TP4,49.42185304246,8.67615089979043,"""College Lab""",0,10,5,3,,{}
+54633424498eb74ab33b07cc,Casino in TP,49.4217567443848,8.67549324035645,"""College Cafeteria""",0,33,3,1,,{}
+55dac22b498e40192719be37,ESC Heidelberg,49.4227728273973,8.69118197403491,"""General College & University""",0,39,2,0,,{}
+4c7d749a5af8b60cada68f10,La Locanda 26,49.4233796975583,8.68846720664376,"""Italian Restaurant""",4,142,58,1,,{}
+4d84993cd5fab60c3f52e49b,Krankenhaus Salem,49.4233960267058,8.68427871322829,"""Hospital""",1,146,53,0,http://www.krankenhaus-salem.de,{}
+4c4cb329f5afa593ee1761d6,Thingstätte,49.4233165468023,8.70577360227152,"""Historic Site""",2,139,132,29,,{}
+5378c857498e21577a8b5e49,Steubenstraße 28,49.4236045253403,8.68833440596184,"""Residential Building (Apartment / Condo)""",0,11,2,0,,{}
+563fd260cd1088eed9c48887,NANU-NANA,49.4227441404824,8.69198781943318,"""Gift Shop""",0,3,3,0,http://www.nanu-nana.de,{}
+4bf97b62633d9c74a0e10743,Jugendherberge Heidelberg,49.4161575461114,8.65976284175528,"""Hostel""",4,299,154,17,http://heidelberg.jugendherberge-bw.de/?L=1,"{""shatler's, cocktail""}"
+54388e8f498e8eacbb0b9df8,Kebapzentrum,49.4084664457931,8.69257837470562,"""German Restaurant""",0,23,9,0,,{}
+4df10696e4cdfec0ed3054b2,Baugemeinschaft Heidelberg Bahnstadt,49.4025679707064,8.66336345672607,"""Field""",0,49,5,12,,{}
+4c45744474ffc928e8e976cc,Neckar,49.4092161384688,8.68637978272523,"""River""",1,335,232,52,,"{"" river"",neckar}"
+4d42f2427fb05481833d7079,N8 Business Development,49.4094657897935,8.70400428771947,"""Office""",0,4,2,0,,{}
+518783ba498e33343dcc3315,Dinea Cafe&Restaurant,49.4096034882063,8.6930342622394,"""German Restaurant""",0,19,19,6,,{}
+51a7c4205019c87164ed8730,INF 136,49.4127741329848,8.66698980331421,"""College Residence Hall""",0,14,5,1,,{}
+521f13c211d26a12b45d9222,i-Drive Fahrschule,49.3823345850065,8.67538166578577,"""College Classroom""",0,4,3,0,,{}
+54327b5d498eec43386901bf,Stellwerk,49.37968,8.675213,"""Deli / Bodega""",2,9,3,5,,{}
+50b87095e4b094f16ef0f8a7,ZSH GmbH Finanzdienstleistungen,49.4090490628489,8.67396968205393,"""Office""",0,124,5,1,http://www.zsh.de,{}
+4dc99af045ddacec2ca27d34,Guesthouse Heidelberg,49.4088083549026,8.68978641552108,"""Hotel""",3,158,51,4,http://www.guesthouse-hd.de,{}
+504219dfe4b0350e023511a7,Liselotte-Platz,49.4127234175297,8.70192312257046,"""Scenic Lookout""",0,6,6,2,,{}
+54ba6501498e9a61477dbbe5,Heidelberger Schloss,49.4100989,8.6911279,,0,1,1,0,,{}
+50520041e4b054396b48de5a,Stadtbibliothek Eppelheim,49.3948529800767,8.63237349725225,"""Library""",0,82,7,1,,{}
+4f1eaa77e4b01e4d578aa025,Ärztehaus West,49.3993322524939,8.69009837818228,"""Medical Center""",0,29,17,0,,{}
+4c49d6d5fbafc9286a8077db,Heidelberg iT / Rechenzentrum,49.4061879598736,8.64020681581866,"""IT Services""",0,16,4,0,,"{""rz, tech, it""}"
+4ee4a85e490141636a043441,Bismarcksäule,49.4162901036266,8.70054495242342,"""Historic Site""",0,29,16,2,,{}
+52cd9f6b498e99d486d00e4a,SickingenStraße,49.3839278,8.6883261,,0,2,2,0,,{}
+4b48e161f964a520725b26e3,Subway Eppelheim,49.4090186236878,8.62838745117188,"""Sandwich Place""",1,172,25,1,,{}
+4d1e25585c4ca1cd06ed8d3d,Qube Restaurant,49.4079269175783,8.68114686940505,"""Restaurant""",6,76,58,7,,{}
+4d1e25585c4ca1cd06ed8d3d,Qube Restaurant,49.4079269175783,8.68114686940505,"""Restaurant""",6,76,58,7,,{}
+56844aa2498e1315b229a791,Restaurant Classic Arena,49.40014,8.630033,"""German Restaurant""",0,2,1,0,,{}
+534005b5498e3b54772e3bf6,Neckarufer Heidelberg,49.4128160143681,8.70145082473755,"""Other Great Outdoors""",0,20,16,1,,{}
+4df8e266d4c02ad7341a09aa,Center Apotheke,49.3666645935187,8.68556872580796,"""Pharmacy""",1,44,17,0,,{}
+4f184713e4b0d14971880a70,Chez Pierre,49.4155521873161,8.67119550704956,"""Caf\u00e9""",0,26,14,1,,{}
+56cf6a98cd1053f87f1c1409,WEBPUTATION,49.410859,8.699718,"""Advertising Agency""",1,76,1,6,,{}
+501d589e16482a76c0f8b602,Parkhaus  Friedrich-Ebert-Platz,49.4084461974099,8.69863986968994,"""Parking""",0,6,6,0,,{}
+52c53565498eedc2a646f2cd,Standesamt,49.3953379291925,8.67067605929441,"""City Hall""",0,5,5,0,,{}
+506c3434e4b08b16975ebd32,Café Croissant,49.410536,8.699714,"""Bakery""",1,6,2,0,,{}
+50b1139fe4b00d9396afd0b0,Marktstraße,49.403559,8.64762,"""Light Rail Station""",0,18,10,0,,{}
+4da77b6243a12d0c263aac14,Kenzingen,49.416573,8.686789,,0,1,1,0,,{}
+4e907fd26c25abdcf4b8a640,OMV Tankstelle,49.395741770607,8.66925809855337,"""Gas Station""",0,74,45,1,,{}
+51444f73e4b0c80a2debf23e,H&M,49.4098344431083,8.69373123708797,"""Clothing Store""",0,184,112,1,http://www.hm.com/de,{}
+4f68d8dbe4b0141f19cbce4e,Kirchheim,49.3784120245177,8.66494277714222,"""Neighborhood""",1,316,113,9,,{}
+4d3ae43a687ca35dd62b8ec4,Frankfurt Niederrad,49.4122509067415,8.70598885894685,,0,8,8,0,,{}
+4d3ae43a687ca35dd62b8ec4,Frankfurt Niederrad,49.4122509067415,8.70598885894685,,0,8,8,0,,{}
+4e3fd03562e19d61098c4f16,H Odenwaldstraße,49.3792826288293,8.66962774274298,"""Light Rail Station""",0,450,36,7,,{}
+4eff1aff4fc6fc240ee4b847,H Bismarckplatz,49.4096189660279,8.69312524795532,"""Tram Station""",0,555,140,6,http://www.rnv-online.de/fahrplaene/aushangfahrplaene/buchstabe/P.html?no_cache=1,{}
+5012c8ebe4b06a7cda21e183,Ristorante Pizzeria Roseto,49.4177331065902,8.6587423288886,"""Italian Restaurant""",6,32,31,1,,{}
+5236bad5498eaa432ce78a3e,Orthopäde Dr. Bast,49.4174880981445,8.69100093841553,"""Doctor's Office""",0,5,4,0,,{}
+4e480a68483b03d090f54d58,Joe's Rock Cafe,49.3823009782209,8.69036196473672,"""Bar""",2,259,42,11,,{}
+523599a1498e62a282892516,Restaurant Poseidon,49.399109,8.689597,"""Greek Restaurant""",0,2,2,1,,{}
+4f4010d1e4b08cc3711e1169,Guesthouse Universität Heidelberg,49.4138913648654,8.67096659425328,"""Boarding House""",2,122,21,6,,{}
+52b83a6b498e07d1cb778ae8,Feuerwehrspielplatz,49.398145,8.671365,"""Playground""",0,8,3,4,,{}
+50747494498e74a4f6ae98d4,Mathematisches Institut,49.4171429565011,8.67154663667987,"""College Math Building""",0,211,17,2,http://www.mathi.uni-heidelberg.de,{}
+55453f0e498e5a61fac8bb22,Pizza Rapido,49.4000205993652,8.62836647033691,"""Italian Restaurant""",0,2,2,1,,{}
+4e8dec4ee5fa18aa8d4d52fa,Pinte,49.409361867769,8.67247476333715,"""German Restaurant""",0,87,43,4,,{}
+573dbbb7498ea3537076e58b,Deutsch Amerikanisches Freundschaftsfest,49.387072,8.68566,"""Festival""",0,2,2,0,"http://www.heidelberg.de/hd,Lde/deutsch-amerikanisches+freundschaftsfest.html",{}
+4fe5ef7de4b02db7aded6e97,Beachvolleyball,49.4122555331015,8.68475910267963,"""Volleyball Court""",0,6,5,1,,{}
+4d63d8354554a0937d39b6aa,Jumpinn,49.390721,8.672171,"""Playground""",3,96,68,10,http://www.jumpinn.de,"{"" minigolf"",soccer}"
+4d84a9acf9f3a1cdd0f8b964,Strohauer's Cafe Alt Heidelberg,49.410698,8.698275,"""Caf\u00e9""",9,234,195,17,,{}
+4ed5ce670e61cbb9391202f3,Dres. Sosna & Freudenberg,49.3802257701382,8.68708237279238,"""Doctor's Office""",0,23,3,0,,{}
+57069084cd1068fe9ffd32cc,NEO Bar and Restaurant,49.4019445232739,8.67196702132156,"""Steakhouse""",2,23,13,7,http://www.neo-heidelberg.de,{}
+4e556716b0fb1e5686be1d02,Emmertsgrund,49.3666410500038,8.70321035385132,"""Neighborhood""",1,133,39,8,,{}
+52cbf1de498ed462191787db,Mahlzahn,49.4145868760703,8.69046314186384,"""Bakery""",0,13,4,1,,{}
+52cbf1de498ed462191787db,Mahlzahn,49.4145868760703,8.69046314186384,"""Bakery""",0,13,4,1,,{}
+4c0944b5009a0f474177e7bf,Cafe Central,49.401548634149,8.62843036651611,"""Caf\u00e9""",0,163,15,2,,{}
+52d92225498e14a2c41722ae,Lotsen Für Digitales@Mannheim,49.4051522136765,8.69370410190356,"""Tech Startup""",0,1,1,0,,{}
+4bfba8ecd0382d7fefe2c90a,Café Frisch,49.3943115501868,8.64490110454398,"""Bakery""",0,18,7,0,,{}
+501f8ef429a66b254e94e518,AS Heidelberg / Schwetzingen (38),49.3705534975951,8.63244295120239,"""Intersection""",0,20,14,0,,{}
+4bc7858093bdeee10f7a37ae,Schönberger Hof,49.4123509077526,8.70123658213744,"""Hotel""",0,20,13,1,,{}
+4ce1abc9ac908eece99d5a06,Großer Hörsaal der Chemie,49.4186061868545,8.6733505323297,"""University""",0,152,43,1,,{}
+4baa2ad5f964a520df4f3ae3,Schmelzpunkt Schokolade & Eiskrem,49.411056,8.701674,"""Ice Cream Shop""",16,535,317,44,http://www.schmelzpunkt-heidelberg.de,{}
+4c55978afd2ea59375fc012c,Rhein-Neckar-Fahrgastschifffahrt Hauptbüro,49.4129878131842,8.7013428622119,"""Harbor / Marina""",1,79,70,14,,{}
+523599a1498e62a282892516,Restaurant Poseidon,49.399109,8.689597,"""Greek Restaurant""",0,2,2,1,,{}
+4e157fe3d164535f061bb929,Restaurant Makedonia,49.387663620596,8.6645107231758,"""Mediterranean Restaurant""",1,31,25,1,,{}
+4ea3f2c0e3008f7d92b579c1,VINCIdue,49.4069925634352,8.68901255304894,"""Italian Restaurant""",0,73,45,3,,{}
+52b9f39a498eac5951dd2e3a,ÇINAY REZİDANS,49.3759231567383,8.66355323791504,"""Residential Building (Apartment / Condo)""",0,16,4,0,,{}
+522b787611d218d6d4edc399,Fischerfest Neuenheim,49.41465,8.690626,"""Event Space""",0,3,3,1,,{}
+522b787611d218d6d4edc399,Fischerfest Neuenheim,49.41465,8.690626,"""Event Space""",0,3,3,1,,{}
+4d84b60a50913704300e855b,tierklinik dr. med. vet. m. maurer,49.3969521857778,8.67262836334368,"""Hospital""",0,18,9,0,,{}
+56e28b32498e069c5691d982,Marsiliusarkaden,49.4132639170902,8.67045856971677,"""Corporate Amenity""",0,7,2,0,,{}
+4bf7dfce5ec320a103a187d3,RGH,49.3903085153744,8.66730127476788,"""General Entertainment""",0,4,4,1,,{}
+4cc9a1e80f7bef3b14997fdd,Alnatura,49.4016562085756,8.69109476583062,"""Organic Grocery""",1,94,33,1,http://www.alnatura.de,"{bio,biosupermarkt,organic}"
+4f4267e6e4b015f1bc88647e,H Peterskirche,49.4089901058997,8.70534510337857,"""Bus Stop""",0,181,32,5,,{}
+4bd01159046076b05e5a6f71,Bismarckplatz,49.4095765653748,8.69293628458066,"""Plaza""",10,6784,1670,129,,{}
+5703bdc6498e65474ea58919,Pfaffengrund Apotheke,49.39724,8.64594,"""Pharmacy""",0,2,2,0,,{}
+4ecf4e88e5faa5ec017a3025,Unique Spa,49.4093821179582,8.6726366798066,"""Gym / Fitness Center""",1,77,24,2,,{}
+4ecf4e88e5faa5ec017a3025,Unique Spa,49.4093821179582,8.6726366798066,"""Gym / Fitness Center""",1,77,24,2,,{}
+51d00dcd498e703fe6479742,Ernst-Walz-Brücke,49.4111187761905,8.67709732364476,"""Bridge""",0,188,55,15,,{}
+504c552ae4b0a6730a8fb02d,Gleis 1/2,49.411989852566,8.64154661269729,"""Platform""",0,59,23,1,,{}
+4db6c5b60437fa536a5dc495,Mango,49.4105742666795,8.69758980684649,"""Women's Store""",0,109,41,0,http://shop.mango.com/preHome.faces,{}
+52da478b498ee5f61ec12b2c,Bäckerei Seip,49.4053448953802,8.69043581547762,"""Bakery""",0,22,8,0,,{}
+4ffae0d8e4b0fb4a84dc14bd,Gleis 2/3,49.4037688058046,8.67557287216187,"""Platform""",0,272,86,0,,{}
+56fa5dc8498ea76d59b6acb6,DNA Vector Lab,49.4151125945027,8.67332193172298,"""Office""",0,137,5,0,,{}
+514c24b6e4b016e884739d7e,Backpacker Footwear & Travel,49.405469525466,8.67618954389435,"""Outdoor Supply Store""",2,25,7,1,http://www.backpacker-store.de,{}
+517d06e7e4b0a8be72aa19d4,Heidelberger Volksbank,49.415903,8.692064,"""Credit Union""",0,7,2,0,,{}
+50813f7be4b059457a3b0eb1,Indian Curry,49.4042854776296,8.684647279499,"""Indian Restaurant""",1,41,18,1,http://www.indian-curry.de,{}
+4b9e1a45f964a520d3ca36e3,Goldener Löwe,49.3989373604125,8.62714290618896,"""German Restaurant""",6,246,46,6,,{}
+4bcebf08fb84c9b67943243e,Kirchhoff-Institut für Physik,49.4163215224534,8.67165023015576,"""College Science Building""",1,460,56,16,,{}
+4f9fa482e4b0fc3ce3b97290,HfK Heidelberg,49.4024290881234,8.68263998539981,"""General College & University""",0,7,1,0,,{}
+4ca760cc76d3a0938bc60a6b,BAUHAUS,49.407199052801,8.6572615993149,"""Hardware Store""",1,518,169,5,http://www.bauhaus.info,{baumarkt}
+4d21ae904c4f60fce3eae4dc,Neckarwiese Heidelberg Neuenheim,49.4126840880921,8.69751490374324,"""Beach""",0,30,22,4,,"{beach,photobooth}"
+4c888931944e224bfa391d85,Friedrich-Ebert-Platz,49.4086140208901,8.69848614648637,"""Plaza""",0,364,167,15,,{}
+4cb739573ac93704a702da0a,Europäischer Hof,49.4081766522945,8.69519823155123,"""Hotel""",19,745,231,85,http://www.europaeischerhof.com,"{bar,bistro,garten,""gourmet essen"",hochzeiten,innengarten,luxushotel,""penthouse suite"",""pool auf dem dach"",restaurant,sonnenterasse,suiten,tagungen,wellness}"
+4cb739573ac93704a702da0a,Europäischer Hof,49.4081766522945,8.69519823155123,"""Hotel""",19,745,231,85,http://www.europaeischerhof.com,"{bar,bistro,garten,""gourmet essen"",hochzeiten,innengarten,luxushotel,""penthouse suite"",""pool auf dem dach"",restaurant,sonnenterasse,suiten,tagungen,wellness}"
+565c58e8498eccbbe632d51e,Rehamad,49.403651,8.67934,"""Medical Center""",0,2,2,0,,{}
+52da8b37498ec236fd7e83b5,MADE BY REWE,49.3839152903218,8.6788009517632,"""German Restaurant""",2,6,4,2,http://www.madebyrewe.com/standorte/heidelberg,{}
+4cc53f3480624688ca123b2f,Peugeot Rhein-Neckar,49.367176,8.676266,"""Automotive Shop""",0,32,17,4,,{}
+4b69e238f964a52013ba2be3,Heidelberg Marriott Hotel,49.409224496432,8.67265150485764,"""Hotel""",19,1623,738,14,http://www.marriott.com/hotels/travel/hdbmc-heidelberg-marriott-hotel/,{}
+4b69e238f964a52013ba2be3,Heidelberg Marriott Hotel,49.409224496432,8.67265150485764,"""Hotel""",19,1623,738,14,http://www.marriott.com/hotels/travel/hdbmc-heidelberg-marriott-hotel/,{}
+4e0ef5b662843e04afb07a17,TSG 78 Heidelberg,49.4180706844928,8.65853461437397,"""Soccer Field""",0,12,7,1,,{}
+4bb75eafef159c74e61477f7,Cocktail-Café REGIE,49.41111280929,8.70396137237549,"""Cocktail Bar""",12,394,273,14,http://www.regie-heidelberg.de,{}
+4e4fee7062844166699546cd,yolicious frozen yogurt,49.411014,8.69956,"""Ice Cream Shop""",3,45,32,5,,{}
+540b8171498e7fb90204addb,AL Hayat,49.4021307072822,8.67982871369253,"""Hookah Bar""",3,81,58,10,,{}
+4f4fba7ae4b05223bbc9d0d3,City Pizza & Kebap,49.4012259996077,8.63089541675645,"""Turkish Restaurant""",0,14,7,0,,{}
+561bca6f498eb3f7f58c2bdf,"Rother, Praxis am Markt",49.4033216949143,8.64733109627266,"""Miscellaneous Shop""",0,27,2,0,,{}
+4f6b5a5fe4b07199a931862f,Praxis Dr Diemel,49.382007598877,8.67135906219482,"""Doctor's Office""",0,14,5,0,,{}
+4d440bd43616b60c8407e0c2,NORDSEE,49.4103249313745,8.69686355019033,"""Seafood Restaurant""",2,201,161,15,http://www.nordsee.com,{}
+4facb017e4b027b735ffbeb8,"Theodore-Korner-strasse-15, Eppelheim-69214, Germany",49.4041976928711,8.6352653503418,"""Residential Building (Apartment / Condo)""",0,10,3,0,,{}
+56288c6f498ee1ce7fc16e0f,Dr. Christine Schröder,49.4080353726355,8.69106799693603,"""Miscellaneous Shop""",0,11,2,0,,{}
+503c6ab3e4b066d39d9f545a,Klaus-Tschira-Gebäude des Physikalischen Instituts,49.4164259824143,8.67344481203719,"""College Science Building""",1,196,13,4,,{}
+4d56e27f611aa35d30f84639,Die Kamera,49.4154171501442,8.6922609414863,"""Indie Movie Theater""",0,53,35,3,http://www.gloria-kamera-kinos.de,{}
+4e05e2ff52b165b7d7a42411,Serpa Markt,49.4057934868271,8.66036675700931,"""Grocery Store""",0,35,17,0,,{}
+5228743511d20c834123cf23,Heidelberger Zuckerladen,49.409593,8.703138,"""Dessert Shop""",0,14,14,1,,{}
+526c1db711d24ce2de94f7c3,Casa De Silvia,49.414541,8.692052,"""General Entertainment""",0,5,1,0,,{}
+4bdaa0943904a5930fe7469e,Media Markt Heidelberg,49.3963659184233,8.67736705352422,"""Electronics Store""",1,375,146,9,http://www.mediamarkt.de,"{apple,electronics}"
+4beba31e18389521c4fa0acf,SoccArena Heidelberg,49.393215405868,8.67036297350684,"""Soccer Field""",2,88,41,1,http://www.soccarena-hd.de,{}
+4beba31e18389521c4fa0acf,SoccArena Heidelberg,49.393215405868,8.67036297350684,"""Soccer Field""",2,88,41,1,http://www.soccarena-hd.de,{}
+4f1f21a8e4b01ff35178673d,Spedition Gieser,49.3679849820945,8.67323541934097,"""Miscellaneous Shop""",1,15,3,1,,{}
+5210877e498e8ae7a69bc5c6,Müller,49.4095099016279,8.69285336624259,"""Drugstore""",0,134,72,4,http://www.mueller.de,{}
+52f38ba311d2b3307e28505c,FlixBus Haltestelle,49.4038630561536,8.67662966251373,"""Bus Stop""",0,13,12,2,https://www.flixbus.de,{}
+4b2bd98af964a52057bc24e3,Baan Thai,49.3786929184251,8.68707064813157,"""Thai Restaurant""",4,50,25,2,http://www.baanthai-heidelberg.de,"{""all you can eat"",food,thai}"
+4dd6bce4e4cd37c8939a4c56,Eiscafe Capri,49.4145495915093,8.69220137978439,"""Ice Cream Shop""",1,72,47,1,,{}
+4bae49f1f964a520e69d3be3,Perkeo,49.4111116985182,8.70084555775663,"""German Restaurant""",6,482,390,35,,"{family,pub}"
+5391fefc498eedfc43202fa2,Rohrbach,49.3856886103719,8.68827181457636,"""Neighborhood""",0,165,26,0,,{}
+4d0fd06a71e8a1cdede47cbd,Bar D'Aix En Provence,49.4139095928489,8.69344187573822,"""Bar""",1,50,40,2,,{}
+4ca05c60542b224b562405a0,Patisserie La Flamm,49.4106070333333,8.6998704,"""Bakery""",8,120,66,8,,{}
+507973b6e4b02bab198327da,Philosophengarten,49.41513,8.700505,"""Garden""",0,77,67,18,,{}
+4c8790d4b504a1436b63b71c,TTS Headquarter,49.4110872629526,8.69101406873023,"""Office""",1,215,14,2,,{}
+5336ed81498e13310044152f,Chocami,49.4147541206985,8.69172134746819,"""Dessert Shop""",1,6,3,0,,{}
+57458344498edc4a357c5e8f,Schuhmacher Jürgen Bootz,49.414916,8.690996,"""Shoe Repair""",0,1,1,0,,{}
+528c9e64498e0ca79460a783,Mahlzeit,49.4071613916743,8.69191878552441,"""Burger Joint""",19,205,104,16,http://www.mahlzeit-hd.de,{}
+4edc72d37ee5e8e3e94647aa,Breer Dentist,49.4150329109557,8.69187318531906,"""Dentist's Office""",0,7,3,0,,{}
+50c7c071e4b049f737af9f92,Urban Kitchen,49.4076012804896,8.68859485656523,"""Sushi Restaurant""",25,645,381,34,http://www.myurbankitchen.de,"{arabian,asian,french,italian}"
+4d71080995acb1f74fa80eb9,Audi Zentrum Heidelberg,49.3973473174959,8.6808398291219,"""Automotive Shop""",0,49,31,1,http://www.audi-partner.de/de_partner/p_22829/de.html,{}
+555c9e30498ef57fbfc786d1,Reckitt Benckiser,49.4092770350692,8.67288823755524,"""Office""",0,19,12,1,,{}
+52a776cb11d2e760ad8d417f,Central Apotheke,49.4012553964257,8.63041520118713,"""Pharmacy""",0,3,2,0,,{}
+4e15a5c9091a2112063114cf,Sparkasse Heidelberg,49.4116852044748,8.70572090148926,"""Bank""",1,77,54,7,https://bankingportal.sparkasse-heidelberg.de,{}
+4e7c3d538877aac4a95e91ab,Heidelberg-Pfaffengrund/Wieblingen,49.3951682357445,8.64444527240809,"""Bus Station""",0,180,26,2,,{}
+4faac4ace4b0eb9e9440d69a,Turnerbund Gaststätte Delphi,49.3744151998682,8.70450699883851,"""Greek Restaurant""",0,19,9,2,,{}
+4c40af07ff711b8dbdc41005,Print Media Lounge,49.4048304202795,8.67729521333671,"""Lounge""",3,513,256,42,http://www.printmedialounge.de,{http://www.printmedialounge.de}
+4f87d999e4b09582a0d6d22d,Dr. Großhans,49.380943,8.68714,"""Dentist's Office""",0,20,3,0,,{}
+55fc0594498ef8eb4f392c7b,"Petra Herger, Podologin",49.4011834137991,8.64133064228596,"""Alternative Healer""",0,6,1,0,,{}
+533ab3ff498e412ae7674c3c,Cafe Balthazar,49.3993463349727,8.67100510194185,"""Caf\u00e9""",1,99,24,21,,{}
+4c0971e6009a0f473ec8e7bf,Rohrbach,49.3761839975209,8.6876131844313,"""Neighborhood""",0,181,80,8,,{}
+4b97f1baf964a5203c2135e3,The Dubliner Irish Pub,49.4112269548481,8.70236102235778,"""Irish Pub""",19,1052,679,69,http://www.dublinerheidelberg.com,{}
+523aa5bc11d2f90c4f847fc1,Praxis Dr. Wittmann,49.3811912536621,8.65751266479492,"""Doctor's Office""",0,5,1,0,,{}
+4c1cb4cd8b3aa5934c40995f,Philosophenweg,49.4165293549759,8.70469093322754,"""Scenic Lookout""",7,536,442,108,,{}
+543dbaa3498e00613203cf86,studentenwohnheim Römerstr 139,49.3855324216084,8.68682884911508,"""Assisted Living""",0,6,2,0,,{}
+54062600498ec4c3136f5b47,Heimatmuseum Rohrbach,49.3780002605992,8.69288384914398,"""History Museum""",0,3,3,1,http://www.hilfe-hd.de/rohrbach/romuseum.htm,{}
+54062600498ec4c3136f5b47,Heimatmuseum Rohrbach,49.3780002605992,8.69288384914398,"""History Museum""",0,3,3,1,http://www.hilfe-hd.de/rohrbach/romuseum.htm,{}
+4f477677e4b0a644eb87bf01,DKFZ Deutsches Krebsforschungszentrum,49.4142704824339,8.67210101991295,"""Building""",0,468,107,0,https://www.dkfz.de,"{""german cancer research center""}"
+4cc2c4d5b2beb1f7ede0114c,Bäckerei Göbes,49.4090027821723,8.70010050450083,"""Bakery""",0,16,11,1,http://www.nusszopf.de,{}
+4bd098a11f89ce7252b767ea,Hotel Acor,49.408821,8.704017,"""Hotel""",1,76,15,10,http://www.hotel-acor.de,{}
+5710923a498e00f31ee6dac4,Cella's Room,49.385603,8.686788,"""Housing Development""",0,5,2,0,,{}
+5710923a498e00f31ee6dac4,Cella's Room,49.385603,8.686788,"""Housing Development""",0,5,2,0,,{}
+526e9cb8498e3511278c06a7,Universitäts Frauenklinik,49.4170874726488,8.66217690569381,"""Hospital""",0,121,33,0,http://www.klinikum.uni-heidelberg.de/Universitaets-Frauenklinik.331.0.html,{}
+4fb1160fe4b0c546fb5d59d0,Fachschaft Jura Heidelberg,49.4073222427955,8.69523396502083,"""Law School""",0,30,6,0,,{}
+4d3d9143fb4c5481d42fde14,NCT - Nationales Centrum für Tumorerkrankungen,49.4187156448111,8.66448038692311,"""Hospital""",0,184,52,0,http://www.nct-heidelberg.de/de,{}
+51cff717498e6d35a2ee3249,Café Burkardt,49.4152083226265,8.69020823268361,"""Caf\u00e9""",0,4,4,0,,{}
+51cff717498e6d35a2ee3249,Café Burkardt,49.4152083226265,8.69020823268361,"""Caf\u00e9""",0,4,4,0,,{}
+4dc55e8118387d1bd53b48fc,Altstadt Heidelberg,49.4108894337488,8.70164394378662,"""Neighborhood""",12,2511,1559,209,http://www.heidelberg.de,{}
+54d671ac498e3c8c03767c50,Heidelberg,49.4082788741484,8.68188307364437,"""Dessert Shop""",0,6,6,0,,{}
+51ab7c6e498e290a274535c9,atzelhof,49.4230407749063,8.68765584720117,"""Housing Development""",0,6,4,0,,{}
+4ea0414ab80362c662a5bd4b,Cafe Creme,49.4017525261141,8.62971150577605,"""Cocktail Bar""",2,20,10,2,,{}
+54ee406c498e0b5daf44b477,john deere sales essentials training,49.387171,8.661345,"""College Engineering Building""",0,7,1,0,,{}
+4ca08804e9a7ef3b40165116,Heidelberger Stadtjuwelier,49.4145107735174,8.69229872200851,"""Jewelry Store""",0,16,3,0,,"{neuenheim,watches}"
+4d753f538e7188bf0a10ea48,Heidelberger Pädagogium,49.4159666481485,8.68967578221497,"""College Academic Building""",1,218,50,8,,{}
+53dcfc05498e6888292583c6,Macaronnerie,49.4086977150723,8.69381315275669,"""Cupcake Shop""",1,52,31,6,,{}
+4b8fcdf5f964a520296333e3,Universitätsbibliothek (Hauptbibliothek),49.4098458790937,8.70584113691455,"""College Library""",2,1592,440,74,http://www.ub.uni-heidelberg.de,{}
+50f3afdce4b04471628f416d,Zollamt Heidelberg,49.410345,8.637993,"""Government Building""",2,33,26,4,,{}
+50f3afdce4b04471628f416d,Zollamt Heidelberg,49.410345,8.637993,"""Government Building""",2,33,26,4,,{}
+4e1ed813887799f23ff28a7c,Studentenkarzer Heidelberg,49.4113152424962,8.70639950037003,"""Museum""",3,225,212,41,,{}
+4e44e648b0fb71d21987bc15,Olympiastützpunkt Rhein- Neckar,49.4229691360184,8.65966437319821,"""College Gym""",0,157,83,0,,{}
+55d6b7ff498ebcdc8514bc3b,AOK KC Heidelberg,49.4062140788047,8.68485254573231,"""Office""",0,60,4,0,,{}
+4f867ca2e4b0a7faca579d82,Dr. Huppertz (Orthopäde),49.4067606470244,8.69400179387909,"""Medical Center""",0,32,5,0,,{}
+5176fd89498ea4fd6affefe2,Leonie-Wild-Platz,49.404285,8.624749,"""Plaza""",0,2,2,0,,{}
+50dae534e4b0590916c3b991,Fody's,49.4141888672419,8.66111854257351,"""Fast Food Restaurant""",0,9,8,0,,{}
+4c17c4df1436a59329568c75,SRH Campus Sports,49.4127877852538,8.65365157074375,"""College Gym""",0,76,12,0,,{}
+536dfefc498ec24b88c5f810,blumen fee,49.4035938224777,8.6754139952689,"""Flower Shop""",1,3,1,0,,{}
+4e7cd2cdc65bcf47eb251cf7,Gelati Caffee Bar,49.411675,8.706432,"""Ice Cream Shop""",0,43,42,2,,{}
+562fbb0a498ec9bdf0fd680a,Annas Unverpacktes,49.4144008662435,8.69203020727782,"""Organic Grocery""",0,3,3,0,,{}
+520cd69f11d2486ccddf8f8f,Heinsteinwerk,49.4089053648601,8.65976496882602,"""Office""",0,7,4,0,,{}
+4d0797aea2685481d486c7bd,Eissporthalle Eppelheim,49.3957688042358,8.63607172229879,"""Skating Rink""",0,75,42,0,,{}
+55e6260f498ee6ec17bbf4d4,Pfaffengrund,49.3958931005107,8.6446144594125,"""Neighborhood""",0,8,7,0,,{}
+4dfb0ad0ae60c9cdd3887c10,Finanzamt Heidelberg,49.4223221636802,8.64242076873779,"""Government Building""",1,86,29,2,http://www.fa-heidelberg.de,{}
+4f2640d8e4b063d402569350,Hotel Perkeo,49.4110040420719,8.70088503147766,"""Hotel""",1,25,18,2,http://www.schoenbergerhof.de/index.php/de/hotel-perkeo-3,{}
+4f2640d8e4b063d402569350,Hotel Perkeo,49.4110040420719,8.70088503147766,"""Hotel""",1,25,18,2,http://www.schoenbergerhof.de/index.php/de/hotel-perkeo-3,{}
+4da007f15970b1f7134a511e,Fischer Reinigung,49.3801787755109,8.68790193668117,"""Dry Cleaner""",0,58,6,0,,{}
+4f0da623e4b0281b8c7df3fa,Ginsburg,49.407619811345,8.69486027239864,"""Cocktail Bar""",8,716,148,18,,{}
+55c6482c498ec4095b9ffb8f,upper glass,49.4096137988891,8.68360040340128,"""Beer Store""",0,6,4,0,,{}
+4bd12a0bcaff9521a05ed0f0,Alte Frauenklinik Heidelberg,49.4089347253569,8.68717592881281,"""Hospital""",0,44,25,0,http://www.klinikum.uni-heidelberg.de/Umzug-Frauenklinik.132550.0.html,{}
+52d97007498ef534d5f75caa,Lotsen Für Digitales@Heidelberg,49.40398526809,8.69291084779277,"""Tech Startup""",0,9,1,1,,{}
+4d6570cd072a6ea83f62fd4d,Stern Apotheke,49.4076677726674,8.68450684369486,"""Pharmacy""",1,15,10,0,,{}
+521f388411d27d506240f259,Kaffeezimmer,49.4024137065335,8.66713041334547,"""Coffee Shop""",5,136,25,18,http://www.kaffeezimmer.de/home.html,{}
+5065e78fe4b0b3a2e9f96d67,IGH Sporthalle,49.376755,8.677764,"""College Gym""",0,23,4,0,,{}
+547d456f498e43be5a99e572,Heidelberg Marriott Gym,49.4092945628694,8.67245670441231,"""Athletics & Sports""",0,16,5,0,,{}
+55f17800498e0fbe2c1aa7e1,AWO-Seniorenzentrum,49.3945454466386,8.6442335322198,"""Building""",0,186,4,0,,{}
+57475960498e07ee4012a9b7,Дома,49.423395,8.679934,"""Residential Building (Apartment / Condo)""",0,14,2,0,,{}
+510f74ebe4b048d88f9f4745,Riegler,49.4100226480606,8.69305792353783,"""Bakery""",1,38,23,2,,{}
+4f68965ae4b0fef78fcc338c,Akademie für Gesundheitsberufe,49.4089181725495,8.65933530572051,"""General College & University""",0,224,8,0,http://www.afg-heidelberg.de,{}
+567427a2498ee87f450b32d5,Dunkin Donuts,49.4099284232845,8.69505563418047,"""Donut Shop""",0,12,9,2,,{}
+53ca3546498e2b1d2bf2bb2f,DJK Eppelheim,49.406127,8.625205,"""Sports Club""",0,3,2,0,,{}
+4ca8933744a8224ba8c01840,Kerwe Eppelheim,49.4013623485959,8.63065551975493,"""General Entertainment""",0,15,11,0,,{}
+50c0e867e4b007d158b57339,H Czernybrücke,49.406699,8.671078,"""Tram Station""",0,79,32,0,,{}
+4d0cf585e0b98cfa36b6d893,Chocami,49.4145959401292,8.691446185112,"""Caf\u00e9""",0,5,4,0,http://www.chocami.de,"{gebäck,hochzeitstorten,moussetörtchen,pralinen,schokolade,tartes,torten}"
+4fbb1b68e4b0c7f68a63e351,Quartier am Turm,49.3817287529526,8.6805723562888,"""Building""",0,10,4,3,,{}
+57458344498edc4a357c5e8f,Schuhmacher Jürgen Bootz,49.414916,8.690996,"""Shoe Repair""",0,1,1,0,,{}
+528b44ea11d23336a5fa8e1f,Bürgeramt (Rathaus) Rohrbach Heidelberg,49.3789324570419,8.69179870920057,"""City Hall""",0,9,7,0,"http://www.heidelberg.de/hd,Lde/HD/Rathaus/Behoerdenwegweiser.html?amtsID=837521",{}
+4ddd80227d8bb03c069f3aff,Rossini,49.4137139478757,8.69367267033452,"""Italian Restaurant""",5,77,53,7,http://www.rossini-heidelberg.de,{}
+4c373e5edfb0e21e955daca8,Florian Steiner Kaffee,49.415895,8.69049693333333,"""Caf\u00e9""",10,325,121,15,http://www.floriansteiner.com,{}
+4ef6040d8b81ef98cf89d0e7,St. Johannes Kirche,49.4146636292679,8.6904705515113,"""Church""",0,7,5,0,,{}
+4ffa930ae4b05369d149bf47,Gleis 9/10,49.4031575225371,8.6754018535367,"""Platform""",0,78,18,2,,{}
+5198d487498edb9fbc2cdd53,Eichendorff Anlage,49.4156368373597,8.70028264368237,"""Park""",0,2,2,1,,{}
+573efb8a498e67a3a09164a8,alfatraining Bildungszentrum,49.403541,8.67891,"""School""",0,3,1,0,,{}
+560ced29498e74a6f94ccc3e,DOKTOR DING,49.3773994445801,8.66695880889893,"""Doctor's Office""",0,1,1,0,,{}
+5165033be4b0baf4d88782e7,Curagita AG,49.403491126854,8.68253013858392,"""Office""",0,1092,12,3,http://www.curagita.com,{}
+4e4b94ba483bb8f059936acf,Rossmann Express,49.4041977749064,8.67588821273384,"""Drugstore""",3,100,29,0,http://www.rossmann.de,{}
+5097ebade4b07ae1b8ea3e4f,Geschwister-Scholl-Schule,49.3835861412793,8.66699758565625,"""General College & University""",0,80,4,2,,{}
+5097ebade4b07ae1b8ea3e4f,Geschwister-Scholl-Schule,49.3835861412793,8.66699758565625,"""General College & University""",0,80,4,2,,{}
+4e4d29471520a0ce7f8e78a0,Physikalisches Institut der Universität Heidelberg,49.414784399078,8.69533002376556,"""College Academic Building""",0,139,26,4,,{}
+561a6c92498eb6bec4099f99,Studentenwohnheim 662,49.4204966043674,8.66382273074389,"""College Residence Hall""",0,26,6,0,,{}
+51335b1fe4b097f2d1d81e78,Sofra Döner & Pizza,49.3844019971761,8.66704117608737,"""Turkish Restaurant""",2,26,10,0,,{}
+51335b1fe4b097f2d1d81e78,Sofra Döner & Pizza,49.3844019971761,8.66704117608737,"""Turkish Restaurant""",2,26,10,0,,{}
+53135d89498e06c8de6454a6,Holiday Inn Express,49.4052482280371,8.68601293856807,"""Hotel""",7,466,241,3,http://www.ihg.com/holidayinnexpress/,{}
+4c407f214a3e03bbeaf46d0e,o2 Partner Shop,49.41056,8.69556,"""Mobile Phone Shop""",0,1,1,0,http://o2.de,{}
+5198d186498e5e1d8225699a,Oberer Philosophenweg,49.4166670246281,8.70305429469623,"""Trail""",0,3,3,0,,{}
+4db6540793a017099dfe85ec,Nierenzentrum Universitätsklinik Heidelberg,49.4141826570073,8.66704664077437,"""Hospital""",0,425,27,0,,{}
+4cdd8b2cffcf37040d2c0c82,Deutsche Post,49.4050991535187,8.67681205272675,"""Post Office""",0,96,35,0,,{}
+4ed5339f8b81e32245d3562d,Guidos Schweinebraterei,49.404122,8.633245,"""BBQ Joint""",0,3,2,0,,{}
+4ed687880e01b2ee6a3eb487,Sporthalle,49.4040500248496,8.63322604616782,"""College Stadium""",0,3,3,0,,{}
+5710d56f498e0859e9332caf,my way,49.408655,8.69053,"""Clothing Store""",0,2,1,0,,{}
+4d91b809f5388cfaeb9fba3d,Pädagogische Hochschule Heidelberg,49.4201487364055,8.68395557632281,"""College Academic Building""",0,167,52,9,,"{altbau,""alte ph""}"
+4ea90d256da1bfeaab4824a6,Deutsche Kantine Campbell Bks,49.3861528730565,8.68315067228235,"""German Restaurant""",0,87,15,0,,{}
+5538c878498e6d2422698d03,Dialyse Zentrum Wieblingen Praxis f. Nieren - und Hochdruckerkrankung,49.422605,8.643123,"""Doctor's Office""",0,3,1,0,,{}
+5541d8e3498ece80e058d485,Heinrich-Fuchs-Straße 105,49.379123,8.675465,"""Housing Development""",0,9,2,0,,{}
+5541d8e3498ece80e058d485,Heinrich-Fuchs-Straße 105,49.379123,8.675465,"""Housing Development""",0,9,2,0,,{}
+4fe44e8fe4b03373385b1bbf,Mantei (Dehner),49.404294,8.647906,"""Bakery""",0,12,3,0,,{}
+507b2591e4b01b417b1ec2d2,H Bethanien Krankenhaus,49.392242,8.69015,"""Tram Station""",0,64,19,0,,{}
+50895167e4b023ef49a0e984,H Technologiepark,49.4193147553199,8.67601262539902,"""Bus Stop""",0,100,38,0,,{}
+4ef20b0293adff223dfd9db7,Hairclub10,49.3810620393044,8.6709384949205,"""Salon / Barbershop""",0,30,6,0,,{}
+4c8b6f90770fb60cc9bbdbc3,GelaTo Go,49.411362,8.702994,"""Ice Cream Shop""",32,667,294,36,http://www.gelatogo.de,{}
+4be15f970365c9b62971b338,Universitäts-Hautklinik,49.4170039722482,8.66276264190674,"""Hospital""",0,35,17,0,http://www.klinikum.uni-heidelberg.de/Hautklinik.113977.0.html,{}
+528660c2498e6b733be85147,dm-drogerie markt,49.3835656277228,8.67895601190921,"""Drugstore""",0,29,16,0,http://www.dm.de,{}
+4b7ffeb2f964a520734930e3,denn’s Biomarkt,49.4040979892581,8.6889777382049,"""Health Food Store""",3,212,45,2,http://www.denns-biomarkt.de,{}
+56c1d9adcd109a5be84d6c05,Kongreßhaus,49.412979,8.70283,"""Bus Stop""",0,2,1,1,,{}
+4bc70a7b92b376b0b5ec4e3a,Heidelberg MEDDAC,49.3749453946186,8.68681909772662,"""Pharmacy""",2,176,40,3,,"{army,""army, us, military, post"",office}"
+4bc70a7b92b376b0b5ec4e3a,Heidelberg MEDDAC,49.3749453946186,8.68681909772662,"""Pharmacy""",2,176,40,3,,"{army,""army, us, military, post"",office}"
+4d94acdf1231b60c5d5a7fa1,Bahnhof HD-Weststadt/Südstadt,49.3984854988132,8.68883710226002,"""Train Station""",0,1125,195,21,http://www.bahnhof.de,{}
+513218c8e4b0ed2727f025f7,Leinpfad,49.413924,8.701183,"""Trail""",0,5,5,0,,{}
+5304ac02498ef5fb37a0224e,M Studio Pilates,49.3825082833136,8.68135835403428,"""Pilates Studio""",0,14,2,0,,{}
+5704cdd1498e368be83b63d8,Buchwaldweg,49.3732382458291,8.70370910573369,"""Neighborhood""",0,7,1,2,,{}
+5704cdd1498e368be83b63d8,Buchwaldweg,49.3732382458291,8.70370910573369,"""Neighborhood""",0,7,1,2,,{}
+4d9c4d5709c0a1cd434fb52b,pro event live-communication,49.404377,8.638166,"""Office""",1,41,8,14,https://proevent.net,"{"" event agentur"","" kommunikation"","" medien produktion"","" social media"",""live kommunikation""}"
+542d4c1d498e82ccab231b9b,Institut für organische Chemie,49.4168266647519,8.67226766319776,"""College Lab""",0,3,3,0,,{}
+55915875498e96eb5943e67f,Jugendhof Heidelberg,49.371573477405,8.68366241455078,"""Farm""",0,2,1,2,http://www.jugendhof-heidelberg.de,{}
+561bca6f498eb3f7f58c2bdf,"Rother, Praxis am Markt",49.4033216949143,8.64733109627266,"""Miscellaneous Shop""",0,27,2,0,,{}
+4c1ca72f63750f4754ddb667,Vio's Hähnchen Grill,49.383076,8.682132,"""Fried Chicken Joint""",0,45,15,1,,"{drinks,fast,food}"
+4be5343e2457a593f13cab15,Neue Kinderklinik,49.4178869105998,8.66227984936587,"""Hospital""",0,252,78,0,http://www.klinikum.uni-heidelberg.de/Zentrum-fuer-Kinder-und-Jugendmedizin-Startseite.106862.0.html,{}
+4da84c5ef7b12d2d9a079af5,Breitwieser,49.3666480369877,8.68397376600424,"""Department Store""",0,75,33,0,,{}
+4c40b3d8d7fad13a9c6606da,Gaisbergstr.,49.4039176,8.6929196,"""Building""",0,124,17,1,,{}
+568b679d498ede80adbd35b9,Augenpraxisklinik-Heidelberg,49.4055494653463,8.68717213732388,"""Eye Doctor""",0,63,1,0,,{}
+536c0aa4498eb3d8eb72904e,Rohrbach,49.3871303504828,8.68402114373485,"""Neighborhood""",0,9,8,0,,{}
+5360bdfb498e15d0b8f7b929,Institut für Ethnologie,49.4144214821341,8.69460264681044,"""College Academic Building""",0,3,1,0,,{}
+519ba2f4498e702884bac97a,H Montpellierbrücke,49.400539064525,8.67831198801948,"""Tram Station""",0,17,5,0,,{}
+4ed238e60aafd18691147dc0,Hölderlin-Gymnasium,49.4084461306678,8.70034508314825,"""High School""",0,6,5,0,,{}
+50fd948ce4b03e4eb6b2d6a9,Hotel Heidelberg Restaurant,49.3759600985348,8.66093005681588,"""Restaurant""",0,21,12,4,,{}
+4c07dacb708c2d7f0099ca63,Don Robert,49.4061505794525,8.679145,"""Spanish Restaurant""",4,101,58,4,http://www.don-robert.com,{}
+4c435222ff711b8d0dcb1405,Gaststätte Essighaus Heidelberg,49.4094880780621,8.70364218950272,"""German Restaurant""",4,122,92,13,http://www.essighaus-heidelberg.de,{}
+4d63d506fbc441bd42e82541,Golf Club Rheintal e.V.,49.3878051552396,8.68368132936406,"""Golf Course""",0,18,6,0,http://www.golf.de,{}
+524b474211d24378252f11b9,Bei Micha,49.3727626518217,8.70336262552563,"""Dive Bar""",1,12,2,0,,{}
+4c35c8f9a0ced13a3c471a6e,Universitätsplatz,49.4112959938354,8.70603767223303,"""Plaza""",2,2084,890,113,,{}
+4fcf61153ac6d9ec990371b3,Lidl,49.4166154345244,8.69186523851671,"""Supermarket""",0,48,26,1,http://www.lidl.de,{}
+4caad016f47ea143484c8621,dm-drogerie markt,49.4042613246443,8.64675486741482,"""Drugstore""",0,101,16,0,http://www.dm.de,{}
+4c0ff6c03ce120a1df50071c,Kupferkanne,49.4114191875913,8.705199734737,"""German Restaurant""",1,20,19,1,,{}
+4faa53b0e4b0560131a6466e,Volkshochschule Heidelberg VHS,49.4078742667802,8.68069116444314,"""Community College""",0,353,52,18,http://www.vhs-hd.de,{}
+4be57adbbcef2d7fe3d003e5,Cafe auf Salem Krankenhaus,49.423149,8.68388,"""Cafeteria""",0,4,4,0,,{}
+518fc80f498e1e45f8c06a14,Willy-Brandt-Platz,49.4037237114489,8.67601130569792,"""Plaza""",0,13,11,0,,{}
+4db96ef80cb6ddfae434652e,Wasser- und Schifffahrtsamt Heidelberg,49.4035213867558,8.67478378339531,"""Government Building""",0,2,2,0,,{}
+4bb5aede1344b713c2899c04,Siegel Backhaus,49.40160678324,8.62935267246072,"""Bakery""",0,21,9,0,,{}
+4eff27174fc6fc240ee5f1fe,Brückenparfümerie,49.4149309777602,8.69205236434937,"""Cosmetics Shop""",0,1,1,0,,{}
+4e3d3644d164b52911a93ef9,dean&david,49.4082507332498,8.69168758392334,"""Salad Place""",6,315,163,19,http://deananddavid.de,{}
+4e2db80b14955dbf7af198c9,Dorfschänke,49.4141638241526,8.6901629050469,"""German Restaurant""",3,29,24,4,http://www.dorfschaenke-hd.com,{}
+4c41968dd7fad13a7bbc07da,Deine Idee,49.4101738929749,8.69995415210724,"""Arts & Crafts Store""",0,37,23,0,,{}
+4ff5138500ca1ba34eb7f34b,Aula der Alten Universität,49.41143,8.70612,"""General College & University""",0,25,25,5,,{}
+4c322c1f7cc0c9b6c9dbef9a,New Shanghai,49.407904,8.692544,"""Chinese Restaurant""",3,153,86,7,,{}
+557adaf8498e69ecb7383861,Mountain Warehouse,49.4107940439477,8.69137321398101,"""Outdoor Supply Store""",0,5,4,0,http://www.mountainwarehouse.com/stores/europe/heidelberg/,{}
+52ce5fde498e637495568515,Kurfürst Friedrich Gymnasium,49.4119730623367,8.69108263095991,"""High School""",0,8,1,0,,{}
+51712b95e4b01c6012078d0c,DHBW Mannheim/Eppelheim,49.4081669626572,8.62725019454956,"""University""",0,21,3,13,,{}
+509197e7e4b0bbdbb09ad2b8,Gemeindehaus St. Franziskus,49.3998997963331,8.63089884753508,"""Building""",1,7,2,0,,{}
+4d91e23d1e8788bf5c1d4c05,Klinik Sankt Elisabeth,49.4214825604946,8.68185890199104,"""Hospital""",2,110,43,0,http://www.sankt-elisabeth.de,{}
+4d23794c3c026ea86fc6834e,Chirurgische Universitätsklinik,49.412606817907,8.67274457459712,"""Hospital""",2,765,211,0,http://www.klinikum.uni-heidelberg.de/Chirurgische-Klinik.1010.0.html,{}
+52f83565498e4e694618ca22,Kindergarten Pusteblume,49.3740118440139,8.68385821543624,"""Nursery School""",0,5,4,0,http://www.pusteblume-heidelberg.de,{}
+4b79af64f964a520ff0a2fe3,Hip-Hotel,49.4117344589948,8.70451631694987,"""Hotel""",9,163,96,26,http://www.hip-hotel.de,{}
+4e95ef1bb634ee03e6594d5c,Cube - eat & meet,49.4129157319264,8.65447591199184,"""College Cafeteria""",1,165,62,3,,{}
+4c7f8d73d51ea1434bd15a9f,Das Depot,49.411137,8.701386,"""Furniture / Home Store""",0,95,63,1,http://www.depot-online.com,{}
+4eff19c24fc6fc240ee4969e,H Adenauerplatz,49.4077341456518,8.69293212890625,"""Tram Station""",0,322,70,1,,{}
+50eaaf58011ce48ad746e857,Donner & Doria Public Relations,49.4049835742205,8.69359731674194,"""Design Studio""",0,4,2,0,http://www.donner-doria.de,{}
+4d56d2c7143ca093b742c0fc,Indian Palace,49.3812245079401,8.6894196005833,"""Indian Restaurant""",4,73,42,3,http://indian-palace-heidelberg.de,"{"" heidelberg"","" palace"","" restaurant"","" rohrbach"",indian}"
+4c83ed9e2f1c236a79564743,Burger King,49.4048980449215,8.67574287835097,"""Fast Food Restaurant""",3,213,129,3,http://www.burgerking.de,{}
+4d14b2b18312236aab684cba,Christuskirche,49.4015416229937,8.68540679284281,"""Church""",1,52,31,5,,{}
+4ed2cfd9cc219860fa5790fd,Europahaus III,49.4092800653582,8.70404042453641,"""College Residence Hall""",0,13,7,0,,{}
+4cc9b580e7926dcb596d5e77,Saturn,49.4106543852035,8.69381883480836,"""Electronics Store""",1,416,224,9,http://www.saturn.de,{}
+4dbd3defcda109aa6cae8667,Schwarzer Walfisch,49.4057692092268,8.6891464017667,"""Restaurant""",13,464,146,13,http://www.schwarzerwal.de,{}
+5527bd6d498e17c66662e947,Oh Angie!,49.38368679512,8.68596058986039,"""Bistro""",0,14,10,4,http://oh-angie.de/heidelberg,{}
+53763c7b498e0ed61bb1e87f,H Bismarkplatz,49.420133456502,8.69015978580194,"""Light Rail Station""",0,13,6,0,,{}
