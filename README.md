@@ -5,6 +5,11 @@ Public repository of the [Link-VGI](http://www.geog.uni-heidelberg.de/gis/link_v
 
 14 June, 2016. Helsinki, Finland
 
+In case you find the materials of this page useful to incorporate them in your research, the authors appreciate citations to the following article:
+
+Juhász L, Rousell A, Jokar Arsanjani J. Technical Guidelines to Extract and Analyze VGI from Different Platforms. Data. 2016; 1(3):15. [doi:10.3390/data1030015](http://dx.doi.org/doi:10.3390/data1030015)
+
+
 ## Hands-on exercises
 
 The purpose of the hands-on session is to cover the basics of interacting with APIs and to extract summary statistics from the datasets acquired.
